@@ -4,17 +4,14 @@
 **Institution:** Clarkson University  
 
 ---
-
-**Snapshot**
-images/democracy_map.png
-
----
 ## Project Overview
 This project develops an interactive Tableau Public visualization examining global democracy patterns from 2006 to 2024.  
 The analysis follows the IA 640 analytical framework and applies principles of data abstraction, encoding, and visual design to effectively communicate complex temporal and spatial information.
 
 **Live Visualization:**  
 [View on GitHub Pages](https://thooms-coder.github.io/Democracy_Index/)
+
+![Preview](images/democracy_map.png)
 
 ---
 
