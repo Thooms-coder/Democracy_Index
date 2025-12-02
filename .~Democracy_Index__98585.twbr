@@ -1,0 +1,968 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20252.25.0514.2217                               -->
+<workbook original-version='18.1' source-build='2025.2.0 (20252.25.0514.2217)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MapboxVectorStylesAndLayers />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <_.fcp.PatternedLineMarks.true...PatternedLineMarks />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource hasconnection='false' inline='true' name='Parameters' version='18.1'>
+      <aliases enabled='yes' />
+      <column caption='Forecast Period' datatype='datetime' name='[Parameter 1]' param-domain-type='any' role='measure' type='quantitative' value='#2024-01-01 00:00:00#'>
+        <calculation class='tableau' formula='#2024-01-01 00:00:00#' />
+      </column>
+    </datasource>
+    <datasource inline='true' name='Clipboard_20251201T034321' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Clipboard_20251201T034321' name='Clipboard_20251201T034321leaf'>
+            <connection class='textscan' directory='/Users/mutsamungoshi/Documents/My Tableau Repository/Datasources' filename='Clipboard_20251201T034321.txt' />
+          </named-connection>
+        </named-connections>
+        <relation connection='Clipboard_20251201T034321leaf' name='Clipboard_20251201T034321#txt' table='[Clipboard_20251201T034321#txt]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator='='>
+            <column datatype='string' name='IF (Source) ' ordinal='0' />
+            <column datatype='string' name='&quot;forecast&quot; THEN (Value)' ordinal='1' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Clipboard_20251201T034321#txt]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;=&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='quote-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>IF (Source) </remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[IF (Source) ]</local-name>
+            <parent-name>[Clipboard_20251201T034321#txt]</parent-name>
+            <remote-alias>IF (Source) </remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Clipboard_20251201T034321]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>&quot;forecast&quot; THEN (Value)</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[&quot;forecast&quot; THEN (Value)]</local-name>
+            <parent-name>[Clipboard_20251201T034321#txt]</parent-name>
+            <remote-alias>&quot;forecast&quot; THEN (Value)</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Clipboard_20251201T034321]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='IF (Source)' datatype='string' name='[IF (Source) ]' role='dimension' type='nominal' />
+      <column caption='Clipboard_20251201T034321' datatype='table' name='[__tableau_internal_object_id__].[Clipboard_20251201T034321]' role='measure' type='quantitative' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='/var/folders/4m/_fg19tl1739c5j7rvwwqvy3m0000gn/T/tableau-temp/#TableauTemp_0wzuqcn0lpo1cy1ashlys077u25h.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='12/01/2025 08:43:21 AM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>IF (Source) </remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[IF (Source) ]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>IF (Source) </remote-alias>
+              <ordinal>0</ordinal>
+              <family>Clipboard_20251201T034321#txt</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>&quot;forecast&quot; THEN (Value)</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[&quot;forecast&quot; THEN (Value)]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>&quot;forecast&quot; THEN (Value)</remote-alias>
+              <ordinal>1</ordinal>
+              <family>Clipboard_20251201T034321#txt</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='Clipboard_20251201T034321' id='Clipboard_20251201T034321'>
+            <properties context=''>
+              <relation connection='Clipboard_20251201T034321leaf' name='Clipboard_20251201T034321#txt' table='[Clipboard_20251201T034321#txt]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator='='>
+                  <column datatype='string' name='IF (Source) ' ordinal='0' />
+                  <column datatype='string' name='&quot;forecast&quot; THEN (Value)' ordinal='1' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+    <datasource caption='final_democracy_forecast_clean' inline='true' name='federated.13bx66x1le8dcw1957fgy06f5drb' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='final_democracy_forecast_clean' name='textscan.0l59u850y49u4z13o8fml1mqms02'>
+            <connection class='textscan' directory='/Users/mutsamungoshi/Desktop/Democracy_Index' filename='final_democracy_forecast_clean.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0l59u850y49u4z13o8fml1mqms02' name='final_democracy_forecast_clean.csv' table='[final_democracy_forecast_clean#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='country' ordinal='0' />
+            <column datatype='date' name='ds' ordinal='1' />
+            <column datatype='real' name='value' ordinal='2' />
+            <column datatype='string' name='source' ordinal='3' />
+            <column datatype='string' name='regime' ordinal='4' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[final_democracy_forecast_clean.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>country</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[country]</local-name>
+            <parent-name>[final_democracy_forecast_clean.csv]</parent-name>
+            <remote-alias>country</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ds</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[ds]</local-name>
+            <parent-name>[final_democracy_forecast_clean.csv]</parent-name>
+            <remote-alias>ds</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>value</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[value]</local-name>
+            <parent-name>[final_democracy_forecast_clean.csv]</parent-name>
+            <remote-alias>value</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>source</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[source]</local-name>
+            <parent-name>[final_democracy_forecast_clean.csv]</parent-name>
+            <remote-alias>source</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>regime</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[regime]</local-name>
+            <parent-name>[final_democracy_forecast_clean.csv]</parent-name>
+            <remote-alias>regime</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Year' datatype='integer' name='[Calculation_5231353191787622400]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='YEAR([ds])' />
+      </column>
+      <column caption='Country Abbrev' datatype='string' name='[Calculation_5231353191793057793]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='CASE [country]&#10;    WHEN &quot;Afghanistan&quot; THEN &quot;AFG&quot;&#10;    WHEN &quot;Albania&quot; THEN &quot;ALB&quot;&#10;    WHEN &quot;Algeria&quot; THEN &quot;DZA&quot;&#10;    WHEN &quot;Angola&quot; THEN &quot;AGO&quot;&#10;    WHEN &quot;Argentina&quot; THEN &quot;ARG&quot;&#10;    WHEN &quot;Armenia&quot; THEN &quot;ARM&quot;&#10;    WHEN &quot;Australia&quot; THEN &quot;AUS&quot;&#10;    WHEN &quot;Austria&quot; THEN &quot;AUT&quot;&#10;    WHEN &quot;Azerbaijan&quot; THEN &quot;AZE&quot;&#10;    WHEN &quot;Bahamas&quot; THEN &quot;BHS&quot;&#10;    WHEN &quot;Bahrain&quot; THEN &quot;BHR&quot;&#10;    WHEN &quot;Bangladesh&quot; THEN &quot;BGD&quot;&#10;    WHEN &quot;Belarus&quot; THEN &quot;BLR&quot;&#10;    WHEN &quot;Belgium&quot; THEN &quot;BEL&quot;&#10;    WHEN &quot;Belize&quot; THEN &quot;BLZ&quot;&#10;    WHEN &quot;Benin&quot; THEN &quot;BEN&quot;&#10;    WHEN &quot;Bhutan&quot; THEN &quot;BTN&quot;&#10;    WHEN &quot;Bolivia&quot; THEN &quot;BOL&quot;&#10;    WHEN &quot;Bosnia and Herzegovina&quot; THEN &quot;BIH&quot;&#10;    WHEN &quot;Botswana&quot; THEN &quot;BWA&quot;&#10;    WHEN &quot;Brazil&quot; THEN &quot;BRA&quot;&#10;    WHEN &quot;Bulgaria&quot; THEN &quot;BGR&quot;&#10;    WHEN &quot;Burkina Faso&quot; THEN &quot;BFA&quot;&#10;    WHEN &quot;Burundi&quot; THEN &quot;BDI&quot;&#10;    WHEN &quot;Cambodia&quot; THEN &quot;KHM&quot;&#10;    WHEN &quot;Cameroon&quot; THEN &quot;CMR&quot;&#10;    WHEN &quot;Canada&quot; THEN &quot;CAN&quot;&#10;    WHEN &quot;Cape Verde&quot; THEN &quot;CPV&quot;&#10;    WHEN &quot;Central African Republic&quot; THEN &quot;CAF&quot;&#10;    WHEN &quot;Chad&quot; THEN &quot;TCD&quot;&#10;    WHEN &quot;Chile&quot; THEN &quot;CHL&quot;&#10;    WHEN &quot;China&quot; THEN &quot;CHN&quot;&#10;    WHEN &quot;Colombia&quot; THEN &quot;COL&quot;&#10;    WHEN &quot;Comoros&quot; THEN &quot;COM&quot;&#10;    WHEN &quot;Congo (Brazzaville)&quot; THEN &quot;COG&quot;&#10;    WHEN &quot;Congo (Kinshasa)&quot; THEN &quot;COD&quot;&#10;    WHEN &quot;Costa Rica&quot; THEN &quot;CRI&quot;&#10;    WHEN &quot;Croatia&quot; THEN &quot;HRV&quot;&#10;    WHEN &quot;Cuba&quot; THEN &quot;CUB&quot;&#10;    WHEN &quot;Cyprus&quot; THEN &quot;CYP&quot;&#10;    WHEN &quot;Czech Republic&quot; THEN &quot;CZE&quot;&#10;    WHEN &quot;Denmark&quot; THEN &quot;DNK&quot;&#10;    WHEN &quot;Djibouti&quot; THEN &quot;DJI&quot;&#10;    WHEN &quot;Dominican Republic&quot; THEN &quot;DOM&quot;&#10;    WHEN &quot;Ecuador&quot; THEN &quot;ECU&quot;&#10;    WHEN &quot;Egypt&quot; THEN &quot;EGY&quot;&#10;    WHEN &quot;El Salvador&quot; THEN &quot;SLV&quot;&#10;    WHEN &quot;Equatorial Guinea&quot; THEN &quot;GNQ&quot;&#10;    WHEN &quot;Eritrea&quot; THEN &quot;ERI&quot;&#10;    WHEN &quot;Estonia&quot; THEN &quot;EST&quot;&#10;    WHEN &quot;Eswatini&quot; THEN &quot;SWZ&quot;&#10;    WHEN &quot;Ethiopia&quot; THEN &quot;ETH&quot;&#10;    WHEN &quot;Fiji&quot; THEN &quot;FJI&quot;&#10;    WHEN &quot;Finland&quot; THEN &quot;FIN&quot;&#10;    WHEN &quot;France&quot; THEN &quot;FRA&quot;&#10;    WHEN &quot;Gabon&quot; THEN &quot;GAB&quot;&#10;    WHEN &quot;Gambia&quot; THEN &quot;GMB&quot;&#10;    WHEN &quot;Georgia&quot; THEN &quot;GEO&quot;&#10;    WHEN &quot;Germany&quot; THEN &quot;DEU&quot;&#10;    WHEN &quot;Ghana&quot; THEN &quot;GHA&quot;&#10;    WHEN &quot;Greece&quot; THEN &quot;GRC&quot;&#10;    WHEN &quot;Guatemala&quot; THEN &quot;GTM&quot;&#10;    WHEN &quot;Guinea&quot; THEN &quot;GIN&quot;&#10;    WHEN &quot;Guinea-Bissau&quot; THEN &quot;GNB&quot;&#10;    WHEN &quot;Guyana&quot; THEN &quot;GUY&quot;&#10;    WHEN &quot;Haiti&quot; THEN &quot;HTI&quot;&#10;    WHEN &quot;Honduras&quot; THEN &quot;HND&quot;&#10;    WHEN &quot;Hong Kong&quot; THEN &quot;HKG&quot;&#10;    WHEN &quot;Hungary&quot; THEN &quot;HUN&quot;&#10;    WHEN &quot;Iceland&quot; THEN &quot;ISL&quot;&#10;    WHEN &quot;India&quot; THEN &quot;IND&quot;&#10;    WHEN &quot;Indonesia&quot; THEN &quot;IDN&quot;&#10;    WHEN &quot;Iran&quot; THEN &quot;IRN&quot;&#10;    WHEN &quot;Iraq&quot; THEN &quot;IRQ&quot;&#10;    WHEN &quot;Ireland&quot; THEN &quot;IRL&quot;&#10;    WHEN &quot;Israel&quot; THEN &quot;ISR&quot;&#10;    WHEN &quot;Italy&quot; THEN &quot;ITA&quot;&#10;    WHEN &quot;Ivory Coast&quot; THEN &quot;CIV&quot;&#10;    WHEN &quot;Jamaica&quot; THEN &quot;JAM&quot;&#10;    WHEN &quot;Japan&quot; THEN &quot;JPN&quot;&#10;    WHEN &quot;Jordan&quot; THEN &quot;JOR&quot;&#10;    WHEN &quot;Kazakhstan&quot; THEN &quot;KAZ&quot;&#10;    WHEN &quot;Kenya&quot; THEN &quot;KEN&quot;&#10;    WHEN &quot;Kuwait&quot; THEN &quot;KWT&quot;&#10;    WHEN &quot;Kyrgyzstan&quot; THEN &quot;KGZ&quot;&#10;    WHEN &quot;Laos&quot; THEN &quot;LAO&quot;&#10;    WHEN &quot;Latvia&quot; THEN &quot;LVA&quot;&#10;    WHEN &quot;Lebanon&quot; THEN &quot;LBN&quot;&#10;    WHEN &quot;Lesotho&quot; THEN &quot;LSO&quot;&#10;    WHEN &quot;Liberia&quot; THEN &quot;LBR&quot;&#10;    WHEN &quot;Libya&quot; THEN &quot;LBY&quot;&#10;    WHEN &quot;Lithuania&quot; THEN &quot;LTU&quot;&#10;    WHEN &quot;Luxembourg&quot; THEN &quot;LUX&quot;&#10;    WHEN &quot;Madagascar&quot; THEN &quot;MDG&quot;&#10;    WHEN &quot;Malawi&quot; THEN &quot;MWI&quot;&#10;    WHEN &quot;Malaysia&quot; THEN &quot;MYS&quot;&#10;    WHEN &quot;Maldives&quot; THEN &quot;MDV&quot;&#10;    WHEN &quot;Mali&quot; THEN &quot;MLI&quot;&#10;    WHEN &quot;Malta&quot; THEN &quot;MLT&quot;&#10;    WHEN &quot;Mauritania&quot; THEN &quot;MRT&quot;&#10;    WHEN &quot;Mauritius&quot; THEN &quot;MUS&quot;&#10;    WHEN &quot;Mexico&quot; THEN &quot;MEX&quot;&#10;    WHEN &quot;Moldova&quot; THEN &quot;MDA&quot;&#10;    WHEN &quot;Mongolia&quot; THEN &quot;MNG&quot;&#10;    WHEN &quot;Montenegro&quot; THEN &quot;MNE&quot;&#10;    WHEN &quot;Morocco&quot; THEN &quot;MAR&quot;&#10;    WHEN &quot;Mozambique&quot; THEN &quot;MOZ&quot;&#10;    WHEN &quot;Myanmar&quot; THEN &quot;MMR&quot;&#10;    WHEN &quot;Namibia&quot; THEN &quot;NAM&quot;&#10;    WHEN &quot;Nepal&quot; THEN &quot;NPL&quot;&#10;    WHEN &quot;Netherlands&quot; THEN &quot;NLD&quot;&#10;    WHEN &quot;New Zealand&quot; THEN &quot;NZL&quot;&#10;    WHEN &quot;Nicaragua&quot; THEN &quot;NIC&quot;&#10;    WHEN &quot;Niger&quot; THEN &quot;NER&quot;&#10;    WHEN &quot;Nigeria&quot; THEN &quot;NGA&quot;&#10;    WHEN &quot;North Korea&quot; THEN &quot;PRK&quot;&#10;    WHEN &quot;North Macedonia&quot; THEN &quot;MKD&quot;&#10;    WHEN &quot;Norway&quot; THEN &quot;NOR&quot;&#10;    WHEN &quot;Oman&quot; THEN &quot;OMN&quot;&#10;    WHEN &quot;Pakistan&quot; THEN &quot;PAK&quot;&#10;    WHEN &quot;Panama&quot; THEN &quot;PAN&quot;&#10;    WHEN &quot;Papua New Guinea&quot; THEN &quot;PNG&quot;&#10;    WHEN &quot;Paraguay&quot; THEN &quot;PRY&quot;&#10;    WHEN &quot;Peru&quot; THEN &quot;PER&quot;&#10;    WHEN &quot;Philippines&quot; THEN &quot;PHL&quot;&#10;    WHEN &quot;Poland&quot; THEN &quot;POL&quot;&#10;    WHEN &quot;Portugal&quot; THEN &quot;PRT&quot;&#10;    WHEN &quot;Qatar&quot; THEN &quot;QAT&quot;&#10;    WHEN &quot;Romania&quot; THEN &quot;ROU&quot;&#10;    WHEN &quot;Russia&quot; THEN &quot;RUS&quot;&#10;    WHEN &quot;Rwanda&quot; THEN &quot;RWA&quot;&#10;    WHEN &quot;Saudi Arabia&quot; THEN &quot;SAU&quot;&#10;    WHEN &quot;Senegal&quot; THEN &quot;SEN&quot;&#10;    WHEN &quot;Serbia&quot; THEN &quot;SRB&quot;&#10;    WHEN &quot;Sierra Leone&quot; THEN &quot;SLE&quot;&#10;    WHEN &quot;Singapore&quot; THEN &quot;SGP&quot;&#10;    WHEN &quot;Slovakia&quot; THEN &quot;SVK&quot;&#10;    WHEN &quot;Slovenia&quot; THEN &quot;SVN&quot;&#10;    WHEN &quot;Somalia&quot; THEN &quot;SOM&quot;&#10;    WHEN &quot;South Africa&quot; THEN &quot;ZAF&quot;&#10;    WHEN &quot;South Korea&quot; THEN &quot;KOR&quot;&#10;    WHEN &quot;South Sudan&quot; THEN &quot;SSD&quot;&#10;    WHEN &quot;Spain&quot; THEN &quot;ESP&quot;&#10;    WHEN &quot;Sri Lanka&quot; THEN &quot;LKA&quot;&#10;    WHEN &quot;Sudan&quot; THEN &quot;SDN&quot;&#10;    WHEN &quot;Suriname&quot; THEN &quot;SUR&quot;&#10;    WHEN &quot;Sweden&quot; THEN &quot;SWE&quot;&#10;    WHEN &quot;Switzerland&quot; THEN &quot;CHE&quot;&#10;    WHEN &quot;Syria&quot; THEN &quot;SYR&quot;&#10;    WHEN &quot;Taiwan&quot; THEN &quot;TWN&quot;&#10;    WHEN &quot;Tajikistan&quot; THEN &quot;TJK&quot;&#10;    WHEN &quot;Tanzania&quot; THEN &quot;TZA&quot;&#10;    WHEN &quot;Thailand&quot; THEN &quot;THA&quot;&#10;    WHEN &quot;Timor-Leste&quot; THEN &quot;TLS&quot;&#10;    WHEN &quot;Togo&quot; THEN &quot;TGO&quot;&#10;    WHEN &quot;Trinidad and Tobago&quot; THEN &quot;TTO&quot;&#10;    WHEN &quot;Tunisia&quot; THEN &quot;TUN&quot;&#10;    WHEN &quot;Turkey&quot; THEN &quot;TUR&quot;&#10;    WHEN &quot;Turkmenistan&quot; THEN &quot;TKM&quot;&#10;    WHEN &quot;Uganda&quot; THEN &quot;UGA&quot;&#10;    WHEN &quot;Ukraine&quot; THEN &quot;UKR&quot;&#10;    WHEN &quot;United Arab Emirates&quot; THEN &quot;ARE&quot;&#10;    WHEN &quot;United Kingdom&quot; THEN &quot;GBR&quot;&#10;    WHEN &quot;United States&quot; THEN &quot;USA&quot;&#10;    WHEN &quot;Uruguay&quot; THEN &quot;URY&quot;&#10;    WHEN &quot;Uzbekistan&quot; THEN &quot;UZB&quot;&#10;    WHEN &quot;Venezuela&quot; THEN &quot;VEN&quot;&#10;    WHEN &quot;Vietnam&quot; THEN &quot;VNM&quot;&#10;    WHEN &quot;Yemen&quot; THEN &quot;YEM&quot;&#10;    WHEN &quot;Zambia&quot; THEN &quot;ZMB&quot;&#10;    WHEN &quot;Zimbabwe&quot; THEN &quot;ZWE&quot;&#10;END' />
+      </column>
+      <column caption='Percentage of Countries' datatype='real' name='[Calculation_5231353191798116354]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='(COUNT([country]) / TOTAL(COUNT([country])))'>
+          <table-calc ordering-type='Rows' />
+        </calculation>
+      </column>
+      <column caption='Regime Change' datatype='string' name='[Calculation_5848698184473624576]' role='measure' type='nominal'>
+        <calculation class='tableau' formula='IF MIN([source])=&quot;historical&quot; AND MAX([source])=&quot;forecast&quot; THEN&#10;    IF LOOKUP(MIN([regime]), 0) != LOOKUP(MIN([regime]), 1) THEN &quot;Changed&quot; ELSE &quot;Stable&quot; END&#10;END'>
+          <table-calc ordering-type='Rows' />
+        </calculation>
+      </column>
+      <column caption='Color by Source (Non-splitting)' datatype='string' name='[Calculation_5848698184479068161]' role='measure' type='nominal'>
+        <calculation class='tableau' formula='IF MIN([source]) = &quot;forecast&quot; THEN &quot;forecast&quot; ELSE &quot;historical&quot; END' />
+      </column>
+      <column caption='Historical label' datatype='string' name='[Calculation_5848698184484659205]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF [source] = &quot;historical&quot;&#10;AND YEAR([ds]) = 2024&#10;THEN &quot;Historical&quot;&#10;END' />
+      </column>
+      <column caption='Forecast label' datatype='string' name='[Calculation_5848698184484777990]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF [source] = &quot;forecast&quot;&#10;AND YEAR([ds]) = 2030&#10;THEN &quot;Forecast&quot;&#10;END' />
+      </column>
+      <column caption='Value - Historical' datatype='real' name='[Calculation_6393141158193131520]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='IF [source] = &quot;historical&quot; THEN [value] END' />
+      </column>
+      <column caption='Forecast Year Adjusted' datatype='date' name='[Calculation_6393141158195535874]' role='dimension' type='ordinal'>
+        <calculation class='tableau' formula='IF [source] = &quot;forecast&quot;&#10;AND DATETRUNC(&apos;year&apos;, [ds]) = DATE(&quot;2025-01-01&quot;)&#10;THEN DATE(&quot;2024-01-01&quot;)&#10;ELSE [ds]&#10;END' />
+      </column>
+      <column caption='Unified Date' datatype='datetime' name='[Calculation_6393141158198747139]' role='dimension' type='ordinal'>
+        <calculation class='tableau' formula='DATETRUNC(&apos;year&apos;, [ds])' />
+      </column>
+      <column caption='Forecast Region' datatype='string' name='[Calculation_6393141158201774084]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF [ds] &gt;= DATE(&quot;2024-01-01&quot;) THEN &quot;Forecast Zone&quot;&#10;ELSE &quot;Historical Zone&quot;&#10;END' />
+      </column>
+      <column caption='Path (dummy)' datatype='integer' name='[Calculation_6937302656936828939]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column aggregation='None' caption='Path (dummy) (bin)' datatype='integer' name='[Path (dummy) (bin)]' role='dimension' type='ordinal'>
+        <calculation class='bin' decimals='-2' formula='[Calculation_6937302656936828939]' peg='0' size='0.01' />
+      </column>
+      <column caption='final_democracy_forecast_clean.csv' datatype='table' name='[__tableau_internal_object_id__].[final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1]' role='measure' type='quantitative' />
+      <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column caption='Ds' datatype='date' name='[ds]' role='dimension' type='ordinal' />
+      <column caption='Regime' datatype='string' name='[regime]' role='dimension' type='nominal' />
+      <column caption='Source' datatype='string' name='[source]' role='dimension' type='nominal' />
+      <column caption='Value' datatype='real' name='[value]' role='measure' type='quantitative' />
+      <column-instance column='[Calculation_6393141158193131520]' derivation='Avg' name='[avg:Calculation_6393141158193131520:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[value]' derivation='Avg' name='[avg:value:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Forecast Indicator]' derivation='None' forecast-column-base='[Forecast Indicator]' forecast-column-type='forecast-indicator' name='[none:Forecast Indicator:nk]' pivot='key' type='nominal' />
+      <column-instance column='[regime]' derivation='None' name='[none:regime:nk]' pivot='key' type='nominal' />
+      <column-instance column='[source]' derivation='None' name='[none:source:nk]' pivot='key' type='nominal' />
+      <column-instance column='[value]' derivation='Sum' name='[sum:value:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Calculation_5848698184479068161]' derivation='User' name='[usr:Calculation_5848698184479068161:nk]' pivot='key' type='nominal' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='/var/folders/4m/_fg19tl1739c5j7rvwwqvy3m0000gn/T/tableau-temp/#TableauTemp_0axj7i5139dk1h1b93oly0hxszyx.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='12/01/2025 09:41:49 AM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>country</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[country]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>country</remote-alias>
+              <ordinal>0</ordinal>
+              <family>final_democracy_forecast_clean.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>167</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>ds</remote-name>
+              <remote-type>133</remote-type>
+              <local-name>[ds]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>ds</remote-alias>
+              <ordinal>1</ordinal>
+              <family>final_democracy_forecast_clean.csv</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <approx-count>21</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>value</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[value]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>value</remote-alias>
+              <ordinal>2</ordinal>
+              <family>final_democracy_forecast_clean.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1228</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>source</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[source]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>source</remote-alias>
+              <ordinal>3</ordinal>
+              <family>final_democracy_forecast_clean.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>regime</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[regime]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>regime</remote-alias>
+              <ordinal>4</ordinal>
+              <family>final_democracy_forecast_clean.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:regime:nk]' type='palette'>
+            <map to='#305d8a'>
+              <bucket>&quot;Full Democracy&quot;</bucket>
+            </map>
+            <map to='#b9ddf1'>
+              <bucket>&quot;Flawed Democracy&quot;</bucket>
+            </map>
+            <map to='#ca5422'>
+              <bucket>&quot;Authoritarian&quot;</bucket>
+            </map>
+            <map to='#f59c3c'>
+              <bucket>&quot;Hybrid Regime&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:source:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;forecast&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;historical&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[usr:Calculation_5848698184479068161:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;historical&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;forecast&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.13bx66x1le8dcw1957fgy06f5drb].[avg:Calculation_6393141158193131520:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.13bx66x1le8dcw1957fgy06f5drb].[avg:Calculation_6393141158193221633:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.13bx66x1le8dcw1957fgy06f5drb].[avg:value:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[Parameters].[Parameter 1]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.13bx66x1le8dcw1957fgy06f5drb].[sum:value:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <default-sorts>
+        <manual-sort column='[none:Forecast Indicator:nk]' direction='ASC'>
+          <dictionary>
+            <bucket>&quot;Actual&quot;</bucket>
+            <bucket>&quot;Estimate&quot;</bucket>
+          </dictionary>
+        </manual-sort>
+      </default-sorts>
+      <field-sort-info field-sort-order-type='custom-order'>
+        <field-sort-custom-order field='country' />
+        <field-sort-custom-order field='ds' />
+        <field-sort-custom-order field='value' />
+        <field-sort-custom-order field='source' />
+        <field-sort-custom-order field='regime' />
+        <field-sort-custom-order field='Calculation_6937302656934305795' />
+        <field-sort-custom-order field='Calculation_5231353191787622400' />
+        <field-sort-custom-order field='Calculation_5231353191793057793' />
+        <field-sort-custom-order field='Calculation_5848698184479068161' />
+        <field-sort-custom-order field='Calculation_5848698184481714178' />
+        <field-sort-custom-order field='Calculation_5848698184484659205' />
+        <field-sort-custom-order field='Calculation_5848698184484777990' />
+        <field-sort-custom-order field='Calculation_6393141158193131520' />
+        <field-sort-custom-order field='Calculation_6393141158193221633' />
+        <field-sort-custom-order field='Calculation_6393141158195535874' />
+        <field-sort-custom-order field='Calculation_6393141158198747139' />
+        <field-sort-custom-order field='Calculation_6393141158201774084' />
+        <field-sort-custom-order field='Calculation_6393141158203637766' />
+        <field-sort-custom-order field='Forecast Indicator' />
+        <field-sort-custom-order field='Geometry (generated)' />
+        <field-sort-custom-order field='Latitude (generated)' />
+        <field-sort-custom-order field='Longitude (generated)' />
+        <field-sort-custom-order field='Calculation_6937302656933650434' />
+        <field-sort-custom-order field=':Measure Names' />
+        <field-sort-custom-order field='Multiple Values' />
+      </field-sort-info>
+      <datasource-dependencies datasource='Parameters'>
+        <column caption='Forecast Period' datatype='datetime' name='[Parameter 1]' param-domain-type='any' role='measure' type='quantitative' value='#2024-01-01 00:00:00#'>
+          <calculation class='tableau' formula='#2024-01-01 00:00:00#' />
+        </column>
+      </datasource-dependencies>
+      <object-graph>
+        <objects>
+          <object caption='final_democracy_forecast_clean.csv' id='final_democracy_forecast_clean.csv_7B839FDE1CA241488473676D9AB68FE1'>
+            <properties context=''>
+              <relation connection='textscan.0l59u850y49u4z13o8fml1mqms02' name='final_democracy_forecast_clean.csv' table='[final_democracy_forecast_clean#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='country' ordinal='0' />
+                  <column datatype='date' name='ds' ordinal='1' />
+                  <column datatype='real' name='value' ordinal='2' />
+                  <column datatype='string' name='source' ordinal='3' />
+                  <column datatype='string' name='regime' ordinal='4' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='final_democracy_forecast_clean' name='federated.13bx66x1le8dcw1957fgy06f5drb' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.13bx66x1le8dcw1957fgy06f5drb'>
+            <column caption='Year' datatype='integer' name='[Calculation_5231353191787622400]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='YEAR([ds])' />
+            </column>
+            <column caption='Country Abbrev' datatype='string' name='[Calculation_5231353191793057793]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='CASE [country]&#10;    WHEN &quot;Afghanistan&quot; THEN &quot;AFG&quot;&#10;    WHEN &quot;Albania&quot; THEN &quot;ALB&quot;&#10;    WHEN &quot;Algeria&quot; THEN &quot;DZA&quot;&#10;    WHEN &quot;Angola&quot; THEN &quot;AGO&quot;&#10;    WHEN &quot;Argentina&quot; THEN &quot;ARG&quot;&#10;    WHEN &quot;Armenia&quot; THEN &quot;ARM&quot;&#10;    WHEN &quot;Australia&quot; THEN &quot;AUS&quot;&#10;    WHEN &quot;Austria&quot; THEN &quot;AUT&quot;&#10;    WHEN &quot;Azerbaijan&quot; THEN &quot;AZE&quot;&#10;    WHEN &quot;Bahamas&quot; THEN &quot;BHS&quot;&#10;    WHEN &quot;Bahrain&quot; THEN &quot;BHR&quot;&#10;    WHEN &quot;Bangladesh&quot; THEN &quot;BGD&quot;&#10;    WHEN &quot;Belarus&quot; THEN &quot;BLR&quot;&#10;    WHEN &quot;Belgium&quot; THEN &quot;BEL&quot;&#10;    WHEN &quot;Belize&quot; THEN &quot;BLZ&quot;&#10;    WHEN &quot;Benin&quot; THEN &quot;BEN&quot;&#10;    WHEN &quot;Bhutan&quot; THEN &quot;BTN&quot;&#10;    WHEN &quot;Bolivia&quot; THEN &quot;BOL&quot;&#10;    WHEN &quot;Bosnia and Herzegovina&quot; THEN &quot;BIH&quot;&#10;    WHEN &quot;Botswana&quot; THEN &quot;BWA&quot;&#10;    WHEN &quot;Brazil&quot; THEN &quot;BRA&quot;&#10;    WHEN &quot;Bulgaria&quot; THEN &quot;BGR&quot;&#10;    WHEN &quot;Burkina Faso&quot; THEN &quot;BFA&quot;&#10;    WHEN &quot;Burundi&quot; THEN &quot;BDI&quot;&#10;    WHEN &quot;Cambodia&quot; THEN &quot;KHM&quot;&#10;    WHEN &quot;Cameroon&quot; THEN &quot;CMR&quot;&#10;    WHEN &quot;Canada&quot; THEN &quot;CAN&quot;&#10;    WHEN &quot;Cape Verde&quot; THEN &quot;CPV&quot;&#10;    WHEN &quot;Central African Republic&quot; THEN &quot;CAF&quot;&#10;    WHEN &quot;Chad&quot; THEN &quot;TCD&quot;&#10;    WHEN &quot;Chile&quot; THEN &quot;CHL&quot;&#10;    WHEN &quot;China&quot; THEN &quot;CHN&quot;&#10;    WHEN &quot;Colombia&quot; THEN &quot;COL&quot;&#10;    WHEN &quot;Comoros&quot; THEN &quot;COM&quot;&#10;    WHEN &quot;Congo (Brazzaville)&quot; THEN &quot;COG&quot;&#10;    WHEN &quot;Congo (Kinshasa)&quot; THEN &quot;COD&quot;&#10;    WHEN &quot;Costa Rica&quot; THEN &quot;CRI&quot;&#10;    WHEN &quot;Croatia&quot; THEN &quot;HRV&quot;&#10;    WHEN &quot;Cuba&quot; THEN &quot;CUB&quot;&#10;    WHEN &quot;Cyprus&quot; THEN &quot;CYP&quot;&#10;    WHEN &quot;Czech Republic&quot; THEN &quot;CZE&quot;&#10;    WHEN &quot;Denmark&quot; THEN &quot;DNK&quot;&#10;    WHEN &quot;Djibouti&quot; THEN &quot;DJI&quot;&#10;    WHEN &quot;Dominican Republic&quot; THEN &quot;DOM&quot;&#10;    WHEN &quot;Ecuador&quot; THEN &quot;ECU&quot;&#10;    WHEN &quot;Egypt&quot; THEN &quot;EGY&quot;&#10;    WHEN &quot;El Salvador&quot; THEN &quot;SLV&quot;&#10;    WHEN &quot;Equatorial Guinea&quot; THEN &quot;GNQ&quot;&#10;    WHEN &quot;Eritrea&quot; THEN &quot;ERI&quot;&#10;    WHEN &quot;Estonia&quot; THEN &quot;EST&quot;&#10;    WHEN &quot;Eswatini&quot; THEN &quot;SWZ&quot;&#10;    WHEN &quot;Ethiopia&quot; THEN &quot;ETH&quot;&#10;    WHEN &quot;Fiji&quot; THEN &quot;FJI&quot;&#10;    WHEN &quot;Finland&quot; THEN &quot;FIN&quot;&#10;    WHEN &quot;France&quot; THEN &quot;FRA&quot;&#10;    WHEN &quot;Gabon&quot; THEN &quot;GAB&quot;&#10;    WHEN &quot;Gambia&quot; THEN &quot;GMB&quot;&#10;    WHEN &quot;Georgia&quot; THEN &quot;GEO&quot;&#10;    WHEN &quot;Germany&quot; THEN &quot;DEU&quot;&#10;    WHEN &quot;Ghana&quot; THEN &quot;GHA&quot;&#10;    WHEN &quot;Greece&quot; THEN &quot;GRC&quot;&#10;    WHEN &quot;Guatemala&quot; THEN &quot;GTM&quot;&#10;    WHEN &quot;Guinea&quot; THEN &quot;GIN&quot;&#10;    WHEN &quot;Guinea-Bissau&quot; THEN &quot;GNB&quot;&#10;    WHEN &quot;Guyana&quot; THEN &quot;GUY&quot;&#10;    WHEN &quot;Haiti&quot; THEN &quot;HTI&quot;&#10;    WHEN &quot;Honduras&quot; THEN &quot;HND&quot;&#10;    WHEN &quot;Hong Kong&quot; THEN &quot;HKG&quot;&#10;    WHEN &quot;Hungary&quot; THEN &quot;HUN&quot;&#10;    WHEN &quot;Iceland&quot; THEN &quot;ISL&quot;&#10;    WHEN &quot;India&quot; THEN &quot;IND&quot;&#10;    WHEN &quot;Indonesia&quot; THEN &quot;IDN&quot;&#10;    WHEN &quot;Iran&quot; THEN &quot;IRN&quot;&#10;    WHEN &quot;Iraq&quot; THEN &quot;IRQ&quot;&#10;    WHEN &quot;Ireland&quot; THEN &quot;IRL&quot;&#10;    WHEN &quot;Israel&quot; THEN &quot;ISR&quot;&#10;    WHEN &quot;Italy&quot; THEN &quot;ITA&quot;&#10;    WHEN &quot;Ivory Coast&quot; THEN &quot;CIV&quot;&#10;    WHEN &quot;Jamaica&quot; THEN &quot;JAM&quot;&#10;    WHEN &quot;Japan&quot; THEN &quot;JPN&quot;&#10;    WHEN &quot;Jordan&quot; THEN &quot;JOR&quot;&#10;    WHEN &quot;Kazakhstan&quot; THEN &quot;KAZ&quot;&#10;    WHEN &quot;Kenya&quot; THEN &quot;KEN&quot;&#10;    WHEN &quot;Kuwait&quot; THEN &quot;KWT&quot;&#10;    WHEN &quot;Kyrgyzstan&quot; THEN &quot;KGZ&quot;&#10;    WHEN &quot;Laos&quot; THEN &quot;LAO&quot;&#10;    WHEN &quot;Latvia&quot; THEN &quot;LVA&quot;&#10;    WHEN &quot;Lebanon&quot; THEN &quot;LBN&quot;&#10;    WHEN &quot;Lesotho&quot; THEN &quot;LSO&quot;&#10;    WHEN &quot;Liberia&quot; THEN &quot;LBR&quot;&#10;    WHEN &quot;Libya&quot; THEN &quot;LBY&quot;&#10;    WHEN &quot;Lithuania&quot; THEN &quot;LTU&quot;&#10;    WHEN &quot;Luxembourg&quot; THEN &quot;LUX&quot;&#10;    WHEN &quot;Madagascar&quot; THEN &quot;MDG&quot;&#10;    WHEN &quot;Malawi&quot; THEN &quot;MWI&quot;&#10;    WHEN &quot;Malaysia&quot; THEN &quot;MYS&quot;&#10;    WHEN &quot;Maldives&quot; THEN &quot;MDV&quot;&#10;    WHEN &quot;Mali&quot; THEN &quot;MLI&quot;&#10;    WHEN &quot;Malta&quot; THEN &quot;MLT&quot;&#10;    WHEN &quot;Mauritania&quot; THEN &quot;MRT&quot;&#10;    WHEN &quot;Mauritius&quot; THEN &quot;MUS&quot;&#10;    WHEN &quot;Mexico&quot; THEN &quot;MEX&quot;&#10;    WHEN &quot;Moldova&quot; THEN &quot;MDA&quot;&#10;    WHEN &quot;Mongolia&quot; THEN &quot;MNG&quot;&#10;    WHEN &quot;Montenegro&quot; THEN &quot;MNE&quot;&#10;    WHEN &quot;Morocco&quot; THEN &quot;MAR&quot;&#10;    WHEN &quot;Mozambique&quot; THEN &quot;MOZ&quot;&#10;    WHEN &quot;Myanmar&quot; THEN &quot;MMR&quot;&#10;    WHEN &quot;Namibia&quot; THEN &quot;NAM&quot;&#10;    WHEN &quot;Nepal&quot; THEN &quot;NPL&quot;&#10;    WHEN &quot;Netherlands&quot; THEN &quot;NLD&quot;&#10;    WHEN &quot;New Zealand&quot; THEN &quot;NZL&quot;&#10;    WHEN &quot;Nicaragua&quot; THEN &quot;NIC&quot;&#10;    WHEN &quot;Niger&quot; THEN &quot;NER&quot;&#10;    WHEN &quot;Nigeria&quot; THEN &quot;NGA&quot;&#10;    WHEN &quot;North Korea&quot; THEN &quot;PRK&quot;&#10;    WHEN &quot;North Macedonia&quot; THEN &quot;MKD&quot;&#10;    WHEN &quot;Norway&quot; THEN &quot;NOR&quot;&#10;    WHEN &quot;Oman&quot; THEN &quot;OMN&quot;&#10;    WHEN &quot;Pakistan&quot; THEN &quot;PAK&quot;&#10;    WHEN &quot;Panama&quot; THEN &quot;PAN&quot;&#10;    WHEN &quot;Papua New Guinea&quot; THEN &quot;PNG&quot;&#10;    WHEN &quot;Paraguay&quot; THEN &quot;PRY&quot;&#10;    WHEN &quot;Peru&quot; THEN &quot;PER&quot;&#10;    WHEN &quot;Philippines&quot; THEN &quot;PHL&quot;&#10;    WHEN &quot;Poland&quot; THEN &quot;POL&quot;&#10;    WHEN &quot;Portugal&quot; THEN &quot;PRT&quot;&#10;    WHEN &quot;Qatar&quot; THEN &quot;QAT&quot;&#10;    WHEN &quot;Romania&quot; THEN &quot;ROU&quot;&#10;    WHEN &quot;Russia&quot; THEN &quot;RUS&quot;&#10;    WHEN &quot;Rwanda&quot; THEN &quot;RWA&quot;&#10;    WHEN &quot;Saudi Arabia&quot; THEN &quot;SAU&quot;&#10;    WHEN &quot;Senegal&quot; THEN &quot;SEN&quot;&#10;    WHEN &quot;Serbia&quot; THEN &quot;SRB&quot;&#10;    WHEN &quot;Sierra Leone&quot; THEN &quot;SLE&quot;&#10;    WHEN &quot;Singapore&quot; THEN &quot;SGP&quot;&#10;    WHEN &quot;Slovakia&quot; THEN &quot;SVK&quot;&#10;    WHEN &quot;Slovenia&quot; THEN &quot;SVN&quot;&#10;    WHEN &quot;Somalia&quot; THEN &quot;SOM&quot;&#10;    WHEN &quot;South Africa&quot; THEN &quot;ZAF&quot;&#10;    WHEN &quot;South Korea&quot; THEN &quot;KOR&quot;&#10;    WHEN &quot;South Sudan&quot; THEN &quot;SSD&quot;&#10;    WHEN &quot;Spain&quot; THEN &quot;ESP&quot;&#10;    WHEN &quot;Sri Lanka&quot; THEN &quot;LKA&quot;&#10;    WHEN &quot;Sudan&quot; THEN &quot;SDN&quot;&#10;    WHEN &quot;Suriname&quot; THEN &quot;SUR&quot;&#10;    WHEN &quot;Sweden&quot; THEN &quot;SWE&quot;&#10;    WHEN &quot;Switzerland&quot; THEN &quot;CHE&quot;&#10;    WHEN &quot;Syria&quot; THEN &quot;SYR&quot;&#10;    WHEN &quot;Taiwan&quot; THEN &quot;TWN&quot;&#10;    WHEN &quot;Tajikistan&quot; THEN &quot;TJK&quot;&#10;    WHEN &quot;Tanzania&quot; THEN &quot;TZA&quot;&#10;    WHEN &quot;Thailand&quot; THEN &quot;THA&quot;&#10;    WHEN &quot;Timor-Leste&quot; THEN &quot;TLS&quot;&#10;    WHEN &quot;Togo&quot; THEN &quot;TGO&quot;&#10;    WHEN &quot;Trinidad and Tobago&quot; THEN &quot;TTO&quot;&#10;    WHEN &quot;Tunisia&quot; THEN &quot;TUN&quot;&#10;    WHEN &quot;Turkey&quot; THEN &quot;TUR&quot;&#10;    WHEN &quot;Turkmenistan&quot; THEN &quot;TKM&quot;&#10;    WHEN &quot;Uganda&quot; THEN &quot;UGA&quot;&#10;    WHEN &quot;Ukraine&quot; THEN &quot;UKR&quot;&#10;    WHEN &quot;United Arab Emirates&quot; THEN &quot;ARE&quot;&#10;    WHEN &quot;United Kingdom&quot; THEN &quot;GBR&quot;&#10;    WHEN &quot;United States&quot; THEN &quot;USA&quot;&#10;    WHEN &quot;Uruguay&quot; THEN &quot;URY&quot;&#10;    WHEN &quot;Uzbekistan&quot; THEN &quot;UZB&quot;&#10;    WHEN &quot;Venezuela&quot; THEN &quot;VEN&quot;&#10;    WHEN &quot;Vietnam&quot; THEN &quot;VNM&quot;&#10;    WHEN &quot;Yemen&quot; THEN &quot;YEM&quot;&#10;    WHEN &quot;Zambia&quot; THEN &quot;ZMB&quot;&#10;    WHEN &quot;Zimbabwe&quot; THEN &quot;ZWE&quot;&#10;END' />
+            </column>
+            <column-instance column='[country]' derivation='Attribute' name='[attr:country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[regime]' derivation='Attribute' name='[attr:regime:nk]' pivot='key' type='nominal' />
+            <column-instance column='[source]' derivation='Attribute' name='[attr:source:nk]' pivot='key' type='nominal' />
+            <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column caption='Ds' datatype='date' name='[ds]' role='dimension' type='ordinal' />
+            <column-instance column='[Calculation_5231353191787622400]' derivation='None' name='[none:Calculation_5231353191787622400:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Calculation_5231353191793057793]' derivation='None' name='[none:Calculation_5231353191793057793:nk]' pivot='key' type='nominal' />
+            <column-instance column='[country]' derivation='None' name='[none:country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[value]' derivation='None' name='[none:value:qk]' pivot='key' type='quantitative' />
+            <column caption='Regime' datatype='string' name='[regime]' role='dimension' type='nominal' />
+            <column caption='Source' datatype='string' name='[source]' role='dimension' type='nominal' />
+            <column caption='Value' datatype='real' name='[value]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.13bx66x1le8dcw1957fgy06f5drb].[Longitude (generated)]' field-type='quantitative' max='26845723.342496887' min='-12594714.012468312' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.13bx66x1le8dcw1957fgy06f5drb].[Latitude (generated)]' field-type='quantitative' max='13918001.999065123' min='-9890731.8121378869' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:value:qk]' num-steps='10' palette='orange_blue_diverging_10_0' type='interpolated' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Multipolygon' />
+            <encodings>
+              <color column='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:value:qk]' />
+              <text column='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:Calculation_5231353191793057793:nk]' />
+              <lod column='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:country:nk]' />
+              <tooltip column='[federated.13bx66x1le8dcw1957fgy06f5drb].[attr:source:nk]' />
+              <tooltip column='[federated.13bx66x1le8dcw1957fgy06f5drb].[attr:regime:nk]' />
+              <tooltip column='[federated.13bx66x1le8dcw1957fgy06f5drb].[attr:country:nk]' />
+              <geometry column='[federated.13bx66x1le8dcw1957fgy06f5drb].[Geometry (generated)]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#757575'>Year:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.13bx66x1le8dcw1957fgy06f5drb].[none:Calculation_5231353191787622400:ok]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#757575'>Country Abbrev:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.13bx66x1le8dcw1957fgy06f5drb].[none:Calculation_5231353191793057793:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#757575'>Value:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.13bx66x1le8dcw1957fgy06f5drb].[none:value:qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#757575'>Country:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.13bx66x1le8dcw1957fgy06f5drb].[attr:country:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#757575'>Regime:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.13bx66x1le8dcw1957fgy06f5drb].[attr:regime:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#757575'>Source:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.13bx66x1le8dcw1957fgy06f5drb].[attr:source:nk]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='datalabel'>
+                <format attr='color-mode' value='user' />
+                <format attr='font-size' value='7' />
+                <format attr='color' value='#333333' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.13bx66x1le8dcw1957fgy06f5drb].[Latitude (generated)]</rows>
+        <cols>[federated.13bx66x1le8dcw1957fgy06f5drb].[Longitude (generated)]</cols>
+        <pages>
+          <column>[federated.13bx66x1le8dcw1957fgy06f5drb].[none:Calculation_5231353191787622400:ok]</column>
+        </pages>
+      </table>
+      <simple-id uuid='{54683B57-6E73-4C78-9833-C8E0FE521194}' />
+    </worksheet>
+    <worksheet name='Sheet 2'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='final_democracy_forecast_clean' name='federated.13bx66x1le8dcw1957fgy06f5drb' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='Forecast Period' datatype='datetime' name='[Parameter 1]' param-domain-type='any' role='measure' type='quantitative' value='#2024-01-01 00:00:00#'>
+              <calculation class='tableau' formula='#2024-01-01 00:00:00#' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.13bx66x1le8dcw1957fgy06f5drb'>
+            <column caption='Percentage of Countries' datatype='real' name='[Calculation_5231353191798116354]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='(COUNT([country]) / TOTAL(COUNT([country])))'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column caption='Ds' datatype='date' name='[ds]' role='dimension' type='ordinal' />
+            <column-instance column='[regime]' derivation='None' name='[none:regime:nk]' pivot='key' type='nominal' />
+            <column caption='Regime' datatype='string' name='[regime]' role='dimension' type='nominal' />
+            <column-instance column='[ds]' derivation='Year-Trunc' name='[tyr:ds:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_5231353191798116354]' derivation='User' name='[usr:Calculation_5231353191798116354:qk:2]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='CellInPane' />
+            </column-instance>
+          </datasource-dependencies>
+          <manual-sort column='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:regime:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Full Democracy&quot;</bucket>
+              <bucket>&quot;Flawed Democracy&quot;</bucket>
+              <bucket>&quot;Hybrid Regime&quot;</bucket>
+              <bucket>&quot;Authoritarian&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='label'>
+            <format attr='text-format' field='[federated.13bx66x1le8dcw1957fgy06f5drb].[usr:Calculation_5231353191798116354:qk:2]' value='p0.0%' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='fill-above' id='refline0' value='#00000000' />
+            <format attr='fill-below' id='refline0' value='#00000000' />
+            <format attr='line-visibility' id='refline0' value='on' />
+            <format attr='line-pattern-only' id='refline0' value='dotted' />
+            <format attr='color' id='refline0' value='#555555' />
+            <format attr='vertical-align' id='refline0' value='top' />
+            <format attr='wrap' id='refline0' value='off' />
+            <format attr='font-weight' id='refline0' value='bold' />
+            <format attr='font-size' id='refline0' value='10' />
+            <format attr='font-style' id='refline0' value='italic' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='8' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Area' />
+            <encodings>
+              <color column='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:regime:nk]' />
+              <text column='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:regime:nk]' />
+            </encodings>
+            <reference-line axis-column='[federated.13bx66x1le8dcw1957fgy06f5drb].[tyr:ds:qk]' enable-instant-analytics='true' formula='min' id='refline0' label='Forecast Period' label-type='custom' scope='per-table' value-column='[Parameters].[Parameter 1]' z-order='1' />
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#757575'>Regime:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.13bx66x1le8dcw1957fgy06f5drb].[none:regime:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#757575'>Year of Ds:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.13bx66x1le8dcw1957fgy06f5drb].[tyr:ds:qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#757575'>Percentage of Countries along Cell:	</run>
+                <run bold='true'><![CDATA[<[federated.13bx66x1le8dcw1957fgy06f5drb].[usr:Calculation_5231353191798116354:qk:2]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='cell'>
+                <format attr='vertical-align' value='center' />
+                <format attr='text-align' value='right' />
+              </style-rule>
+              <style-rule element='datalabel'>
+                <format attr='color-mode' value='user' />
+                <format attr='font-size' value='12' />
+                <format attr='color' value='#555555' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.13bx66x1le8dcw1957fgy06f5drb].[usr:Calculation_5231353191798116354:qk:2]</rows>
+        <cols>[federated.13bx66x1le8dcw1957fgy06f5drb].[tyr:ds:qk]</cols>
+      </table>
+      <simple-id uuid='{B4957A0B-5414-4326-B9C6-3FE8539B3CA7}' />
+    </worksheet>
+    <worksheet name='Sheet 3'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='final_democracy_forecast_clean' name='federated.13bx66x1le8dcw1957fgy06f5drb' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='Forecast Period' datatype='datetime' name='[Parameter 1]' param-domain-type='any' role='measure' type='quantitative' value='#2024-01-01 00:00:00#'>
+              <calculation class='tableau' formula='#2024-01-01 00:00:00#' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.13bx66x1le8dcw1957fgy06f5drb'>
+            <column caption='Value - Historical' datatype='real' name='[Calculation_6393141158193131520]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='IF [source] = &quot;historical&quot; THEN [value] END' />
+            </column>
+            <column caption='Unified Date' datatype='datetime' name='[Calculation_6393141158198747139]' role='dimension' type='ordinal'>
+              <calculation class='tableau' formula='DATETRUNC(&apos;year&apos;, [ds])' />
+            </column>
+            <column-instance column='[Calculation_6393141158193131520]' derivation='Avg' name='[avg:Calculation_6393141158193131520:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[value]' derivation='Avg' name='[avg:value:qk]' pivot='key' type='quantitative' />
+            <column caption='Ds' datatype='date' name='[ds]' role='dimension' type='ordinal' />
+            <column-instance column='[Calculation_6393141158198747139]' derivation='None' name='[none:Calculation_6393141158198747139:qk]' pivot='key' type='quantitative' />
+            <column caption='Source' datatype='string' name='[source]' role='dimension' type='nominal' />
+            <column caption='Value' datatype='real' name='[value]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' domain-expand='false' field='[federated.13bx66x1le8dcw1957fgy06f5drb].[avg:Calculation_6393141158193131520:qk]' field-type='quantitative' scope='rows' type='space' />
+            <encoding attr='space' class='0' domain-expand='false' field='[federated.13bx66x1le8dcw1957fgy06f5drb].[avg:value:qk]' field-type='quantitative' fold='true' scope='rows' synchronized='true' type='space' />
+            <format attr='title' class='0' field='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:Calculation_6393141158198747139:qk]' scope='cols' value='Year' />
+            <format attr='title' class='0' field='[federated.13bx66x1le8dcw1957fgy06f5drb].[avg:Calculation_6393141158193131520:qk]' scope='rows' value='Demmocracy Index' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='text-orientation' id='refline0' value='0' />
+            <format attr='fill-above' id='refline0' value='#00000000' />
+            <format attr='fill-below' id='refline0' value='#00000000' />
+            <format attr='line-visibility' id='refline0' value='on' />
+            <format attr='line-pattern-only' id='refline0' value='dotted' />
+            <format attr='vertical-align' id='refline0' value='center' />
+            <format attr='font-weight' id='refline0' value='bold' />
+            <format attr='font-size' id='refline0' value='10' />
+            <format attr='color' id='refline0' value='#666666' />
+            <format attr='font-style' id='refline0' value='italic' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='9' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <path column='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:Calculation_6393141158198747139:qk]' />
+            </encodings>
+            <reference-line axis-column='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:Calculation_6393141158198747139:qk]' enable-instant-analytics='true' formula='min' id='refline0' label-type='automatic' scope='per-pane' value-column='[Parameters].[Parameter 1]' z-order='1' />
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-orientation' value='0' />
+                <format attr='vertical-align' value='top' />
+                <format attr='wrap' value='auto' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-cull' value='false' />
+                <format attr='mark-labels-show' value='false' />
+                <_.fcp.PatternedLineMarks.true...format attr='mark-line-pattern' value='dotted' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='11' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.13bx66x1le8dcw1957fgy06f5drb].[avg:Calculation_6393141158193131520:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <path column='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:Calculation_6393141158198747139:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-orientation' value='0' />
+                <format attr='vertical-align' value='top' />
+                <format attr='wrap' value='auto' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-cull' value='false' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='12' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.13bx66x1le8dcw1957fgy06f5drb].[avg:value:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <path column='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:Calculation_6393141158198747139:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-orientation' value='0' />
+                <format attr='vertical-align' value='top' />
+                <format attr='wrap' value='auto' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-cull' value='false' />
+                <format attr='mark-labels-show' value='false' />
+                <_.fcp.PatternedLineMarks.true...format attr='mark-line-pattern' value='dotted' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.13bx66x1le8dcw1957fgy06f5drb].[avg:Calculation_6393141158193131520:qk] + [federated.13bx66x1le8dcw1957fgy06f5drb].[avg:value:qk])</rows>
+        <cols>[federated.13bx66x1le8dcw1957fgy06f5drb].[none:Calculation_6393141158198747139:qk]</cols>
+      </table>
+      <simple-id uuid='{4C6F85B3-93BE-4B00-8190-8DF9A7C392BC}' />
+    </worksheet>
+    <worksheet name='Sheet 4'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{0954C58C-36CA-4602-9C53-235BCC2F87ED}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='51'>
+    <window class='worksheet' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:value:qk]' type='color' />
+            <card type='currpage' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <current-page>
+          <multibucket>
+            <bucket>2020</bucket>
+          </multibucket>
+        </current-page>
+      </viewpoint>
+      <simple-id uuid='{400A3406-0891-44DD-B964-0D0E4774177C}' />
+    </window>
+    <window class='worksheet' name='Sheet 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='8' param='[federated.13bx66x1le8dcw1957fgy06f5drb].[none:regime:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{83693360-662D-49A0-BCA9-092F45B021D6}' />
+    </window>
+    <window class='worksheet' name='Sheet 3'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{88945B0F-C346-4EA3-ADE3-7F5A08FAE188}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Sheet 4'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{E2EF6391-0983-418C-BC1E-8847EB0C45DB}' />
+    </window>
+  </windows>
+</workbook>

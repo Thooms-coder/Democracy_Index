@@ -1,0 +1,3508 @@
+country,ds,value,source,regime
+Afghanistan,2010-01-01,2.48,historical,Authoritarian
+Afghanistan,2011-01-01,2.48,historical,Authoritarian
+Afghanistan,2012-01-01,2.48,historical,Authoritarian
+Afghanistan,2013-01-01,2.48,historical,Authoritarian
+Afghanistan,2014-01-01,2.77,historical,Authoritarian
+Afghanistan,2015-01-01,2.77,historical,Authoritarian
+Afghanistan,2016-01-01,2.55,historical,Authoritarian
+Afghanistan,2017-01-01,2.55,historical,Authoritarian
+Afghanistan,2018-01-01,2.97,historical,Authoritarian
+Afghanistan,2019-01-01,2.85,historical,Authoritarian
+Afghanistan,2020-01-01,2.85,historical,Authoritarian
+Afghanistan,2021-01-01,0.32,historical,Authoritarian
+Afghanistan,2022-01-01,0.32,historical,Authoritarian
+Afghanistan,2023-01-01,0.26,historical,Authoritarian
+Afghanistan,2024-01-01,0.25,historical,Authoritarian
+Afghanistan,2025-01-01,0.0,forecast,Authoritarian
+Afghanistan,2026-01-01,0.0,forecast,Authoritarian
+Afghanistan,2027-01-01,0.0,forecast,Authoritarian
+Afghanistan,2028-01-01,0.0,forecast,Authoritarian
+Afghanistan,2029-01-01,0.0,forecast,Authoritarian
+Afghanistan,2030-01-01,0.0,forecast,Authoritarian
+Albania,2010-01-01,5.86,historical,Hybrid Regime
+Albania,2011-01-01,5.81,historical,Hybrid Regime
+Albania,2012-01-01,5.67,historical,Hybrid Regime
+Albania,2013-01-01,5.67,historical,Hybrid Regime
+Albania,2014-01-01,5.67,historical,Hybrid Regime
+Albania,2015-01-01,5.91,historical,Hybrid Regime
+Albania,2016-01-01,5.91,historical,Hybrid Regime
+Albania,2017-01-01,5.98,historical,Hybrid Regime
+Albania,2018-01-01,5.98,historical,Hybrid Regime
+Albania,2019-01-01,5.89,historical,Hybrid Regime
+Albania,2020-01-01,6.08,historical,Flawed Democracy
+Albania,2021-01-01,6.11,historical,Flawed Democracy
+Albania,2022-01-01,6.41,historical,Flawed Democracy
+Albania,2023-01-01,6.28,historical,Flawed Democracy
+Albania,2024-01-01,6.2,historical,Flawed Democracy
+Albania,2025-01-01,6.3126302823077225,forecast,Flawed Democracy
+Albania,2026-01-01,6.331059014917136,forecast,Flawed Democracy
+Albania,2027-01-01,6.349487747526549,forecast,Flawed Democracy
+Albania,2028-01-01,6.367966969814345,forecast,Flawed Democracy
+Albania,2029-01-01,6.3863957024237585,forecast,Flawed Democracy
+Albania,2030-01-01,6.404824435033172,forecast,Flawed Democracy
+Algeria,2010-01-01,3.44,historical,Authoritarian
+Algeria,2011-01-01,3.44,historical,Authoritarian
+Algeria,2012-01-01,3.83,historical,Authoritarian
+Algeria,2013-01-01,3.83,historical,Authoritarian
+Algeria,2014-01-01,3.83,historical,Authoritarian
+Algeria,2015-01-01,3.95,historical,Authoritarian
+Algeria,2016-01-01,3.56,historical,Authoritarian
+Algeria,2017-01-01,3.56,historical,Authoritarian
+Algeria,2018-01-01,3.5,historical,Authoritarian
+Algeria,2019-01-01,4.01,historical,Hybrid Regime
+Algeria,2020-01-01,3.77,historical,Authoritarian
+Algeria,2021-01-01,3.77,historical,Authoritarian
+Algeria,2022-01-01,3.66,historical,Authoritarian
+Algeria,2023-01-01,3.66,historical,Authoritarian
+Algeria,2024-01-01,3.55,historical,Authoritarian
+Algeria,2025-01-01,3.4309160153637865,forecast,Authoritarian
+Algeria,2026-01-01,3.365582243514973,forecast,Authoritarian
+Algeria,2027-01-01,3.3002484716661598,forecast,Authoritarian
+Algeria,2028-01-01,3.234735703182144,forecast,Authoritarian
+Algeria,2029-01-01,3.1694019313333306,forecast,Authoritarian
+Algeria,2030-01-01,3.1040681594845174,forecast,Authoritarian
+Angola,2010-01-01,3.32,historical,Authoritarian
+Angola,2011-01-01,3.32,historical,Authoritarian
+Angola,2012-01-01,3.35,historical,Authoritarian
+Angola,2013-01-01,3.35,historical,Authoritarian
+Angola,2014-01-01,3.35,historical,Authoritarian
+Angola,2015-01-01,3.35,historical,Authoritarian
+Angola,2016-01-01,3.4,historical,Authoritarian
+Angola,2017-01-01,3.62,historical,Authoritarian
+Angola,2018-01-01,3.62,historical,Authoritarian
+Angola,2019-01-01,3.72,historical,Authoritarian
+Angola,2020-01-01,3.66,historical,Authoritarian
+Angola,2021-01-01,3.37,historical,Authoritarian
+Angola,2022-01-01,3.96,historical,Authoritarian
+Angola,2023-01-01,4.18,historical,Hybrid Regime
+Angola,2024-01-01,4.05,historical,Hybrid Regime
+Angola,2025-01-01,4.604645390754043,forecast,Hybrid Regime
+Angola,2026-01-01,4.804909085198924,forecast,Hybrid Regime
+Angola,2027-01-01,5.0051727796438055,forecast,Hybrid Regime
+Angola,2028-01-01,5.205985141744701,forecast,Hybrid Regime
+Angola,2029-01-01,5.406248836189581,forecast,Hybrid Regime
+Angola,2030-01-01,5.606512530634463,forecast,Hybrid Regime
+Argentina,2010-01-01,6.84,historical,Flawed Democracy
+Argentina,2011-01-01,6.84,historical,Flawed Democracy
+Argentina,2012-01-01,6.84,historical,Flawed Democracy
+Argentina,2013-01-01,6.84,historical,Flawed Democracy
+Argentina,2014-01-01,6.84,historical,Flawed Democracy
+Argentina,2015-01-01,7.02,historical,Flawed Democracy
+Argentina,2016-01-01,6.96,historical,Flawed Democracy
+Argentina,2017-01-01,6.96,historical,Flawed Democracy
+Argentina,2018-01-01,7.02,historical,Flawed Democracy
+Argentina,2019-01-01,7.02,historical,Flawed Democracy
+Argentina,2020-01-01,6.95,historical,Flawed Democracy
+Argentina,2021-01-01,6.81,historical,Flawed Democracy
+Argentina,2022-01-01,6.85,historical,Flawed Democracy
+Argentina,2023-01-01,6.62,historical,Flawed Democracy
+Argentina,2024-01-01,6.51,historical,Flawed Democracy
+Argentina,2025-01-01,6.303787929319989,forecast,Flawed Democracy
+Argentina,2026-01-01,6.191298750048185,forecast,Flawed Democracy
+Argentina,2027-01-01,6.0788095707763805,forecast,Flawed Democracy
+Argentina,2028-01-01,5.966012201972325,forecast,Hybrid Regime
+Argentina,2029-01-01,5.8535230227005215,forecast,Hybrid Regime
+Argentina,2030-01-01,5.741033843428717,forecast,Hybrid Regime
+Armenia,2010-01-01,4.09,historical,Hybrid Regime
+Armenia,2011-01-01,4.09,historical,Hybrid Regime
+Armenia,2012-01-01,4.09,historical,Hybrid Regime
+Armenia,2013-01-01,4.02,historical,Hybrid Regime
+Armenia,2014-01-01,4.13,historical,Hybrid Regime
+Armenia,2015-01-01,4.0,historical,Authoritarian
+Armenia,2016-01-01,3.88,historical,Authoritarian
+Armenia,2017-01-01,4.11,historical,Hybrid Regime
+Armenia,2018-01-01,4.79,historical,Hybrid Regime
+Armenia,2019-01-01,5.54,historical,Hybrid Regime
+Armenia,2020-01-01,5.35,historical,Hybrid Regime
+Armenia,2021-01-01,5.49,historical,Hybrid Regime
+Armenia,2022-01-01,5.63,historical,Hybrid Regime
+Armenia,2023-01-01,5.42,historical,Hybrid Regime
+Armenia,2024-01-01,5.35,historical,Hybrid Regime
+Armenia,2025-01-01,5.265961769535321,forecast,Hybrid Regime
+Armenia,2026-01-01,5.207817409687428,forecast,Hybrid Regime
+Armenia,2027-01-01,5.149673049839535,forecast,Hybrid Regime
+Armenia,2028-01-01,5.091369390375621,forecast,Hybrid Regime
+Armenia,2029-01-01,5.033225030527729,forecast,Hybrid Regime
+Armenia,2030-01-01,4.975080670679836,forecast,Hybrid Regime
+Australia,2010-01-01,9.22,historical,Full Democracy
+Australia,2011-01-01,9.22,historical,Full Democracy
+Australia,2012-01-01,9.22,historical,Full Democracy
+Australia,2013-01-01,9.13,historical,Full Democracy
+Australia,2014-01-01,9.01,historical,Full Democracy
+Australia,2015-01-01,9.01,historical,Full Democracy
+Australia,2016-01-01,9.01,historical,Full Democracy
+Australia,2017-01-01,9.09,historical,Full Democracy
+Australia,2018-01-01,9.09,historical,Full Democracy
+Australia,2019-01-01,9.09,historical,Full Democracy
+Australia,2020-01-01,8.96,historical,Full Democracy
+Australia,2021-01-01,8.9,historical,Full Democracy
+Australia,2022-01-01,8.71,historical,Full Democracy
+Australia,2023-01-01,8.66,historical,Full Democracy
+Australia,2024-01-01,8.85,historical,Full Democracy
+Australia,2025-01-01,8.69940040136252,forecast,Full Democracy
+Australia,2026-01-01,8.675740737248486,forecast,Full Democracy
+Australia,2027-01-01,8.65208107313445,forecast,Full Democracy
+Australia,2028-01-01,8.628356588022841,forecast,Full Democracy
+Australia,2029-01-01,8.604696923908806,forecast,Full Democracy
+Australia,2030-01-01,8.58103725979477,forecast,Full Democracy
+Austria,2010-01-01,8.49,historical,Full Democracy
+Austria,2011-01-01,8.49,historical,Full Democracy
+Austria,2012-01-01,8.62,historical,Full Democracy
+Austria,2013-01-01,8.48,historical,Full Democracy
+Austria,2014-01-01,8.54,historical,Full Democracy
+Austria,2015-01-01,8.54,historical,Full Democracy
+Austria,2016-01-01,8.41,historical,Full Democracy
+Austria,2017-01-01,8.42,historical,Full Democracy
+Austria,2018-01-01,8.29,historical,Full Democracy
+Austria,2019-01-01,8.29,historical,Full Democracy
+Austria,2020-01-01,8.16,historical,Full Democracy
+Austria,2021-01-01,8.07,historical,Full Democracy
+Austria,2022-01-01,8.2,historical,Full Democracy
+Austria,2023-01-01,8.28,historical,Full Democracy
+Austria,2024-01-01,8.28,historical,Full Democracy
+Austria,2025-01-01,8.455531858840168,forecast,Full Democracy
+Austria,2026-01-01,8.526398079478207,forecast,Full Democracy
+Austria,2027-01-01,8.59726430011625,forecast,Full Democracy
+Austria,2028-01-01,8.668324674783435,forecast,Full Democracy
+Austria,2029-01-01,8.739190895421475,forecast,Full Democracy
+Austria,2030-01-01,8.810057116059516,forecast,Full Democracy
+Azerbaijan,2010-01-01,3.15,historical,Authoritarian
+Azerbaijan,2011-01-01,3.15,historical,Authoritarian
+Azerbaijan,2012-01-01,3.15,historical,Authoritarian
+Azerbaijan,2013-01-01,3.06,historical,Authoritarian
+Azerbaijan,2014-01-01,2.83,historical,Authoritarian
+Azerbaijan,2015-01-01,2.71,historical,Authoritarian
+Azerbaijan,2016-01-01,2.65,historical,Authoritarian
+Azerbaijan,2017-01-01,2.65,historical,Authoritarian
+Azerbaijan,2018-01-01,2.65,historical,Authoritarian
+Azerbaijan,2019-01-01,2.75,historical,Authoritarian
+Azerbaijan,2020-01-01,2.68,historical,Authoritarian
+Azerbaijan,2021-01-01,2.68,historical,Authoritarian
+Azerbaijan,2022-01-01,2.87,historical,Authoritarian
+Azerbaijan,2023-01-01,2.8,historical,Authoritarian
+Azerbaijan,2024-01-01,2.8,historical,Authoritarian
+Azerbaijan,2025-01-01,2.8987679759661287,forecast,Authoritarian
+Azerbaijan,2026-01-01,2.9312561658460634,forecast,Authoritarian
+Azerbaijan,2027-01-01,2.9637443557259977,forecast,Authoritarian
+Azerbaijan,2028-01-01,2.9963215543453297,forecast,Authoritarian
+Azerbaijan,2029-01-01,3.028809744225264,forecast,Authoritarian
+Azerbaijan,2030-01-01,3.0612979341051987,forecast,Authoritarian
+Bahrain,2010-01-01,3.49,historical,Authoritarian
+Bahrain,2011-01-01,2.92,historical,Authoritarian
+Bahrain,2012-01-01,2.53,historical,Authoritarian
+Bahrain,2013-01-01,2.87,historical,Authoritarian
+Bahrain,2014-01-01,2.87,historical,Authoritarian
+Bahrain,2015-01-01,2.79,historical,Authoritarian
+Bahrain,2016-01-01,2.79,historical,Authoritarian
+Bahrain,2017-01-01,2.71,historical,Authoritarian
+Bahrain,2018-01-01,2.71,historical,Authoritarian
+Bahrain,2019-01-01,2.55,historical,Authoritarian
+Bahrain,2020-01-01,2.49,historical,Authoritarian
+Bahrain,2021-01-01,2.52,historical,Authoritarian
+Bahrain,2022-01-01,2.52,historical,Authoritarian
+Bahrain,2023-01-01,2.52,historical,Authoritarian
+Bahrain,2024-01-01,2.45,historical,Authoritarian
+Bahrain,2025-01-01,2.430315534148543,forecast,Authoritarian
+Bahrain,2026-01-01,2.4097730697894586,forecast,Authoritarian
+Bahrain,2027-01-01,2.389230605430374,forecast,Authoritarian
+Bahrain,2028-01-01,2.368631860347018,forecast,Authoritarian
+Bahrain,2029-01-01,2.3480893959879325,forecast,Authoritarian
+Bahrain,2030-01-01,2.327546931628848,forecast,Authoritarian
+Bangladesh,2010-01-01,5.87,historical,Hybrid Regime
+Bangladesh,2011-01-01,5.86,historical,Hybrid Regime
+Bangladesh,2012-01-01,5.86,historical,Hybrid Regime
+Bangladesh,2013-01-01,5.86,historical,Hybrid Regime
+Bangladesh,2014-01-01,5.78,historical,Hybrid Regime
+Bangladesh,2015-01-01,5.73,historical,Hybrid Regime
+Bangladesh,2016-01-01,5.73,historical,Hybrid Regime
+Bangladesh,2017-01-01,5.43,historical,Hybrid Regime
+Bangladesh,2018-01-01,5.57,historical,Hybrid Regime
+Bangladesh,2019-01-01,5.88,historical,Hybrid Regime
+Bangladesh,2020-01-01,5.99,historical,Hybrid Regime
+Bangladesh,2021-01-01,5.99,historical,Hybrid Regime
+Bangladesh,2022-01-01,5.99,historical,Hybrid Regime
+Bangladesh,2023-01-01,5.87,historical,Hybrid Regime
+Bangladesh,2024-01-01,4.44,historical,Hybrid Regime
+Bangladesh,2025-01-01,4.086119021554818,forecast,Hybrid Regime
+Bangladesh,2026-01-01,3.6685430278839783,forecast,Authoritarian
+Bangladesh,2027-01-01,3.250967034213138,forecast,Authoritarian
+Bangladesh,2028-01-01,2.8322469967240207,forecast,Authoritarian
+Bangladesh,2029-01-01,2.414671003053181,forecast,Authoritarian
+Bangladesh,2030-01-01,1.99709500938234,forecast,Authoritarian
+Belarus,2010-01-01,3.34,historical,Authoritarian
+Belarus,2011-01-01,3.16,historical,Authoritarian
+Belarus,2012-01-01,3.04,historical,Authoritarian
+Belarus,2013-01-01,3.04,historical,Authoritarian
+Belarus,2014-01-01,3.69,historical,Authoritarian
+Belarus,2015-01-01,3.62,historical,Authoritarian
+Belarus,2016-01-01,3.54,historical,Authoritarian
+Belarus,2017-01-01,3.13,historical,Authoritarian
+Belarus,2018-01-01,3.13,historical,Authoritarian
+Belarus,2019-01-01,2.48,historical,Authoritarian
+Belarus,2020-01-01,2.59,historical,Authoritarian
+Belarus,2021-01-01,2.41,historical,Authoritarian
+Belarus,2022-01-01,1.99,historical,Authoritarian
+Belarus,2023-01-01,1.99,historical,Authoritarian
+Belarus,2024-01-01,1.99,historical,Authoritarian
+Belarus,2025-01-01,1.5729637698681733,forecast,Authoritarian
+Belarus,2026-01-01,1.4203408524067906,forecast,Authoritarian
+Belarus,2027-01-01,1.2677179349454077,forecast,Authoritarian
+Belarus,2028-01-01,1.1146768725046787,forecast,Authoritarian
+Belarus,2029-01-01,0.962053955043296,forecast,Authoritarian
+Belarus,2030-01-01,0.809431037581913,forecast,Authoritarian
+Belgium,2010-01-01,8.05,historical,Full Democracy
+Belgium,2011-01-01,8.05,historical,Full Democracy
+Belgium,2012-01-01,8.05,historical,Full Democracy
+Belgium,2013-01-01,8.05,historical,Full Democracy
+Belgium,2014-01-01,7.93,historical,Flawed Democracy
+Belgium,2015-01-01,7.93,historical,Flawed Democracy
+Belgium,2016-01-01,7.77,historical,Flawed Democracy
+Belgium,2017-01-01,7.78,historical,Flawed Democracy
+Belgium,2018-01-01,7.78,historical,Flawed Democracy
+Belgium,2019-01-01,7.64,historical,Flawed Democracy
+Belgium,2020-01-01,7.51,historical,Flawed Democracy
+Belgium,2021-01-01,7.51,historical,Flawed Democracy
+Belgium,2022-01-01,7.64,historical,Flawed Democracy
+Belgium,2023-01-01,7.64,historical,Flawed Democracy
+Belgium,2024-01-01,7.64,historical,Flawed Democracy
+Belgium,2025-01-01,7.743695490670854,forecast,Flawed Democracy
+Belgium,2026-01-01,7.782622246006941,forecast,Flawed Democracy
+Belgium,2027-01-01,7.821549001343027,forecast,Flawed Democracy
+Belgium,2028-01-01,7.860582405323871,forecast,Flawed Democracy
+Belgium,2029-01-01,7.8995091606599575,forecast,Flawed Democracy
+Belgium,2030-01-01,7.9384359159960445,forecast,Flawed Democracy
+Benin,2010-01-01,6.17,historical,Flawed Democracy
+Benin,2011-01-01,6.06,historical,Flawed Democracy
+Benin,2012-01-01,6.0,historical,Hybrid Regime
+Benin,2013-01-01,5.87,historical,Hybrid Regime
+Benin,2014-01-01,5.65,historical,Hybrid Regime
+Benin,2015-01-01,5.72,historical,Hybrid Regime
+Benin,2016-01-01,5.67,historical,Hybrid Regime
+Benin,2017-01-01,5.61,historical,Hybrid Regime
+Benin,2018-01-01,5.74,historical,Hybrid Regime
+Benin,2019-01-01,5.09,historical,Hybrid Regime
+Benin,2020-01-01,4.58,historical,Hybrid Regime
+Benin,2021-01-01,4.19,historical,Hybrid Regime
+Benin,2022-01-01,4.28,historical,Hybrid Regime
+Benin,2023-01-01,4.68,historical,Hybrid Regime
+Benin,2024-01-01,4.44,historical,Hybrid Regime
+Benin,2025-01-01,4.786907583812315,forecast,Hybrid Regime
+Benin,2026-01-01,4.898166386787332,forecast,Hybrid Regime
+Benin,2027-01-01,5.009425189762347,forecast,Hybrid Regime
+Benin,2028-01-01,5.120988811375652,forecast,Hybrid Regime
+Benin,2029-01-01,5.232247614350669,forecast,Hybrid Regime
+Benin,2030-01-01,5.343506417325685,forecast,Hybrid Regime
+Bhutan,2010-01-01,4.68,historical,Hybrid Regime
+Bhutan,2011-01-01,4.57,historical,Hybrid Regime
+Bhutan,2012-01-01,4.65,historical,Hybrid Regime
+Bhutan,2013-01-01,4.82,historical,Hybrid Regime
+Bhutan,2014-01-01,4.87,historical,Hybrid Regime
+Bhutan,2015-01-01,4.93,historical,Hybrid Regime
+Bhutan,2016-01-01,4.93,historical,Hybrid Regime
+Bhutan,2017-01-01,5.08,historical,Hybrid Regime
+Bhutan,2018-01-01,5.3,historical,Hybrid Regime
+Bhutan,2019-01-01,5.3,historical,Hybrid Regime
+Bhutan,2020-01-01,5.71,historical,Hybrid Regime
+Bhutan,2021-01-01,5.71,historical,Hybrid Regime
+Bhutan,2022-01-01,5.54,historical,Hybrid Regime
+Bhutan,2023-01-01,5.54,historical,Hybrid Regime
+Bhutan,2024-01-01,5.65,historical,Hybrid Regime
+Bhutan,2025-01-01,5.535369087400445,forecast,Hybrid Regime
+Bhutan,2026-01-01,5.513324138129293,forecast,Hybrid Regime
+Bhutan,2027-01-01,5.491279188858141,forecast,Hybrid Regime
+Bhutan,2028-01-01,5.469173842465699,forecast,Hybrid Regime
+Bhutan,2029-01-01,5.447128893194546,forecast,Hybrid Regime
+Bhutan,2030-01-01,5.4250839439233935,forecast,Hybrid Regime
+Bolivia,2010-01-01,5.92,historical,Hybrid Regime
+Bolivia,2011-01-01,5.84,historical,Hybrid Regime
+Bolivia,2012-01-01,5.84,historical,Hybrid Regime
+Bolivia,2013-01-01,5.79,historical,Hybrid Regime
+Bolivia,2014-01-01,5.79,historical,Hybrid Regime
+Bolivia,2015-01-01,5.75,historical,Hybrid Regime
+Bolivia,2016-01-01,5.63,historical,Hybrid Regime
+Bolivia,2017-01-01,5.49,historical,Hybrid Regime
+Bolivia,2018-01-01,5.7,historical,Hybrid Regime
+Bolivia,2019-01-01,4.84,historical,Hybrid Regime
+Bolivia,2020-01-01,5.08,historical,Hybrid Regime
+Bolivia,2021-01-01,4.65,historical,Hybrid Regime
+Bolivia,2022-01-01,4.51,historical,Hybrid Regime
+Bolivia,2023-01-01,4.2,historical,Hybrid Regime
+Bolivia,2024-01-01,4.26,historical,Hybrid Regime
+Bolivia,2025-01-01,3.872680926824452,forecast,Authoritarian
+Bolivia,2026-01-01,3.7197011295387266,forecast,Authoritarian
+Bolivia,2027-01-01,3.5667213322530014,forecast,Authoritarian
+Bolivia,2028-01-01,3.4133224122349852,forecast,Authoritarian
+Bolivia,2029-01-01,3.2603426149492605,forecast,Authoritarian
+Bolivia,2030-01-01,3.107362817663535,forecast,Authoritarian
+Bosnia and Herzegovina,2010-01-01,5.32,historical,Hybrid Regime
+Bosnia and Herzegovina,2011-01-01,5.24,historical,Hybrid Regime
+Bosnia and Herzegovina,2012-01-01,5.11,historical,Hybrid Regime
+Bosnia and Herzegovina,2013-01-01,5.02,historical,Hybrid Regime
+Bosnia and Herzegovina,2014-01-01,4.78,historical,Hybrid Regime
+Bosnia and Herzegovina,2015-01-01,4.83,historical,Hybrid Regime
+Bosnia and Herzegovina,2016-01-01,4.87,historical,Hybrid Regime
+Bosnia and Herzegovina,2017-01-01,4.87,historical,Hybrid Regime
+Bosnia and Herzegovina,2018-01-01,4.98,historical,Hybrid Regime
+Bosnia and Herzegovina,2019-01-01,4.86,historical,Hybrid Regime
+Bosnia and Herzegovina,2020-01-01,4.84,historical,Hybrid Regime
+Bosnia and Herzegovina,2021-01-01,5.04,historical,Hybrid Regime
+Bosnia and Herzegovina,2022-01-01,5.0,historical,Hybrid Regime
+Bosnia and Herzegovina,2023-01-01,5.0,historical,Hybrid Regime
+Bosnia and Herzegovina,2024-01-01,5.06,historical,Hybrid Regime
+Bosnia and Herzegovina,2025-01-01,5.047477123056453,forecast,Hybrid Regime
+Bosnia and Herzegovina,2026-01-01,5.053990729941099,forecast,Hybrid Regime
+Bosnia and Herzegovina,2027-01-01,5.060504336825747,forecast,Hybrid Regime
+Bosnia and Herzegovina,2028-01-01,5.067035789208707,forecast,Hybrid Regime
+Bosnia and Herzegovina,2029-01-01,5.073549396093354,forecast,Hybrid Regime
+Bosnia and Herzegovina,2030-01-01,5.080063002978002,forecast,Hybrid Regime
+Botswana,2010-01-01,7.63,historical,Flawed Democracy
+Botswana,2011-01-01,7.63,historical,Flawed Democracy
+Botswana,2012-01-01,7.85,historical,Flawed Democracy
+Botswana,2013-01-01,7.98,historical,Flawed Democracy
+Botswana,2014-01-01,7.87,historical,Flawed Democracy
+Botswana,2015-01-01,7.87,historical,Flawed Democracy
+Botswana,2016-01-01,7.87,historical,Flawed Democracy
+Botswana,2017-01-01,7.81,historical,Flawed Democracy
+Botswana,2018-01-01,7.81,historical,Flawed Democracy
+Botswana,2019-01-01,7.81,historical,Flawed Democracy
+Botswana,2020-01-01,7.62,historical,Flawed Democracy
+Botswana,2021-01-01,7.73,historical,Flawed Democracy
+Botswana,2022-01-01,7.73,historical,Flawed Democracy
+Botswana,2023-01-01,7.73,historical,Flawed Democracy
+Botswana,2024-01-01,7.63,historical,Flawed Democracy
+Botswana,2025-01-01,7.6011572945410055,forecast,Flawed Democracy
+Botswana,2026-01-01,7.571559751941917,forecast,Flawed Democracy
+Botswana,2027-01-01,7.541962209342829,forecast,Flawed Democracy
+Botswana,2028-01-01,7.512283577585935,forecast,Flawed Democracy
+Botswana,2029-01-01,7.482686034986846,forecast,Flawed Democracy
+Botswana,2030-01-01,7.453088492387757,forecast,Flawed Democracy
+Brazil,2010-01-01,7.12,historical,Flawed Democracy
+Brazil,2011-01-01,7.12,historical,Flawed Democracy
+Brazil,2012-01-01,7.12,historical,Flawed Democracy
+Brazil,2013-01-01,7.12,historical,Flawed Democracy
+Brazil,2014-01-01,7.38,historical,Flawed Democracy
+Brazil,2015-01-01,6.96,historical,Flawed Democracy
+Brazil,2016-01-01,6.9,historical,Flawed Democracy
+Brazil,2017-01-01,6.86,historical,Flawed Democracy
+Brazil,2018-01-01,6.97,historical,Flawed Democracy
+Brazil,2019-01-01,6.86,historical,Flawed Democracy
+Brazil,2020-01-01,6.92,historical,Flawed Democracy
+Brazil,2021-01-01,6.86,historical,Flawed Democracy
+Brazil,2022-01-01,6.78,historical,Flawed Democracy
+Brazil,2023-01-01,6.68,historical,Flawed Democracy
+Brazil,2024-01-01,6.49,historical,Flawed Democracy
+Brazil,2025-01-01,6.279416355307929,forecast,Flawed Democracy
+Brazil,2026-01-01,6.158535355163077,forecast,Flawed Democracy
+Brazil,2027-01-01,6.037654355018225,forecast,Flawed Democracy
+Brazil,2028-01-01,5.916442174051059,forecast,Hybrid Regime
+Brazil,2029-01-01,5.795561173906208,forecast,Hybrid Regime
+Brazil,2030-01-01,5.674680173761355,forecast,Hybrid Regime
+Bulgaria,2010-01-01,6.84,historical,Flawed Democracy
+Bulgaria,2011-01-01,6.78,historical,Flawed Democracy
+Bulgaria,2012-01-01,6.72,historical,Flawed Democracy
+Bulgaria,2013-01-01,6.83,historical,Flawed Democracy
+Bulgaria,2014-01-01,6.73,historical,Flawed Democracy
+Bulgaria,2015-01-01,7.14,historical,Flawed Democracy
+Bulgaria,2016-01-01,7.01,historical,Flawed Democracy
+Bulgaria,2017-01-01,7.03,historical,Flawed Democracy
+Bulgaria,2018-01-01,7.03,historical,Flawed Democracy
+Bulgaria,2019-01-01,7.03,historical,Flawed Democracy
+Bulgaria,2020-01-01,6.71,historical,Flawed Democracy
+Bulgaria,2021-01-01,6.64,historical,Flawed Democracy
+Bulgaria,2022-01-01,6.53,historical,Flawed Democracy
+Bulgaria,2023-01-01,6.41,historical,Flawed Democracy
+Bulgaria,2024-01-01,6.34,historical,Flawed Democracy
+Bulgaria,2025-01-01,6.123249651686238,forecast,Flawed Democracy
+Bulgaria,2026-01-01,6.021336535925327,forecast,Flawed Democracy
+Bulgaria,2027-01-01,5.919423420164416,forecast,Hybrid Regime
+Bulgaria,2028-01-01,5.817231090387722,forecast,Hybrid Regime
+Bulgaria,2029-01-01,5.715317974626811,forecast,Hybrid Regime
+Bulgaria,2030-01-01,5.613404858865901,forecast,Hybrid Regime
+Burkina Faso,2010-01-01,3.59,historical,Authoritarian
+Burkina Faso,2011-01-01,3.59,historical,Authoritarian
+Burkina Faso,2012-01-01,3.52,historical,Authoritarian
+Burkina Faso,2013-01-01,4.15,historical,Hybrid Regime
+Burkina Faso,2014-01-01,4.09,historical,Hybrid Regime
+Burkina Faso,2015-01-01,4.7,historical,Hybrid Regime
+Burkina Faso,2016-01-01,4.7,historical,Hybrid Regime
+Burkina Faso,2017-01-01,4.75,historical,Hybrid Regime
+Burkina Faso,2018-01-01,4.75,historical,Hybrid Regime
+Burkina Faso,2019-01-01,4.04,historical,Hybrid Regime
+Burkina Faso,2020-01-01,3.73,historical,Authoritarian
+Burkina Faso,2021-01-01,3.84,historical,Authoritarian
+Burkina Faso,2022-01-01,3.08,historical,Authoritarian
+Burkina Faso,2023-01-01,2.73,historical,Authoritarian
+Burkina Faso,2024-01-01,2.55,historical,Authoritarian
+Burkina Faso,2025-01-01,1.7638601464783625,forecast,Authoritarian
+Burkina Faso,2026-01-01,1.4080263367247117,forecast,Authoritarian
+Burkina Faso,2027-01-01,1.052192526971059,forecast,Authoritarian
+Burkina Faso,2028-01-01,0.6953838300673973,forecast,Authoritarian
+Burkina Faso,2029-01-01,0.33955002031374554,forecast,Authoritarian
+Burkina Faso,2030-01-01,0.0,forecast,Authoritarian
+Burundi,2010-01-01,4.01,historical,Hybrid Regime
+Burundi,2011-01-01,4.01,historical,Hybrid Regime
+Burundi,2012-01-01,3.6,historical,Authoritarian
+Burundi,2013-01-01,3.41,historical,Authoritarian
+Burundi,2014-01-01,3.33,historical,Authoritarian
+Burundi,2015-01-01,2.49,historical,Authoritarian
+Burundi,2016-01-01,2.4,historical,Authoritarian
+Burundi,2017-01-01,2.33,historical,Authoritarian
+Burundi,2018-01-01,2.33,historical,Authoritarian
+Burundi,2019-01-01,2.15,historical,Authoritarian
+Burundi,2020-01-01,2.14,historical,Authoritarian
+Burundi,2021-01-01,2.13,historical,Authoritarian
+Burundi,2022-01-01,2.13,historical,Authoritarian
+Burundi,2023-01-01,2.13,historical,Authoritarian
+Burundi,2024-01-01,2.13,historical,Authoritarian
+Burundi,2025-01-01,2.1300000781596835,forecast,Authoritarian
+Burundi,2026-01-01,2.1300000827232486,forecast,Authoritarian
+Burundi,2027-01-01,2.130000087286814,forecast,Authoritarian
+Burundi,2028-01-01,2.1300000918628816,forecast,Authoritarian
+Burundi,2029-01-01,2.130000096426447,forecast,Authoritarian
+Burundi,2030-01-01,2.1300001009900122,forecast,Authoritarian
+Cambodia,2010-01-01,4.87,historical,Hybrid Regime
+Cambodia,2011-01-01,4.87,historical,Hybrid Regime
+Cambodia,2012-01-01,4.96,historical,Hybrid Regime
+Cambodia,2013-01-01,4.6,historical,Hybrid Regime
+Cambodia,2014-01-01,4.78,historical,Hybrid Regime
+Cambodia,2015-01-01,4.27,historical,Hybrid Regime
+Cambodia,2016-01-01,4.27,historical,Hybrid Regime
+Cambodia,2017-01-01,3.63,historical,Authoritarian
+Cambodia,2018-01-01,3.59,historical,Authoritarian
+Cambodia,2019-01-01,3.53,historical,Authoritarian
+Cambodia,2020-01-01,3.1,historical,Authoritarian
+Cambodia,2021-01-01,2.9,historical,Authoritarian
+Cambodia,2022-01-01,3.18,historical,Authoritarian
+Cambodia,2023-01-01,3.05,historical,Authoritarian
+Cambodia,2024-01-01,2.94,historical,Authoritarian
+Cambodia,2025-01-01,2.97864356891526,forecast,Authoritarian
+Cambodia,2026-01-01,2.9675374554649276,forecast,Authoritarian
+Cambodia,2027-01-01,2.9564313420145947,forecast,Authoritarian
+Cambodia,2028-01-01,2.945294800856179,forecast,Authoritarian
+Cambodia,2029-01-01,2.9341886874058463,forecast,Authoritarian
+Cambodia,2030-01-01,2.9230825739555133,forecast,Authoritarian
+Cameroon,2010-01-01,3.41,historical,Authoritarian
+Cameroon,2011-01-01,3.41,historical,Authoritarian
+Cameroon,2012-01-01,3.44,historical,Authoritarian
+Cameroon,2013-01-01,3.41,historical,Authoritarian
+Cameroon,2014-01-01,3.41,historical,Authoritarian
+Cameroon,2015-01-01,3.66,historical,Authoritarian
+Cameroon,2016-01-01,3.46,historical,Authoritarian
+Cameroon,2017-01-01,3.61,historical,Authoritarian
+Cameroon,2018-01-01,3.28,historical,Authoritarian
+Cameroon,2019-01-01,2.85,historical,Authoritarian
+Cameroon,2020-01-01,2.77,historical,Authoritarian
+Cameroon,2021-01-01,2.56,historical,Authoritarian
+Cameroon,2022-01-01,2.56,historical,Authoritarian
+Cameroon,2023-01-01,2.56,historical,Authoritarian
+Cameroon,2024-01-01,2.56,historical,Authoritarian
+Cameroon,2025-01-01,2.5600000677461776,forecast,Authoritarian
+Cameroon,2026-01-01,2.560000072971681,forecast,Authoritarian
+Cameroon,2027-01-01,2.560000078197185,forecast,Authoritarian
+Cameroon,2028-01-01,2.560000083437005,forecast,Authoritarian
+Cameroon,2029-01-01,2.5600000886625085,forecast,Authoritarian
+Cameroon,2030-01-01,2.5600000938880125,forecast,Authoritarian
+Canada,2010-01-01,9.08,historical,Full Democracy
+Canada,2011-01-01,9.08,historical,Full Democracy
+Canada,2012-01-01,9.08,historical,Full Democracy
+Canada,2013-01-01,9.08,historical,Full Democracy
+Canada,2014-01-01,9.08,historical,Full Democracy
+Canada,2015-01-01,9.08,historical,Full Democracy
+Canada,2016-01-01,9.15,historical,Full Democracy
+Canada,2017-01-01,9.15,historical,Full Democracy
+Canada,2018-01-01,9.15,historical,Full Democracy
+Canada,2019-01-01,9.22,historical,Full Democracy
+Canada,2020-01-01,9.24,historical,Full Democracy
+Canada,2021-01-01,8.87,historical,Full Democracy
+Canada,2022-01-01,8.88,historical,Full Democracy
+Canada,2023-01-01,8.69,historical,Full Democracy
+Canada,2024-01-01,8.69,historical,Full Democracy
+Canada,2025-01-01,8.524460358879649,forecast,Full Democracy
+Canada,2026-01-01,8.450577147721269,forecast,Full Democracy
+Canada,2027-01-01,8.376693936562889,forecast,Full Democracy
+Canada,2028-01-01,8.302608305647912,forecast,Full Democracy
+Canada,2029-01-01,8.228725094489532,forecast,Full Democracy
+Canada,2030-01-01,8.154841883331152,forecast,Full Democracy
+Cape Verde,2010-01-01,7.94,historical,Flawed Democracy
+Cape Verde,2011-01-01,7.92,historical,Flawed Democracy
+Cape Verde,2012-01-01,7.92,historical,Flawed Democracy
+Cape Verde,2013-01-01,7.92,historical,Flawed Democracy
+Cape Verde,2014-01-01,7.81,historical,Flawed Democracy
+Cape Verde,2015-01-01,7.81,historical,Flawed Democracy
+Cape Verde,2016-01-01,7.94,historical,Flawed Democracy
+Cape Verde,2017-01-01,7.88,historical,Flawed Democracy
+Cape Verde,2018-01-01,7.88,historical,Flawed Democracy
+Cape Verde,2019-01-01,7.78,historical,Flawed Democracy
+Cape Verde,2020-01-01,7.65,historical,Flawed Democracy
+Cape Verde,2021-01-01,7.65,historical,Flawed Democracy
+Cape Verde,2022-01-01,7.65,historical,Flawed Democracy
+Cape Verde,2023-01-01,7.65,historical,Flawed Democracy
+Cape Verde,2024-01-01,7.58,historical,Flawed Democracy
+Cape Verde,2025-01-01,7.559570315056211,forecast,Flawed Democracy
+Cape Verde,2026-01-01,7.538768645632717,forecast,Flawed Democracy
+Cape Verde,2027-01-01,7.517966976209223,forecast,Flawed Democracy
+Cape Verde,2028-01-01,7.497108315910595,forecast,Flawed Democracy
+Cape Verde,2029-01-01,7.476306646487101,forecast,Flawed Democracy
+Cape Verde,2030-01-01,7.455504977063606,forecast,Flawed Democracy
+Central African Republic,2010-01-01,1.82,historical,Authoritarian
+Central African Republic,2011-01-01,1.82,historical,Authoritarian
+Central African Republic,2012-01-01,1.99,historical,Authoritarian
+Central African Republic,2013-01-01,1.49,historical,Authoritarian
+Central African Republic,2014-01-01,1.49,historical,Authoritarian
+Central African Republic,2015-01-01,1.57,historical,Authoritarian
+Central African Republic,2016-01-01,1.61,historical,Authoritarian
+Central African Republic,2017-01-01,1.52,historical,Authoritarian
+Central African Republic,2018-01-01,1.52,historical,Authoritarian
+Central African Republic,2019-01-01,1.32,historical,Authoritarian
+Central African Republic,2020-01-01,1.32,historical,Authoritarian
+Central African Republic,2021-01-01,1.43,historical,Authoritarian
+Central African Republic,2022-01-01,1.35,historical,Authoritarian
+Central African Republic,2023-01-01,1.18,historical,Authoritarian
+Central African Republic,2024-01-01,1.18,historical,Authoritarian
+Central African Republic,2025-01-01,1.0907071621685966,forecast,Authoritarian
+Central African Republic,2026-01-01,1.0408425840938085,forecast,Authoritarian
+Central African Republic,2027-01-01,0.9909780060190201,forecast,Authoritarian
+Central African Republic,2028-01-01,0.9409768126618352,forecast,Authoritarian
+Central African Republic,2029-01-01,0.8911122345870471,forecast,Authoritarian
+Central African Republic,2030-01-01,0.8412476565122589,forecast,Authoritarian
+Chad,2010-01-01,1.52,historical,Authoritarian
+Chad,2011-01-01,1.62,historical,Authoritarian
+Chad,2012-01-01,1.62,historical,Authoritarian
+Chad,2013-01-01,1.5,historical,Authoritarian
+Chad,2014-01-01,1.5,historical,Authoritarian
+Chad,2015-01-01,1.5,historical,Authoritarian
+Chad,2016-01-01,1.5,historical,Authoritarian
+Chad,2017-01-01,1.5,historical,Authoritarian
+Chad,2018-01-01,1.61,historical,Authoritarian
+Chad,2019-01-01,1.61,historical,Authoritarian
+Chad,2020-01-01,1.55,historical,Authoritarian
+Chad,2021-01-01,1.67,historical,Authoritarian
+Chad,2022-01-01,1.67,historical,Authoritarian
+Chad,2023-01-01,1.67,historical,Authoritarian
+Chad,2024-01-01,1.89,historical,Authoritarian
+Chad,2025-01-01,1.946378527946994,forecast,Authoritarian
+Chad,2026-01-01,2.009629536457756,forecast,Authoritarian
+Chad,2027-01-01,2.0728805449685184,forecast,Authoritarian
+Chad,2028-01-01,2.136304843913557,forecast,Authoritarian
+Chad,2029-01-01,2.199555852424319,forecast,Authoritarian
+Chad,2030-01-01,2.2628068609350813,forecast,Authoritarian
+Chile,2010-01-01,7.67,historical,Flawed Democracy
+Chile,2011-01-01,7.54,historical,Flawed Democracy
+Chile,2012-01-01,7.54,historical,Flawed Democracy
+Chile,2013-01-01,7.8,historical,Flawed Democracy
+Chile,2014-01-01,7.8,historical,Flawed Democracy
+Chile,2015-01-01,7.84,historical,Flawed Democracy
+Chile,2016-01-01,7.78,historical,Flawed Democracy
+Chile,2017-01-01,7.84,historical,Flawed Democracy
+Chile,2018-01-01,7.97,historical,Flawed Democracy
+Chile,2019-01-01,8.08,historical,Full Democracy
+Chile,2020-01-01,8.28,historical,Full Democracy
+Chile,2021-01-01,7.92,historical,Flawed Democracy
+Chile,2022-01-01,8.22,historical,Full Democracy
+Chile,2023-01-01,7.98,historical,Flawed Democracy
+Chile,2024-01-01,7.83,historical,Flawed Democracy
+Chile,2025-01-01,7.780681337967896,forecast,Flawed Democracy
+Chile,2026-01-01,7.719833698465639,forecast,Flawed Democracy
+Chile,2027-01-01,7.6589860589633805,forecast,Flawed Democracy
+Chile,2028-01-01,7.597971713599472,forecast,Flawed Democracy
+Chile,2029-01-01,7.537124074097214,forecast,Flawed Democracy
+Chile,2030-01-01,7.476276434594957,forecast,Flawed Democracy
+China,2010-01-01,3.14,historical,Authoritarian
+China,2011-01-01,3.14,historical,Authoritarian
+China,2012-01-01,3.0,historical,Authoritarian
+China,2013-01-01,3.0,historical,Authoritarian
+China,2014-01-01,3.0,historical,Authoritarian
+China,2015-01-01,3.14,historical,Authoritarian
+China,2016-01-01,3.14,historical,Authoritarian
+China,2017-01-01,3.1,historical,Authoritarian
+China,2018-01-01,3.32,historical,Authoritarian
+China,2019-01-01,2.26,historical,Authoritarian
+China,2020-01-01,2.27,historical,Authoritarian
+China,2021-01-01,2.21,historical,Authoritarian
+China,2022-01-01,1.94,historical,Authoritarian
+China,2023-01-01,2.12,historical,Authoritarian
+China,2024-01-01,2.11,historical,Authoritarian
+China,2025-01-01,2.019072344420341,forecast,Authoritarian
+China,2026-01-01,1.9960973827817918,forecast,Authoritarian
+China,2027-01-01,1.9731224211432432,forecast,Authoritarian
+China,2028-01-01,1.9500845144043144,forecast,Authoritarian
+China,2029-01-01,1.9271095527657653,forecast,Authoritarian
+China,2030-01-01,1.9041345911272167,forecast,Authoritarian
+Colombia,2010-01-01,6.55,historical,Flawed Democracy
+Colombia,2011-01-01,6.63,historical,Flawed Democracy
+Colombia,2012-01-01,6.63,historical,Flawed Democracy
+Colombia,2013-01-01,6.55,historical,Flawed Democracy
+Colombia,2014-01-01,6.55,historical,Flawed Democracy
+Colombia,2015-01-01,6.62,historical,Flawed Democracy
+Colombia,2016-01-01,6.67,historical,Flawed Democracy
+Colombia,2017-01-01,6.67,historical,Flawed Democracy
+Colombia,2018-01-01,6.96,historical,Flawed Democracy
+Colombia,2019-01-01,7.13,historical,Flawed Democracy
+Colombia,2020-01-01,7.04,historical,Flawed Democracy
+Colombia,2021-01-01,6.48,historical,Flawed Democracy
+Colombia,2022-01-01,6.72,historical,Flawed Democracy
+Colombia,2023-01-01,6.55,historical,Flawed Democracy
+Colombia,2024-01-01,6.35,historical,Flawed Democracy
+Colombia,2025-01-01,6.303244905352766,forecast,Flawed Democracy
+Colombia,2026-01-01,6.238288541884115,forecast,Flawed Democracy
+Colombia,2027-01-01,6.173332178415464,forecast,Flawed Democracy
+Colombia,2028-01-01,6.108197852307172,forecast,Flawed Democracy
+Colombia,2029-01-01,6.043241488838521,forecast,Flawed Democracy
+Colombia,2030-01-01,5.978285125369869,forecast,Hybrid Regime
+Comoros,2010-01-01,3.41,historical,Authoritarian
+Comoros,2011-01-01,3.52,historical,Authoritarian
+Comoros,2012-01-01,3.52,historical,Authoritarian
+Comoros,2013-01-01,3.52,historical,Authoritarian
+Comoros,2014-01-01,3.52,historical,Authoritarian
+Comoros,2015-01-01,3.71,historical,Authoritarian
+Comoros,2016-01-01,3.71,historical,Authoritarian
+Comoros,2017-01-01,3.71,historical,Authoritarian
+Comoros,2018-01-01,3.71,historical,Authoritarian
+Comoros,2019-01-01,3.15,historical,Authoritarian
+Comoros,2020-01-01,3.09,historical,Authoritarian
+Comoros,2021-01-01,3.2,historical,Authoritarian
+Comoros,2022-01-01,3.2,historical,Authoritarian
+Comoros,2023-01-01,3.04,historical,Authoritarian
+Comoros,2024-01-01,2.84,historical,Authoritarian
+Comoros,2025-01-01,2.645249915396416,forecast,Authoritarian
+Comoros,2026-01-01,2.5244667962242806,forecast,Authoritarian
+Comoros,2027-01-01,2.4036836770521446,forecast,Authoritarian
+Comoros,2028-01-01,2.282569645224743,forecast,Authoritarian
+Comoros,2029-01-01,2.161786526052608,forecast,Authoritarian
+Comoros,2030-01-01,2.0410034068804723,forecast,Authoritarian
+Congo,2010-01-01,2.89,historical,Authoritarian
+Congo,2011-01-01,2.89,historical,Authoritarian
+Congo,2012-01-01,2.89,historical,Authoritarian
+Congo,2013-01-01,2.89,historical,Authoritarian
+Congo,2014-01-01,2.89,historical,Authoritarian
+Congo,2015-01-01,2.91,historical,Authoritarian
+Congo,2016-01-01,2.91,historical,Authoritarian
+Congo,2017-01-01,3.25,historical,Authoritarian
+Congo,2018-01-01,3.31,historical,Authoritarian
+Congo,2019-01-01,3.11,historical,Authoritarian
+Congo,2020-01-01,3.11,historical,Authoritarian
+Congo,2021-01-01,2.79,historical,Authoritarian
+Congo,2022-01-01,2.79,historical,Authoritarian
+Congo,2023-01-01,2.79,historical,Authoritarian
+Congo,2024-01-01,2.79,historical,Authoritarian
+Congo,2025-01-01,2.7899999607221604,forecast,Authoritarian
+Congo,2026-01-01,2.7899999559963633,forecast,Authoritarian
+Congo,2027-01-01,2.789999951270566,forecast,Authoritarian
+Congo,2028-01-01,2.789999946531822,forecast,Authoritarian
+Congo,2029-01-01,2.7899999418060255,forecast,Authoritarian
+Congo,2030-01-01,2.7899999370802284,forecast,Authoritarian
+Costa Rica,2010-01-01,8.04,historical,Full Democracy
+Costa Rica,2011-01-01,8.1,historical,Full Democracy
+Costa Rica,2012-01-01,8.1,historical,Full Democracy
+Costa Rica,2013-01-01,8.03,historical,Full Democracy
+Costa Rica,2014-01-01,8.03,historical,Full Democracy
+Costa Rica,2015-01-01,7.96,historical,Flawed Democracy
+Costa Rica,2016-01-01,7.88,historical,Flawed Democracy
+Costa Rica,2017-01-01,7.88,historical,Flawed Democracy
+Costa Rica,2018-01-01,8.07,historical,Full Democracy
+Costa Rica,2019-01-01,8.13,historical,Full Democracy
+Costa Rica,2020-01-01,8.16,historical,Full Democracy
+Costa Rica,2021-01-01,8.07,historical,Full Democracy
+Costa Rica,2022-01-01,8.29,historical,Full Democracy
+Costa Rica,2023-01-01,8.29,historical,Full Democracy
+Costa Rica,2024-01-01,8.29,historical,Full Democracy
+Costa Rica,2025-01-01,8.460530966524257,forecast,Full Democracy
+Costa Rica,2026-01-01,8.524629016336592,forecast,Full Democracy
+Costa Rica,2027-01-01,8.588727066148923,forecast,Full Democracy
+Costa Rica,2028-01-01,8.653000727056634,forecast,Full Democracy
+Costa Rica,2029-01-01,8.71709877686897,forecast,Full Democracy
+Costa Rica,2030-01-01,8.7811968266813,forecast,Full Democracy
+Cote d'Ivoire,2010-01-01,3.02,historical,Authoritarian
+Cote d'Ivoire,2011-01-01,3.08,historical,Authoritarian
+Cote d'Ivoire,2012-01-01,3.25,historical,Authoritarian
+Cote d'Ivoire,2013-01-01,3.25,historical,Authoritarian
+Cote d'Ivoire,2014-01-01,3.53,historical,Authoritarian
+Cote d'Ivoire,2015-01-01,3.31,historical,Authoritarian
+Cote d'Ivoire,2016-01-01,3.81,historical,Authoritarian
+Cote d'Ivoire,2017-01-01,3.93,historical,Authoritarian
+Cote d'Ivoire,2018-01-01,4.15,historical,Hybrid Regime
+Cote d'Ivoire,2019-01-01,4.05,historical,Hybrid Regime
+Cote d'Ivoire,2020-01-01,4.11,historical,Hybrid Regime
+Cote d'Ivoire,2021-01-01,4.22,historical,Hybrid Regime
+Cote d'Ivoire,2022-01-01,4.22,historical,Hybrid Regime
+Cote d'Ivoire,2023-01-01,4.22,historical,Hybrid Regime
+Cote d'Ivoire,2024-01-01,4.22,historical,Hybrid Regime
+Cote d'Ivoire,2025-01-01,4.2199999177046355,forecast,Hybrid Regime
+Cote d'Ivoire,2026-01-01,4.219999911679601,forecast,Hybrid Regime
+Cote d'Ivoire,2027-01-01,4.219999905654567,forecast,Hybrid Regime
+Cote d'Ivoire,2028-01-01,4.2199998996130255,forecast,Hybrid Regime
+Cote d'Ivoire,2029-01-01,4.219999893587992,forecast,Hybrid Regime
+Cote d'Ivoire,2030-01-01,4.219999887562957,forecast,Hybrid Regime
+Croatia,2010-01-01,6.81,historical,Flawed Democracy
+Croatia,2011-01-01,6.73,historical,Flawed Democracy
+Croatia,2012-01-01,6.93,historical,Flawed Democracy
+Croatia,2013-01-01,6.93,historical,Flawed Democracy
+Croatia,2014-01-01,6.93,historical,Flawed Democracy
+Croatia,2015-01-01,6.93,historical,Flawed Democracy
+Croatia,2016-01-01,6.75,historical,Flawed Democracy
+Croatia,2017-01-01,6.63,historical,Flawed Democracy
+Croatia,2018-01-01,6.57,historical,Flawed Democracy
+Croatia,2019-01-01,6.57,historical,Flawed Democracy
+Croatia,2020-01-01,6.5,historical,Flawed Democracy
+Croatia,2021-01-01,6.5,historical,Flawed Democracy
+Croatia,2022-01-01,6.5,historical,Flawed Democracy
+Croatia,2023-01-01,6.5,historical,Flawed Democracy
+Croatia,2024-01-01,6.5,historical,Flawed Democracy
+Croatia,2025-01-01,6.499999939302343,forecast,Flawed Democracy
+Croatia,2026-01-01,6.499999934355249,forecast,Flawed Democracy
+Croatia,2027-01-01,6.499999929408154,forecast,Flawed Democracy
+Croatia,2028-01-01,6.499999924447506,forecast,Flawed Democracy
+Croatia,2029-01-01,6.499999919500411,forecast,Flawed Democracy
+Croatia,2030-01-01,6.4999999145533165,forecast,Flawed Democracy
+Cuba,2010-01-01,3.52,historical,Authoritarian
+Cuba,2011-01-01,3.52,historical,Authoritarian
+Cuba,2012-01-01,3.52,historical,Authoritarian
+Cuba,2013-01-01,3.52,historical,Authoritarian
+Cuba,2014-01-01,3.52,historical,Authoritarian
+Cuba,2015-01-01,3.52,historical,Authoritarian
+Cuba,2016-01-01,3.46,historical,Authoritarian
+Cuba,2017-01-01,3.31,historical,Authoritarian
+Cuba,2018-01-01,3.0,historical,Authoritarian
+Cuba,2019-01-01,2.84,historical,Authoritarian
+Cuba,2020-01-01,2.84,historical,Authoritarian
+Cuba,2021-01-01,2.59,historical,Authoritarian
+Cuba,2022-01-01,2.65,historical,Authoritarian
+Cuba,2023-01-01,2.65,historical,Authoritarian
+Cuba,2024-01-01,2.58,historical,Authoritarian
+Cuba,2025-01-01,2.603245088981994,forecast,Authoritarian
+Cuba,2026-01-01,2.5989392596616727,forecast,Authoritarian
+Cuba,2027-01-01,2.5946334303413523,forecast,Authoritarian
+Cuba,2028-01-01,2.590315804228373,forecast,Authoritarian
+Cuba,2029-01-01,2.5860099749080523,forecast,Authoritarian
+Cuba,2030-01-01,2.581704145587732,forecast,Authoritarian
+Cyprus,2010-01-01,7.29,historical,Flawed Democracy
+Cyprus,2011-01-01,7.29,historical,Flawed Democracy
+Cyprus,2012-01-01,7.29,historical,Flawed Democracy
+Cyprus,2013-01-01,7.29,historical,Flawed Democracy
+Cyprus,2014-01-01,7.4,historical,Flawed Democracy
+Cyprus,2015-01-01,7.53,historical,Flawed Democracy
+Cyprus,2016-01-01,7.65,historical,Flawed Democracy
+Cyprus,2017-01-01,7.59,historical,Flawed Democracy
+Cyprus,2018-01-01,7.59,historical,Flawed Democracy
+Cyprus,2019-01-01,7.59,historical,Flawed Democracy
+Cyprus,2020-01-01,7.56,historical,Flawed Democracy
+Cyprus,2021-01-01,7.43,historical,Flawed Democracy
+Cyprus,2022-01-01,7.38,historical,Flawed Democracy
+Cyprus,2023-01-01,7.38,historical,Flawed Democracy
+Cyprus,2024-01-01,7.38,historical,Flawed Democracy
+Cyprus,2025-01-01,7.339697526227332,forecast,Flawed Democracy
+Cyprus,2026-01-01,7.324592595623687,forecast,Flawed Democracy
+Cyprus,2027-01-01,7.3094876650200415,forecast,Flawed Democracy
+Cyprus,2028-01-01,7.2943413510448805,forecast,Flawed Democracy
+Cyprus,2029-01-01,7.279236420441236,forecast,Flawed Democracy
+Cyprus,2030-01-01,7.26413148983759,forecast,Flawed Democracy
+Czechia,2010-01-01,8.19,historical,Full Democracy
+Czechia,2011-01-01,8.19,historical,Full Democracy
+Czechia,2012-01-01,8.19,historical,Full Democracy
+Czechia,2013-01-01,8.06,historical,Full Democracy
+Czechia,2014-01-01,7.94,historical,Flawed Democracy
+Czechia,2015-01-01,7.94,historical,Flawed Democracy
+Czechia,2016-01-01,7.82,historical,Flawed Democracy
+Czechia,2017-01-01,7.62,historical,Flawed Democracy
+Czechia,2018-01-01,7.69,historical,Flawed Democracy
+Czechia,2019-01-01,7.69,historical,Flawed Democracy
+Czechia,2020-01-01,7.67,historical,Flawed Democracy
+Czechia,2021-01-01,7.74,historical,Flawed Democracy
+Czechia,2022-01-01,7.97,historical,Flawed Democracy
+Czechia,2023-01-01,7.97,historical,Flawed Democracy
+Czechia,2024-01-01,8.08,historical,Full Democracy
+Czechia,2025-01-01,8.300566984303703,forecast,Full Democracy
+Czechia,2026-01-01,8.403807500171096,forecast,Full Democracy
+Czechia,2027-01-01,8.507048016038487,forecast,Full Democracy
+Czechia,2028-01-01,8.610571382634284,forecast,Full Democracy
+Czechia,2029-01-01,8.713811898501675,forecast,Full Democracy
+Czechia,2030-01-01,8.817052414369067,forecast,Full Democracy
+Democratic Republic of Congo,2010-01-01,2.15,historical,Authoritarian
+Democratic Republic of Congo,2011-01-01,2.15,historical,Authoritarian
+Democratic Republic of Congo,2012-01-01,1.92,historical,Authoritarian
+Democratic Republic of Congo,2013-01-01,1.83,historical,Authoritarian
+Democratic Republic of Congo,2014-01-01,1.75,historical,Authoritarian
+Democratic Republic of Congo,2015-01-01,2.11,historical,Authoritarian
+Democratic Republic of Congo,2016-01-01,1.93,historical,Authoritarian
+Democratic Republic of Congo,2017-01-01,1.61,historical,Authoritarian
+Democratic Republic of Congo,2018-01-01,1.49,historical,Authoritarian
+Democratic Republic of Congo,2019-01-01,1.13,historical,Authoritarian
+Democratic Republic of Congo,2020-01-01,1.13,historical,Authoritarian
+Democratic Republic of Congo,2021-01-01,1.4,historical,Authoritarian
+Democratic Republic of Congo,2022-01-01,1.48,historical,Authoritarian
+Democratic Republic of Congo,2023-01-01,1.68,historical,Authoritarian
+Democratic Republic of Congo,2024-01-01,1.92,historical,Authoritarian
+Democratic Republic of Congo,2025-01-01,2.2485609480401902,forecast,Authoritarian
+Democratic Republic of Congo,2026-01-01,2.4289293230905518,forecast,Authoritarian
+Democratic Republic of Congo,2027-01-01,2.6092976981409137,forecast,Authoritarian
+Democratic Republic of Congo,2028-01-01,2.7901602331229207,forecast,Authoritarian
+Democratic Republic of Congo,2029-01-01,2.970528608173282,forecast,Authoritarian
+Democratic Republic of Congo,2030-01-01,3.1508969832236438,forecast,Authoritarian
+Denmark,2010-01-01,9.52,historical,Full Democracy
+Denmark,2011-01-01,9.52,historical,Full Democracy
+Denmark,2012-01-01,9.52,historical,Full Democracy
+Denmark,2013-01-01,9.38,historical,Full Democracy
+Denmark,2014-01-01,9.11,historical,Full Democracy
+Denmark,2015-01-01,9.11,historical,Full Democracy
+Denmark,2016-01-01,9.2,historical,Full Democracy
+Denmark,2017-01-01,9.22,historical,Full Democracy
+Denmark,2018-01-01,9.22,historical,Full Democracy
+Denmark,2019-01-01,9.22,historical,Full Democracy
+Denmark,2020-01-01,9.15,historical,Full Democracy
+Denmark,2021-01-01,9.09,historical,Full Democracy
+Denmark,2022-01-01,9.28,historical,Full Democracy
+Denmark,2023-01-01,9.28,historical,Full Democracy
+Denmark,2024-01-01,9.28,historical,Full Democracy
+Denmark,2025-01-01,9.43093259844251,forecast,Full Democracy
+Denmark,2026-01-01,9.487627517579462,forecast,Full Democracy
+Denmark,2027-01-01,9.544322436716413,forecast,Full Democracy
+Denmark,2028-01-01,9.601172684398948,forecast,Full Democracy
+Denmark,2029-01-01,9.6578676035359,forecast,Full Democracy
+Denmark,2030-01-01,9.714562522672853,forecast,Full Democracy
+Djibouti,2010-01-01,2.2,historical,Authoritarian
+Djibouti,2011-01-01,2.68,historical,Authoritarian
+Djibouti,2012-01-01,2.74,historical,Authoritarian
+Djibouti,2013-01-01,2.96,historical,Authoritarian
+Djibouti,2014-01-01,2.99,historical,Authoritarian
+Djibouti,2015-01-01,2.9,historical,Authoritarian
+Djibouti,2016-01-01,2.83,historical,Authoritarian
+Djibouti,2017-01-01,2.76,historical,Authoritarian
+Djibouti,2018-01-01,2.87,historical,Authoritarian
+Djibouti,2019-01-01,2.77,historical,Authoritarian
+Djibouti,2020-01-01,2.71,historical,Authoritarian
+Djibouti,2021-01-01,2.74,historical,Authoritarian
+Djibouti,2022-01-01,2.74,historical,Authoritarian
+Djibouti,2023-01-01,2.7,historical,Authoritarian
+Djibouti,2024-01-01,2.7,historical,Authoritarian
+Djibouti,2025-01-01,2.664329174209162,forecast,Authoritarian
+Djibouti,2026-01-01,2.6484436728078014,forecast,Authoritarian
+Djibouti,2027-01-01,2.63255817140644,forecast,Authoritarian
+Djibouti,2028-01-01,2.616629148083432,forecast,Authoritarian
+Djibouti,2029-01-01,2.6007436466820706,forecast,Authoritarian
+Djibouti,2030-01-01,2.5848581452807093,forecast,Authoritarian
+Dominican Republic,2010-01-01,6.2,historical,Flawed Democracy
+Dominican Republic,2011-01-01,6.2,historical,Flawed Democracy
+Dominican Republic,2012-01-01,6.49,historical,Flawed Democracy
+Dominican Republic,2013-01-01,6.74,historical,Flawed Democracy
+Dominican Republic,2014-01-01,6.67,historical,Flawed Democracy
+Dominican Republic,2015-01-01,6.67,historical,Flawed Democracy
+Dominican Republic,2016-01-01,6.67,historical,Flawed Democracy
+Dominican Republic,2017-01-01,6.66,historical,Flawed Democracy
+Dominican Republic,2018-01-01,6.54,historical,Flawed Democracy
+Dominican Republic,2019-01-01,6.54,historical,Flawed Democracy
+Dominican Republic,2020-01-01,6.32,historical,Flawed Democracy
+Dominican Republic,2021-01-01,6.45,historical,Flawed Democracy
+Dominican Republic,2022-01-01,6.39,historical,Flawed Democracy
+Dominican Republic,2023-01-01,6.44,historical,Flawed Democracy
+Dominican Republic,2024-01-01,6.62,historical,Flawed Democracy
+Dominican Republic,2025-01-01,6.675111324668195,forecast,Flawed Democracy
+Dominican Republic,2026-01-01,6.732581592607031,forecast,Flawed Democracy
+Dominican Republic,2027-01-01,6.790051860545867,forecast,Flawed Democracy
+Dominican Republic,2028-01-01,6.847679581273576,forecast,Flawed Democracy
+Dominican Republic,2029-01-01,6.905149849212411,forecast,Flawed Democracy
+Dominican Republic,2030-01-01,6.962620117151247,forecast,Flawed Democracy
+East Timor,2010-01-01,7.22,historical,Flawed Democracy
+East Timor,2011-01-01,7.22,historical,Flawed Democracy
+East Timor,2012-01-01,7.16,historical,Flawed Democracy
+East Timor,2013-01-01,7.24,historical,Flawed Democracy
+East Timor,2014-01-01,7.24,historical,Flawed Democracy
+East Timor,2015-01-01,7.24,historical,Flawed Democracy
+East Timor,2016-01-01,7.24,historical,Flawed Democracy
+East Timor,2017-01-01,7.19,historical,Flawed Democracy
+East Timor,2018-01-01,7.19,historical,Flawed Democracy
+East Timor,2019-01-01,7.19,historical,Flawed Democracy
+East Timor,2020-01-01,7.06,historical,Flawed Democracy
+East Timor,2021-01-01,7.06,historical,Flawed Democracy
+East Timor,2022-01-01,7.06,historical,Flawed Democracy
+East Timor,2023-01-01,7.06,historical,Flawed Democracy
+East Timor,2024-01-01,7.03,historical,Flawed Democracy
+East Timor,2025-01-01,7.02111431179993,forecast,Flawed Democracy
+East Timor,2026-01-01,7.012154070167955,forecast,Flawed Democracy
+East Timor,2027-01-01,7.003193828535978,forecast,Flawed Democracy
+East Timor,2028-01-01,6.994209038296791,forecast,Flawed Democracy
+East Timor,2029-01-01,6.985248796664815,forecast,Flawed Democracy
+East Timor,2030-01-01,6.9762885550328395,forecast,Flawed Democracy
+Ecuador,2010-01-01,5.77,historical,Hybrid Regime
+Ecuador,2011-01-01,5.72,historical,Hybrid Regime
+Ecuador,2012-01-01,5.78,historical,Hybrid Regime
+Ecuador,2013-01-01,5.87,historical,Hybrid Regime
+Ecuador,2014-01-01,5.87,historical,Hybrid Regime
+Ecuador,2015-01-01,5.87,historical,Hybrid Regime
+Ecuador,2016-01-01,5.81,historical,Hybrid Regime
+Ecuador,2017-01-01,6.02,historical,Flawed Democracy
+Ecuador,2018-01-01,6.27,historical,Flawed Democracy
+Ecuador,2019-01-01,6.33,historical,Flawed Democracy
+Ecuador,2020-01-01,6.13,historical,Flawed Democracy
+Ecuador,2021-01-01,5.71,historical,Hybrid Regime
+Ecuador,2022-01-01,5.69,historical,Hybrid Regime
+Ecuador,2023-01-01,5.41,historical,Hybrid Regime
+Ecuador,2024-01-01,5.24,historical,Hybrid Regime
+Ecuador,2025-01-01,4.9148471805513045,forecast,Hybrid Regime
+Ecuador,2026-01-01,4.743707404336852,forecast,Hybrid Regime
+Ecuador,2027-01-01,4.572567628122398,forecast,Hybrid Regime
+Ecuador,2028-01-01,4.400958975808727,forecast,Hybrid Regime
+Ecuador,2029-01-01,4.2298191995942735,forecast,Hybrid Regime
+Ecuador,2030-01-01,4.05867942337982,forecast,Hybrid Regime
+Egypt,2010-01-01,3.07,historical,Authoritarian
+Egypt,2011-01-01,3.95,historical,Authoritarian
+Egypt,2012-01-01,4.56,historical,Hybrid Regime
+Egypt,2013-01-01,3.27,historical,Authoritarian
+Egypt,2014-01-01,3.16,historical,Authoritarian
+Egypt,2015-01-01,3.18,historical,Authoritarian
+Egypt,2016-01-01,3.31,historical,Authoritarian
+Egypt,2017-01-01,3.36,historical,Authoritarian
+Egypt,2018-01-01,3.36,historical,Authoritarian
+Egypt,2019-01-01,3.06,historical,Authoritarian
+Egypt,2020-01-01,2.93,historical,Authoritarian
+Egypt,2021-01-01,2.93,historical,Authoritarian
+Egypt,2022-01-01,2.93,historical,Authoritarian
+Egypt,2023-01-01,2.93,historical,Authoritarian
+Egypt,2024-01-01,2.79,historical,Authoritarian
+Egypt,2025-01-01,2.752017485876783,forecast,Authoritarian
+Egypt,2026-01-01,2.7114147717723434,forecast,Authoritarian
+Egypt,2027-01-01,2.670812057667904,forecast,Authoritarian
+Egypt,2028-01-01,2.630098103250849,forecast,Authoritarian
+Egypt,2029-01-01,2.589495389146409,forecast,Authoritarian
+Egypt,2030-01-01,2.5488926750419694,forecast,Authoritarian
+El Salvador,2010-01-01,6.47,historical,Flawed Democracy
+El Salvador,2011-01-01,6.47,historical,Flawed Democracy
+El Salvador,2012-01-01,6.47,historical,Flawed Democracy
+El Salvador,2013-01-01,6.53,historical,Flawed Democracy
+El Salvador,2014-01-01,6.53,historical,Flawed Democracy
+El Salvador,2015-01-01,6.64,historical,Flawed Democracy
+El Salvador,2016-01-01,6.64,historical,Flawed Democracy
+El Salvador,2017-01-01,6.43,historical,Flawed Democracy
+El Salvador,2018-01-01,5.96,historical,Hybrid Regime
+El Salvador,2019-01-01,6.15,historical,Flawed Democracy
+El Salvador,2020-01-01,5.9,historical,Hybrid Regime
+El Salvador,2021-01-01,5.72,historical,Hybrid Regime
+El Salvador,2022-01-01,5.06,historical,Hybrid Regime
+El Salvador,2023-01-01,4.71,historical,Hybrid Regime
+El Salvador,2024-01-01,4.61,historical,Hybrid Regime
+El Salvador,2025-01-01,3.7495098928119917,forecast,Authoritarian
+El Salvador,2026-01-01,3.385084251403399,forecast,Authoritarian
+El Salvador,2027-01-01,3.0206586099948063,forecast,Authoritarian
+El Salvador,2028-01-01,2.655234542171395,forecast,Authoritarian
+El Salvador,2029-01-01,2.2908089007628023,forecast,Authoritarian
+El Salvador,2030-01-01,1.9263832593542098,forecast,Authoritarian
+Equatorial Guinea,2010-01-01,1.84,historical,Authoritarian
+Equatorial Guinea,2011-01-01,1.77,historical,Authoritarian
+Equatorial Guinea,2012-01-01,1.83,historical,Authoritarian
+Equatorial Guinea,2013-01-01,1.77,historical,Authoritarian
+Equatorial Guinea,2014-01-01,1.66,historical,Authoritarian
+Equatorial Guinea,2015-01-01,1.77,historical,Authoritarian
+Equatorial Guinea,2016-01-01,1.7,historical,Authoritarian
+Equatorial Guinea,2017-01-01,1.81,historical,Authoritarian
+Equatorial Guinea,2018-01-01,1.92,historical,Authoritarian
+Equatorial Guinea,2019-01-01,1.92,historical,Authoritarian
+Equatorial Guinea,2020-01-01,1.92,historical,Authoritarian
+Equatorial Guinea,2021-01-01,1.92,historical,Authoritarian
+Equatorial Guinea,2022-01-01,1.92,historical,Authoritarian
+Equatorial Guinea,2023-01-01,1.92,historical,Authoritarian
+Equatorial Guinea,2024-01-01,1.92,historical,Authoritarian
+Equatorial Guinea,2025-01-01,1.9200000313082777,forecast,Authoritarian
+Equatorial Guinea,2026-01-01,1.9200000355709181,forecast,Authoritarian
+Equatorial Guinea,2027-01-01,1.920000039833558,forecast,Authoritarian
+Equatorial Guinea,2028-01-01,1.9200000441078768,forecast,Authoritarian
+Equatorial Guinea,2029-01-01,1.9200000483705166,forecast,Authoritarian
+Equatorial Guinea,2030-01-01,1.920000052633157,forecast,Authoritarian
+Eritrea,2010-01-01,2.31,historical,Authoritarian
+Eritrea,2011-01-01,2.34,historical,Authoritarian
+Eritrea,2012-01-01,2.4,historical,Authoritarian
+Eritrea,2013-01-01,2.4,historical,Authoritarian
+Eritrea,2014-01-01,2.44,historical,Authoritarian
+Eritrea,2015-01-01,2.37,historical,Authoritarian
+Eritrea,2016-01-01,2.37,historical,Authoritarian
+Eritrea,2017-01-01,2.37,historical,Authoritarian
+Eritrea,2018-01-01,2.37,historical,Authoritarian
+Eritrea,2019-01-01,2.37,historical,Authoritarian
+Eritrea,2020-01-01,2.15,historical,Authoritarian
+Eritrea,2021-01-01,2.03,historical,Authoritarian
+Eritrea,2022-01-01,2.03,historical,Authoritarian
+Eritrea,2023-01-01,1.97,historical,Authoritarian
+Eritrea,2024-01-01,1.97,historical,Authoritarian
+Eritrea,2025-01-01,1.9157201444210985,forecast,Authoritarian
+Eritrea,2026-01-01,1.8916401518828154,forecast,Authoritarian
+Eritrea,2027-01-01,1.8675601593445321,forecast,Authoritarian
+Eritrea,2028-01-01,1.8434141942239521,forecast,Authoritarian
+Eritrea,2029-01-01,1.819334201685669,forecast,Authoritarian
+Eritrea,2030-01-01,1.7952542091473858,forecast,Authoritarian
+Estonia,2010-01-01,7.68,historical,Flawed Democracy
+Estonia,2011-01-01,7.61,historical,Flawed Democracy
+Estonia,2012-01-01,7.61,historical,Flawed Democracy
+Estonia,2013-01-01,7.61,historical,Flawed Democracy
+Estonia,2014-01-01,7.74,historical,Flawed Democracy
+Estonia,2015-01-01,7.85,historical,Flawed Democracy
+Estonia,2016-01-01,7.85,historical,Flawed Democracy
+Estonia,2017-01-01,7.79,historical,Flawed Democracy
+Estonia,2018-01-01,7.97,historical,Flawed Democracy
+Estonia,2019-01-01,7.9,historical,Flawed Democracy
+Estonia,2020-01-01,7.84,historical,Flawed Democracy
+Estonia,2021-01-01,7.84,historical,Flawed Democracy
+Estonia,2022-01-01,7.96,historical,Flawed Democracy
+Estonia,2023-01-01,7.96,historical,Flawed Democracy
+Estonia,2024-01-01,8.13,historical,Full Democracy
+Estonia,2025-01-01,8.276441525224405,forecast,Full Democracy
+Estonia,2026-01-01,8.363281973998891,forecast,Full Democracy
+Estonia,2027-01-01,8.450122422773376,forecast,Full Democracy
+Estonia,2028-01-01,8.537200790585597,forecast,Full Democracy
+Estonia,2029-01-01,8.624041239360082,forecast,Full Democracy
+Estonia,2030-01-01,8.710881688134567,forecast,Full Democracy
+Eswatini,2010-01-01,2.9,historical,Authoritarian
+Eswatini,2011-01-01,3.26,historical,Authoritarian
+Eswatini,2012-01-01,3.2,historical,Authoritarian
+Eswatini,2013-01-01,3.2,historical,Authoritarian
+Eswatini,2014-01-01,3.09,historical,Authoritarian
+Eswatini,2015-01-01,3.09,historical,Authoritarian
+Eswatini,2016-01-01,3.03,historical,Authoritarian
+Eswatini,2017-01-01,3.03,historical,Authoritarian
+Eswatini,2018-01-01,3.03,historical,Authoritarian
+Eswatini,2019-01-01,3.14,historical,Authoritarian
+Eswatini,2020-01-01,3.08,historical,Authoritarian
+Eswatini,2021-01-01,3.08,historical,Authoritarian
+Eswatini,2022-01-01,3.01,historical,Authoritarian
+Eswatini,2023-01-01,2.78,historical,Authoritarian
+Eswatini,2024-01-01,2.6,historical,Authoritarian
+Eswatini,2025-01-01,2.288566085962642,forecast,Authoritarian
+Eswatini,2026-01-01,2.1235018814906104,forecast,Authoritarian
+Eswatini,2027-01-01,1.958437677018578,forecast,Authoritarian
+Eswatini,2028-01-01,1.7929212418493623,forecast,Authoritarian
+Eswatini,2029-01-01,1.6278570373773305,forecast,Authoritarian
+Eswatini,2030-01-01,1.4627928329052984,forecast,Authoritarian
+Ethiopia,2010-01-01,3.68,historical,Authoritarian
+Ethiopia,2011-01-01,3.79,historical,Authoritarian
+Ethiopia,2012-01-01,3.72,historical,Authoritarian
+Ethiopia,2013-01-01,3.83,historical,Authoritarian
+Ethiopia,2014-01-01,3.72,historical,Authoritarian
+Ethiopia,2015-01-01,3.83,historical,Authoritarian
+Ethiopia,2016-01-01,3.6,historical,Authoritarian
+Ethiopia,2017-01-01,3.42,historical,Authoritarian
+Ethiopia,2018-01-01,3.35,historical,Authoritarian
+Ethiopia,2019-01-01,3.44,historical,Authoritarian
+Ethiopia,2020-01-01,3.38,historical,Authoritarian
+Ethiopia,2021-01-01,3.3,historical,Authoritarian
+Ethiopia,2022-01-01,3.17,historical,Authoritarian
+Ethiopia,2023-01-01,3.37,historical,Authoritarian
+Ethiopia,2024-01-01,3.24,historical,Authoritarian
+Ethiopia,2025-01-01,3.2500444539134024,forecast,Authoritarian
+Ethiopia,2026-01-01,3.242669687971072,forecast,Authoritarian
+Ethiopia,2027-01-01,3.2352949220287415,forecast,Authoritarian
+Ethiopia,2028-01-01,3.227899951248213,forecast,Authoritarian
+Ethiopia,2029-01-01,3.220525185305883,forecast,Authoritarian
+Ethiopia,2030-01-01,3.2131504193635525,forecast,Authoritarian
+Fiji,2010-01-01,3.62,historical,Authoritarian
+Fiji,2011-01-01,3.67,historical,Authoritarian
+Fiji,2012-01-01,3.67,historical,Authoritarian
+Fiji,2013-01-01,3.61,historical,Authoritarian
+Fiji,2014-01-01,5.61,historical,Hybrid Regime
+Fiji,2015-01-01,5.69,historical,Hybrid Regime
+Fiji,2016-01-01,5.64,historical,Hybrid Regime
+Fiji,2017-01-01,5.85,historical,Hybrid Regime
+Fiji,2018-01-01,5.85,historical,Hybrid Regime
+Fiji,2019-01-01,5.85,historical,Hybrid Regime
+Fiji,2020-01-01,5.72,historical,Hybrid Regime
+Fiji,2021-01-01,5.61,historical,Hybrid Regime
+Fiji,2022-01-01,5.55,historical,Hybrid Regime
+Fiji,2023-01-01,5.55,historical,Hybrid Regime
+Fiji,2024-01-01,5.39,historical,Hybrid Regime
+Fiji,2025-01-01,5.293202513428784,forecast,Hybrid Regime
+Fiji,2026-01-01,5.226974672747824,forecast,Hybrid Regime
+Fiji,2027-01-01,5.160746832066864,forecast,Hybrid Regime
+Fiji,2028-01-01,5.094337545247051,forecast,Hybrid Regime
+Fiji,2029-01-01,5.028109704566092,forecast,Hybrid Regime
+Fiji,2030-01-01,4.961881863885132,forecast,Hybrid Regime
+Finland,2010-01-01,9.19,historical,Full Democracy
+Finland,2011-01-01,9.06,historical,Full Democracy
+Finland,2012-01-01,9.06,historical,Full Democracy
+Finland,2013-01-01,9.03,historical,Full Democracy
+Finland,2014-01-01,9.03,historical,Full Democracy
+Finland,2015-01-01,9.03,historical,Full Democracy
+Finland,2016-01-01,9.03,historical,Full Democracy
+Finland,2017-01-01,9.03,historical,Full Democracy
+Finland,2018-01-01,9.14,historical,Full Democracy
+Finland,2019-01-01,9.25,historical,Full Democracy
+Finland,2020-01-01,9.2,historical,Full Democracy
+Finland,2021-01-01,9.27,historical,Full Democracy
+Finland,2022-01-01,9.29,historical,Full Democracy
+Finland,2023-01-01,9.3,historical,Full Democracy
+Finland,2024-01-01,9.3,historical,Full Democracy
+Finland,2025-01-01,9.325033123195292,forecast,Full Democracy
+Finland,2026-01-01,9.33504460576273,forecast,Full Democracy
+Finland,2027-01-01,9.345056088330168,forecast,Full Democracy
+Finland,2028-01-01,9.35509499961697,forecast,Full Democracy
+Finland,2029-01-01,9.365106482184409,forecast,Full Democracy
+Finland,2030-01-01,9.375117964751848,forecast,Full Democracy
+France,2010-01-01,7.77,historical,Flawed Democracy
+France,2011-01-01,7.77,historical,Flawed Democracy
+France,2012-01-01,7.88,historical,Flawed Democracy
+France,2013-01-01,7.92,historical,Flawed Democracy
+France,2014-01-01,8.04,historical,Full Democracy
+France,2015-01-01,7.92,historical,Flawed Democracy
+France,2016-01-01,7.92,historical,Flawed Democracy
+France,2017-01-01,7.8,historical,Flawed Democracy
+France,2018-01-01,7.8,historical,Flawed Democracy
+France,2019-01-01,8.12,historical,Full Democracy
+France,2020-01-01,7.99,historical,Flawed Democracy
+France,2021-01-01,7.99,historical,Flawed Democracy
+France,2022-01-01,8.07,historical,Full Democracy
+France,2023-01-01,8.07,historical,Full Democracy
+France,2024-01-01,7.99,historical,Flawed Democracy
+France,2025-01-01,8.032472785774454,forecast,Full Democracy
+France,2026-01-01,8.033332766805222,forecast,Full Democracy
+France,2027-01-01,8.03419274783599,forecast,Full Democracy
+France,2028-01-01,8.035055084979172,forecast,Full Democracy
+France,2029-01-01,8.035915066009942,forecast,Full Democracy
+France,2030-01-01,8.03677504704071,forecast,Full Democracy
+Gabon,2010-01-01,3.29,historical,Authoritarian
+Gabon,2011-01-01,3.48,historical,Authoritarian
+Gabon,2012-01-01,3.56,historical,Authoritarian
+Gabon,2013-01-01,3.76,historical,Authoritarian
+Gabon,2014-01-01,3.76,historical,Authoritarian
+Gabon,2015-01-01,3.76,historical,Authoritarian
+Gabon,2016-01-01,3.74,historical,Authoritarian
+Gabon,2017-01-01,3.61,historical,Authoritarian
+Gabon,2018-01-01,3.61,historical,Authoritarian
+Gabon,2019-01-01,3.61,historical,Authoritarian
+Gabon,2020-01-01,3.54,historical,Authoritarian
+Gabon,2021-01-01,3.4,historical,Authoritarian
+Gabon,2022-01-01,3.4,historical,Authoritarian
+Gabon,2023-01-01,2.18,historical,Authoritarian
+Gabon,2024-01-01,2.18,historical,Authoritarian
+Gabon,2025-01-01,1.1594158146627473,forecast,Authoritarian
+Gabon,2026-01-01,0.693528118322594,forecast,Authoritarian
+Gabon,2027-01-01,0.22764042198243883,forecast,Authoritarian
+Gabon,2028-01-01,0.0,forecast,Authoritarian
+Gabon,2029-01-01,0.0,forecast,Authoritarian
+Gabon,2030-01-01,0.0,forecast,Authoritarian
+Gambia,2010-01-01,3.38,historical,Authoritarian
+Gambia,2011-01-01,3.38,historical,Authoritarian
+Gambia,2012-01-01,3.31,historical,Authoritarian
+Gambia,2013-01-01,3.31,historical,Authoritarian
+Gambia,2014-01-01,3.05,historical,Authoritarian
+Gambia,2015-01-01,2.97,historical,Authoritarian
+Gambia,2016-01-01,2.91,historical,Authoritarian
+Gambia,2017-01-01,4.06,historical,Hybrid Regime
+Gambia,2018-01-01,4.31,historical,Hybrid Regime
+Gambia,2019-01-01,4.33,historical,Hybrid Regime
+Gambia,2020-01-01,4.49,historical,Hybrid Regime
+Gambia,2021-01-01,4.41,historical,Hybrid Regime
+Gambia,2022-01-01,4.47,historical,Hybrid Regime
+Gambia,2023-01-01,4.47,historical,Hybrid Regime
+Gambia,2024-01-01,4.47,historical,Hybrid Regime
+Gambia,2025-01-01,4.51725668334223,forecast,Hybrid Regime
+Gambia,2026-01-01,4.534998173797838,forecast,Hybrid Regime
+Gambia,2027-01-01,4.552739664253445,forecast,Hybrid Regime
+Gambia,2028-01-01,4.570529761532218,forecast,Hybrid Regime
+Gambia,2029-01-01,4.588271251987825,forecast,Hybrid Regime
+Gambia,2030-01-01,4.606012742443432,forecast,Hybrid Regime
+Georgia,2010-01-01,4.59,historical,Hybrid Regime
+Georgia,2011-01-01,4.74,historical,Hybrid Regime
+Georgia,2012-01-01,5.53,historical,Hybrid Regime
+Georgia,2013-01-01,5.95,historical,Hybrid Regime
+Georgia,2014-01-01,5.82,historical,Hybrid Regime
+Georgia,2015-01-01,5.88,historical,Hybrid Regime
+Georgia,2016-01-01,5.93,historical,Hybrid Regime
+Georgia,2017-01-01,5.93,historical,Hybrid Regime
+Georgia,2018-01-01,5.5,historical,Hybrid Regime
+Georgia,2019-01-01,5.42,historical,Hybrid Regime
+Georgia,2020-01-01,5.31,historical,Hybrid Regime
+Georgia,2021-01-01,5.12,historical,Hybrid Regime
+Georgia,2022-01-01,5.2,historical,Hybrid Regime
+Georgia,2023-01-01,5.2,historical,Hybrid Regime
+Georgia,2024-01-01,4.7,historical,Hybrid Regime
+Georgia,2025-01-01,4.656502520075276,forecast,Hybrid Regime
+Georgia,2026-01-01,4.544992102516534,forecast,Hybrid Regime
+Georgia,2027-01-01,4.4334816849577905,forecast,Hybrid Regime
+Georgia,2028-01-01,4.321665759405736,forecast,Hybrid Regime
+Georgia,2029-01-01,4.210155341846993,forecast,Hybrid Regime
+Georgia,2030-01-01,4.098644924288251,forecast,Hybrid Regime
+Germany,2010-01-01,8.38,historical,Full Democracy
+Germany,2011-01-01,8.34,historical,Full Democracy
+Germany,2012-01-01,8.34,historical,Full Democracy
+Germany,2013-01-01,8.31,historical,Full Democracy
+Germany,2014-01-01,8.64,historical,Full Democracy
+Germany,2015-01-01,8.64,historical,Full Democracy
+Germany,2016-01-01,8.63,historical,Full Democracy
+Germany,2017-01-01,8.61,historical,Full Democracy
+Germany,2018-01-01,8.68,historical,Full Democracy
+Germany,2019-01-01,8.68,historical,Full Democracy
+Germany,2020-01-01,8.67,historical,Full Democracy
+Germany,2021-01-01,8.67,historical,Full Democracy
+Germany,2022-01-01,8.8,historical,Full Democracy
+Germany,2023-01-01,8.8,historical,Full Democracy
+Germany,2024-01-01,8.73,historical,Full Democracy
+Germany,2025-01-01,8.816603609005156,forecast,Full Democracy
+Germany,2026-01-01,8.835856718502036,forecast,Full Democracy
+Germany,2027-01-01,8.855109827998916,forecast,Full Democracy
+Germany,2028-01-01,8.874415685740994,forecast,Full Democracy
+Germany,2029-01-01,8.893668795237874,forecast,Full Democracy
+Germany,2030-01-01,8.912921904734754,forecast,Full Democracy
+Ghana,2010-01-01,6.02,historical,Flawed Democracy
+Ghana,2011-01-01,6.02,historical,Flawed Democracy
+Ghana,2012-01-01,6.02,historical,Flawed Democracy
+Ghana,2013-01-01,6.33,historical,Flawed Democracy
+Ghana,2014-01-01,6.33,historical,Flawed Democracy
+Ghana,2015-01-01,6.86,historical,Flawed Democracy
+Ghana,2016-01-01,6.75,historical,Flawed Democracy
+Ghana,2017-01-01,6.69,historical,Flawed Democracy
+Ghana,2018-01-01,6.63,historical,Flawed Democracy
+Ghana,2019-01-01,6.63,historical,Flawed Democracy
+Ghana,2020-01-01,6.5,historical,Flawed Democracy
+Ghana,2021-01-01,6.5,historical,Flawed Democracy
+Ghana,2022-01-01,6.43,historical,Flawed Democracy
+Ghana,2023-01-01,6.3,historical,Flawed Democracy
+Ghana,2024-01-01,6.24,historical,Flawed Democracy
+Ghana,2025-01-01,6.049387807912621,forecast,Flawed Democracy
+Ghana,2026-01-01,5.958522720531065,forecast,Hybrid Regime
+Ghana,2027-01-01,5.867657633149509,forecast,Hybrid Regime
+Ghana,2028-01-01,5.7765436003230715,forecast,Hybrid Regime
+Ghana,2029-01-01,5.685678512941516,forecast,Hybrid Regime
+Ghana,2030-01-01,5.59481342555996,forecast,Hybrid Regime
+Greece,2010-01-01,7.92,historical,Flawed Democracy
+Greece,2011-01-01,7.65,historical,Flawed Democracy
+Greece,2012-01-01,7.65,historical,Flawed Democracy
+Greece,2013-01-01,7.65,historical,Flawed Democracy
+Greece,2014-01-01,7.45,historical,Flawed Democracy
+Greece,2015-01-01,7.45,historical,Flawed Democracy
+Greece,2016-01-01,7.23,historical,Flawed Democracy
+Greece,2017-01-01,7.29,historical,Flawed Democracy
+Greece,2018-01-01,7.29,historical,Flawed Democracy
+Greece,2019-01-01,7.43,historical,Flawed Democracy
+Greece,2020-01-01,7.39,historical,Flawed Democracy
+Greece,2021-01-01,7.56,historical,Flawed Democracy
+Greece,2022-01-01,7.97,historical,Flawed Democracy
+Greece,2023-01-01,8.14,historical,Full Democracy
+Greece,2024-01-01,8.07,historical,Full Democracy
+Greece,2025-01-01,8.556165559742434,forecast,Full Democracy
+Greece,2026-01-01,8.735265264518185,forecast,Full Democracy
+Greece,2027-01-01,8.914364969293937,forecast,Full Democracy
+Greece,2028-01-01,9.093955358192364,forecast,Full Democracy
+Greece,2029-01-01,9.273055062968115,forecast,Full Democracy
+Greece,2030-01-01,9.452154767743867,forecast,Full Democracy
+Guatemala,2010-01-01,6.05,historical,Flawed Democracy
+Guatemala,2011-01-01,5.88,historical,Hybrid Regime
+Guatemala,2012-01-01,5.88,historical,Hybrid Regime
+Guatemala,2013-01-01,5.81,historical,Hybrid Regime
+Guatemala,2014-01-01,5.81,historical,Hybrid Regime
+Guatemala,2015-01-01,5.92,historical,Hybrid Regime
+Guatemala,2016-01-01,5.92,historical,Hybrid Regime
+Guatemala,2017-01-01,5.86,historical,Hybrid Regime
+Guatemala,2018-01-01,5.6,historical,Hybrid Regime
+Guatemala,2019-01-01,5.26,historical,Hybrid Regime
+Guatemala,2020-01-01,4.97,historical,Hybrid Regime
+Guatemala,2021-01-01,4.62,historical,Hybrid Regime
+Guatemala,2022-01-01,4.68,historical,Hybrid Regime
+Guatemala,2023-01-01,4.47,historical,Hybrid Regime
+Guatemala,2024-01-01,4.55,historical,Hybrid Regime
+Guatemala,2025-01-01,4.426630056470422,forecast,Hybrid Regime
+Guatemala,2026-01-01,4.382461947490867,forecast,Hybrid Regime
+Guatemala,2027-01-01,4.338293838511311,forecast,Hybrid Regime
+Guatemala,2028-01-01,4.294004721014004,forecast,Hybrid Regime
+Guatemala,2029-01-01,4.249836612034448,forecast,Hybrid Regime
+Guatemala,2030-01-01,4.205668503054892,forecast,Hybrid Regime
+Guinea,2010-01-01,2.79,historical,Authoritarian
+Guinea,2011-01-01,2.79,historical,Authoritarian
+Guinea,2012-01-01,2.79,historical,Authoritarian
+Guinea,2013-01-01,2.84,historical,Authoritarian
+Guinea,2014-01-01,3.01,historical,Authoritarian
+Guinea,2015-01-01,3.14,historical,Authoritarian
+Guinea,2016-01-01,3.14,historical,Authoritarian
+Guinea,2017-01-01,3.14,historical,Authoritarian
+Guinea,2018-01-01,3.14,historical,Authoritarian
+Guinea,2019-01-01,3.14,historical,Authoritarian
+Guinea,2020-01-01,3.08,historical,Authoritarian
+Guinea,2021-01-01,2.28,historical,Authoritarian
+Guinea,2022-01-01,2.32,historical,Authoritarian
+Guinea,2023-01-01,2.21,historical,Authoritarian
+Guinea,2024-01-01,2.04,historical,Authoritarian
+Guinea,2025-01-01,1.9104397334857124,forecast,Authoritarian
+Guinea,2026-01-01,1.8234193823645897,forecast,Authoritarian
+Guinea,2027-01-01,1.736399031243467,forecast,Authoritarian
+Guinea,2028-01-01,1.6491402682014642,forecast,Authoritarian
+Guinea,2029-01-01,1.5621199170803417,forecast,Authoritarian
+Guinea,2030-01-01,1.4750995659592185,forecast,Authoritarian
+Guinea-Bissau,2010-01-01,1.99,historical,Authoritarian
+Guinea-Bissau,2011-01-01,1.99,historical,Authoritarian
+Guinea-Bissau,2012-01-01,1.43,historical,Authoritarian
+Guinea-Bissau,2013-01-01,1.26,historical,Authoritarian
+Guinea-Bissau,2014-01-01,1.93,historical,Authoritarian
+Guinea-Bissau,2015-01-01,1.93,historical,Authoritarian
+Guinea-Bissau,2016-01-01,1.98,historical,Authoritarian
+Guinea-Bissau,2017-01-01,1.98,historical,Authoritarian
+Guinea-Bissau,2018-01-01,1.98,historical,Authoritarian
+Guinea-Bissau,2019-01-01,2.63,historical,Authoritarian
+Guinea-Bissau,2020-01-01,2.63,historical,Authoritarian
+Guinea-Bissau,2021-01-01,2.75,historical,Authoritarian
+Guinea-Bissau,2022-01-01,2.56,historical,Authoritarian
+Guinea-Bissau,2023-01-01,2.45,historical,Authoritarian
+Guinea-Bissau,2024-01-01,2.03,historical,Authoritarian
+Guinea-Bissau,2025-01-01,1.803330676904127,forecast,Authoritarian
+Guinea-Bissau,2026-01-01,1.620040891139383,forecast,Authoritarian
+Guinea-Bissau,2027-01-01,1.4367511053746385,forecast,Authoritarian
+Guinea-Bissau,2028-01-01,1.2529591558132778,forecast,Authoritarian
+Guinea-Bissau,2029-01-01,1.0696693700485338,forecast,Authoritarian
+Guinea-Bissau,2030-01-01,0.8863795842837893,forecast,Authoritarian
+Guyana,2010-01-01,6.05,historical,Flawed Democracy
+Guyana,2011-01-01,6.05,historical,Flawed Democracy
+Guyana,2012-01-01,6.05,historical,Flawed Democracy
+Guyana,2013-01-01,6.05,historical,Flawed Democracy
+Guyana,2014-01-01,5.91,historical,Hybrid Regime
+Guyana,2015-01-01,6.05,historical,Flawed Democracy
+Guyana,2016-01-01,6.25,historical,Flawed Democracy
+Guyana,2017-01-01,6.46,historical,Flawed Democracy
+Guyana,2018-01-01,6.67,historical,Flawed Democracy
+Guyana,2019-01-01,6.15,historical,Flawed Democracy
+Guyana,2020-01-01,6.01,historical,Flawed Democracy
+Guyana,2021-01-01,6.25,historical,Flawed Democracy
+Guyana,2022-01-01,6.34,historical,Flawed Democracy
+Guyana,2023-01-01,6.26,historical,Flawed Democracy
+Guyana,2024-01-01,6.11,historical,Flawed Democracy
+Guyana,2025-01-01,6.071967007592352,forecast,Flawed Democracy
+Guyana,2026-01-01,6.0243899167091,forecast,Flawed Democracy
+Guyana,2027-01-01,5.976812825825847,forecast,Hybrid Regime
+Guyana,2028-01-01,5.929105386748393,forecast,Hybrid Regime
+Guyana,2029-01-01,5.881528295865141,forecast,Hybrid Regime
+Guyana,2030-01-01,5.833951204981888,forecast,Hybrid Regime
+Haiti,2010-01-01,4.0,historical,Authoritarian
+Haiti,2011-01-01,4.0,historical,Authoritarian
+Haiti,2012-01-01,3.96,historical,Authoritarian
+Haiti,2013-01-01,3.94,historical,Authoritarian
+Haiti,2014-01-01,3.82,historical,Authoritarian
+Haiti,2015-01-01,3.94,historical,Authoritarian
+Haiti,2016-01-01,4.02,historical,Hybrid Regime
+Haiti,2017-01-01,4.03,historical,Hybrid Regime
+Haiti,2018-01-01,4.91,historical,Hybrid Regime
+Haiti,2019-01-01,4.57,historical,Hybrid Regime
+Haiti,2020-01-01,4.22,historical,Hybrid Regime
+Haiti,2021-01-01,3.48,historical,Authoritarian
+Haiti,2022-01-01,2.81,historical,Authoritarian
+Haiti,2023-01-01,2.81,historical,Authoritarian
+Haiti,2024-01-01,2.74,historical,Authoritarian
+Haiti,2025-01-01,2.090651632007942,forecast,Authoritarian
+Haiti,2026-01-01,1.836536006578266,forecast,Authoritarian
+Haiti,2027-01-01,1.5824203811485897,forecast,Authoritarian
+Haiti,2028-01-01,1.3276085485259548,forecast,Authoritarian
+Haiti,2029-01-01,1.073492923096279,forecast,Authoritarian
+Haiti,2030-01-01,0.8193772976666028,forecast,Authoritarian
+Honduras,2010-01-01,5.76,historical,Hybrid Regime
+Honduras,2011-01-01,5.84,historical,Hybrid Regime
+Honduras,2012-01-01,5.84,historical,Hybrid Regime
+Honduras,2013-01-01,5.84,historical,Hybrid Regime
+Honduras,2014-01-01,5.84,historical,Hybrid Regime
+Honduras,2015-01-01,5.84,historical,Hybrid Regime
+Honduras,2016-01-01,5.92,historical,Hybrid Regime
+Honduras,2017-01-01,5.72,historical,Hybrid Regime
+Honduras,2018-01-01,5.63,historical,Hybrid Regime
+Honduras,2019-01-01,5.42,historical,Hybrid Regime
+Honduras,2020-01-01,5.36,historical,Hybrid Regime
+Honduras,2021-01-01,5.1,historical,Hybrid Regime
+Honduras,2022-01-01,5.15,historical,Hybrid Regime
+Honduras,2023-01-01,4.98,historical,Hybrid Regime
+Honduras,2024-01-01,4.98,historical,Hybrid Regime
+Honduras,2025-01-01,4.862565246526928,forecast,Hybrid Regime
+Honduras,2026-01-01,4.808022957555959,forecast,Hybrid Regime
+Honduras,2027-01-01,4.75348066858499,forecast,Hybrid Regime
+Honduras,2028-01-01,4.6987889486853325,forecast,Hybrid Regime
+Honduras,2029-01-01,4.644246659714364,forecast,Hybrid Regime
+Honduras,2030-01-01,4.5897043707433935,forecast,Hybrid Regime
+Hong Kong,2010-01-01,5.92,historical,Hybrid Regime
+Hong Kong,2011-01-01,5.92,historical,Hybrid Regime
+Hong Kong,2012-01-01,6.42,historical,Flawed Democracy
+Hong Kong,2013-01-01,6.42,historical,Flawed Democracy
+Hong Kong,2014-01-01,6.46,historical,Flawed Democracy
+Hong Kong,2015-01-01,6.5,historical,Flawed Democracy
+Hong Kong,2016-01-01,6.42,historical,Flawed Democracy
+Hong Kong,2017-01-01,6.31,historical,Flawed Democracy
+Hong Kong,2018-01-01,6.15,historical,Flawed Democracy
+Hong Kong,2019-01-01,6.02,historical,Flawed Democracy
+Hong Kong,2020-01-01,5.57,historical,Hybrid Regime
+Hong Kong,2021-01-01,5.6,historical,Hybrid Regime
+Hong Kong,2022-01-01,5.28,historical,Hybrid Regime
+Hong Kong,2023-01-01,5.24,historical,Hybrid Regime
+Hong Kong,2024-01-01,5.09,historical,Hybrid Regime
+Hong Kong,2025-01-01,4.760337080814038,forecast,Hybrid Regime
+Hong Kong,2026-01-01,4.605888461549535,forecast,Hybrid Regime
+Hong Kong,2027-01-01,4.451439842285031,forecast,Hybrid Regime
+Hong Kong,2028-01-01,4.296568076118432,forecast,Hybrid Regime
+Hong Kong,2029-01-01,4.142119456853928,forecast,Hybrid Regime
+Hong Kong,2030-01-01,3.987670837589425,forecast,Authoritarian
+Hungary,2010-01-01,7.21,historical,Flawed Democracy
+Hungary,2011-01-01,7.04,historical,Flawed Democracy
+Hungary,2012-01-01,6.96,historical,Flawed Democracy
+Hungary,2013-01-01,6.96,historical,Flawed Democracy
+Hungary,2014-01-01,6.9,historical,Flawed Democracy
+Hungary,2015-01-01,6.84,historical,Flawed Democracy
+Hungary,2016-01-01,6.72,historical,Flawed Democracy
+Hungary,2017-01-01,6.64,historical,Flawed Democracy
+Hungary,2018-01-01,6.63,historical,Flawed Democracy
+Hungary,2019-01-01,6.63,historical,Flawed Democracy
+Hungary,2020-01-01,6.56,historical,Flawed Democracy
+Hungary,2021-01-01,6.5,historical,Flawed Democracy
+Hungary,2022-01-01,6.64,historical,Flawed Democracy
+Hungary,2023-01-01,6.72,historical,Flawed Democracy
+Hungary,2024-01-01,6.51,historical,Flawed Democracy
+Hungary,2025-01-01,6.626523608610685,forecast,Flawed Democracy
+Hungary,2026-01-01,6.6362447151876065,forecast,Flawed Democracy
+Hungary,2027-01-01,6.645965821764528,forecast,Flawed Democracy
+Hungary,2028-01-01,6.655713561510153,forecast,Flawed Democracy
+Hungary,2029-01-01,6.665434668087074,forecast,Flawed Democracy
+Hungary,2030-01-01,6.675155774663995,forecast,Flawed Democracy
+Iceland,2010-01-01,9.65,historical,Full Democracy
+Iceland,2011-01-01,9.65,historical,Full Democracy
+Iceland,2012-01-01,9.65,historical,Full Democracy
+Iceland,2013-01-01,9.65,historical,Full Democracy
+Iceland,2014-01-01,9.58,historical,Full Democracy
+Iceland,2015-01-01,9.58,historical,Full Democracy
+Iceland,2016-01-01,9.5,historical,Full Democracy
+Iceland,2017-01-01,9.58,historical,Full Democracy
+Iceland,2018-01-01,9.58,historical,Full Democracy
+Iceland,2019-01-01,9.58,historical,Full Democracy
+Iceland,2020-01-01,9.37,historical,Full Democracy
+Iceland,2021-01-01,9.18,historical,Full Democracy
+Iceland,2022-01-01,9.52,historical,Full Democracy
+Iceland,2023-01-01,9.45,historical,Full Democracy
+Iceland,2024-01-01,9.38,historical,Full Democracy
+Iceland,2025-01-01,9.562913251873544,forecast,Full Democracy
+Iceland,2026-01-01,9.614459818219776,forecast,Full Democracy
+Iceland,2027-01-01,9.666006384566009,forecast,Full Democracy
+Iceland,2028-01-01,9.717694174381682,forecast,Full Democracy
+Iceland,2029-01-01,9.769240740727914,forecast,Full Democracy
+Iceland,2030-01-01,9.820787307074147,forecast,Full Democracy
+India,2010-01-01,7.28,historical,Flawed Democracy
+India,2011-01-01,7.3,historical,Flawed Democracy
+India,2012-01-01,7.52,historical,Flawed Democracy
+India,2013-01-01,7.69,historical,Flawed Democracy
+India,2014-01-01,7.92,historical,Flawed Democracy
+India,2015-01-01,7.74,historical,Flawed Democracy
+India,2016-01-01,7.81,historical,Flawed Democracy
+India,2017-01-01,7.23,historical,Flawed Democracy
+India,2018-01-01,7.23,historical,Flawed Democracy
+India,2019-01-01,6.9,historical,Flawed Democracy
+India,2020-01-01,6.61,historical,Flawed Democracy
+India,2021-01-01,6.91,historical,Flawed Democracy
+India,2022-01-01,7.04,historical,Flawed Democracy
+India,2023-01-01,7.18,historical,Flawed Democracy
+India,2024-01-01,7.29,historical,Flawed Democracy
+India,2025-01-01,7.553069348650233,forecast,Flawed Democracy
+India,2026-01-01,7.681093516787609,forecast,Flawed Democracy
+India,2027-01-01,7.809117684924983,forecast,Flawed Democracy
+India,2028-01-01,7.937492604207941,forecast,Flawed Democracy
+India,2029-01-01,8.065516772345315,forecast,Full Democracy
+India,2030-01-01,8.193540940482691,forecast,Full Democracy
+Indonesia,2010-01-01,6.53,historical,Flawed Democracy
+Indonesia,2011-01-01,6.53,historical,Flawed Democracy
+Indonesia,2012-01-01,6.76,historical,Flawed Democracy
+Indonesia,2013-01-01,6.82,historical,Flawed Democracy
+Indonesia,2014-01-01,6.95,historical,Flawed Democracy
+Indonesia,2015-01-01,7.03,historical,Flawed Democracy
+Indonesia,2016-01-01,6.97,historical,Flawed Democracy
+Indonesia,2017-01-01,6.39,historical,Flawed Democracy
+Indonesia,2018-01-01,6.39,historical,Flawed Democracy
+Indonesia,2019-01-01,6.48,historical,Flawed Democracy
+Indonesia,2020-01-01,6.3,historical,Flawed Democracy
+Indonesia,2021-01-01,6.71,historical,Flawed Democracy
+Indonesia,2022-01-01,6.71,historical,Flawed Democracy
+Indonesia,2023-01-01,6.53,historical,Flawed Democracy
+Indonesia,2024-01-01,6.44,historical,Flawed Democracy
+Indonesia,2025-01-01,6.253519820046043,forecast,Flawed Democracy
+Indonesia,2026-01-01,6.155396189827032,forecast,Flawed Democracy
+Indonesia,2027-01-01,6.057272559608021,forecast,Flawed Democracy
+Indonesia,2028-01-01,5.9588800975253955,forecast,Hybrid Regime
+Indonesia,2029-01-01,5.860756467306384,forecast,Hybrid Regime
+Indonesia,2030-01-01,5.762632837087373,forecast,Hybrid Regime
+Iran,2010-01-01,1.94,historical,Authoritarian
+Iran,2011-01-01,1.98,historical,Authoritarian
+Iran,2012-01-01,1.98,historical,Authoritarian
+Iran,2013-01-01,1.98,historical,Authoritarian
+Iran,2014-01-01,1.98,historical,Authoritarian
+Iran,2015-01-01,2.16,historical,Authoritarian
+Iran,2016-01-01,2.34,historical,Authoritarian
+Iran,2017-01-01,2.45,historical,Authoritarian
+Iran,2018-01-01,2.45,historical,Authoritarian
+Iran,2019-01-01,2.38,historical,Authoritarian
+Iran,2020-01-01,2.2,historical,Authoritarian
+Iran,2021-01-01,1.95,historical,Authoritarian
+Iran,2022-01-01,1.96,historical,Authoritarian
+Iran,2023-01-01,1.96,historical,Authoritarian
+Iran,2024-01-01,1.96,historical,Authoritarian
+Iran,2025-01-01,1.9679624803118867,forecast,Authoritarian
+Iran,2026-01-01,1.970949436026766,forecast,Authoritarian
+Iran,2027-01-01,1.9739363917416453,forecast,Authoritarian
+Iran,2028-01-01,1.9769315308968396,forecast,Authoritarian
+Iran,2029-01-01,1.9799184866117188,forecast,Authoritarian
+Iran,2030-01-01,1.9829054423265984,forecast,Authoritarian
+Iraq,2010-01-01,4.0,historical,Authoritarian
+Iraq,2011-01-01,4.03,historical,Hybrid Regime
+Iraq,2012-01-01,4.1,historical,Hybrid Regime
+Iraq,2013-01-01,4.1,historical,Hybrid Regime
+Iraq,2014-01-01,4.23,historical,Hybrid Regime
+Iraq,2015-01-01,4.08,historical,Hybrid Regime
+Iraq,2016-01-01,4.08,historical,Hybrid Regime
+Iraq,2017-01-01,4.09,historical,Hybrid Regime
+Iraq,2018-01-01,4.06,historical,Hybrid Regime
+Iraq,2019-01-01,3.74,historical,Authoritarian
+Iraq,2020-01-01,3.62,historical,Authoritarian
+Iraq,2021-01-01,3.51,historical,Authoritarian
+Iraq,2022-01-01,3.13,historical,Authoritarian
+Iraq,2023-01-01,2.88,historical,Authoritarian
+Iraq,2024-01-01,2.8,historical,Authoritarian
+Iraq,2025-01-01,2.2535418086751298,forecast,Authoritarian
+Iraq,2026-01-01,2.0174576781246367,forecast,Authoritarian
+Iraq,2027-01-01,1.7813735475741423,forecast,Authoritarian
+Iraq,2028-01-01,1.544642611186524,forecast,Authoritarian
+Iraq,2029-01-01,1.3085584806360306,forecast,Authoritarian
+Iraq,2030-01-01,1.0724743500855374,forecast,Authoritarian
+Ireland,2010-01-01,8.79,historical,Full Democracy
+Ireland,2011-01-01,8.56,historical,Full Democracy
+Ireland,2012-01-01,8.56,historical,Full Democracy
+Ireland,2013-01-01,8.68,historical,Full Democracy
+Ireland,2014-01-01,8.72,historical,Full Democracy
+Ireland,2015-01-01,8.85,historical,Full Democracy
+Ireland,2016-01-01,9.15,historical,Full Democracy
+Ireland,2017-01-01,9.15,historical,Full Democracy
+Ireland,2018-01-01,9.15,historical,Full Democracy
+Ireland,2019-01-01,9.24,historical,Full Democracy
+Ireland,2020-01-01,9.05,historical,Full Democracy
+Ireland,2021-01-01,9.0,historical,Full Democracy
+Ireland,2022-01-01,9.13,historical,Full Democracy
+Ireland,2023-01-01,9.19,historical,Full Democracy
+Ireland,2024-01-01,9.19,historical,Full Democracy
+Ireland,2025-01-01,9.347567865988236,forecast,Full Democracy
+Ireland,2026-01-01,9.410444166844309,forecast,Full Democracy
+Ireland,2027-01-01,9.473320467700383,forecast,Full Democracy
+Ireland,2028-01-01,9.536369032394418,forecast,Full Democracy
+Ireland,2029-01-01,9.599245333250492,forecast,Full Democracy
+Ireland,2030-01-01,9.662121634106565,forecast,Full Democracy
+Israel,2010-01-01,7.48,historical,Flawed Democracy
+Israel,2011-01-01,7.53,historical,Flawed Democracy
+Israel,2012-01-01,7.53,historical,Flawed Democracy
+Israel,2013-01-01,7.53,historical,Flawed Democracy
+Israel,2014-01-01,7.63,historical,Flawed Democracy
+Israel,2015-01-01,7.77,historical,Flawed Democracy
+Israel,2016-01-01,7.85,historical,Flawed Democracy
+Israel,2017-01-01,7.79,historical,Flawed Democracy
+Israel,2018-01-01,7.79,historical,Flawed Democracy
+Israel,2019-01-01,7.86,historical,Flawed Democracy
+Israel,2020-01-01,7.84,historical,Flawed Democracy
+Israel,2021-01-01,7.97,historical,Flawed Democracy
+Israel,2022-01-01,7.93,historical,Flawed Democracy
+Israel,2023-01-01,7.8,historical,Flawed Democracy
+Israel,2024-01-01,7.8,historical,Flawed Democracy
+Israel,2025-01-01,7.652090571937058,forecast,Flawed Democracy
+Israel,2026-01-01,7.588469269112308,forecast,Flawed Democracy
+Israel,2027-01-01,7.524847966287558,forecast,Flawed Democracy
+Israel,2028-01-01,7.461052358523562,forecast,Flawed Democracy
+Israel,2029-01-01,7.397431055698813,forecast,Flawed Democracy
+Israel,2030-01-01,7.333809752874063,forecast,Flawed Democracy
+Italy,2010-01-01,7.83,historical,Flawed Democracy
+Italy,2011-01-01,7.74,historical,Flawed Democracy
+Italy,2012-01-01,7.74,historical,Flawed Democracy
+Italy,2013-01-01,7.85,historical,Flawed Democracy
+Italy,2014-01-01,7.85,historical,Flawed Democracy
+Italy,2015-01-01,7.98,historical,Flawed Democracy
+Italy,2016-01-01,7.98,historical,Flawed Democracy
+Italy,2017-01-01,7.98,historical,Flawed Democracy
+Italy,2018-01-01,7.71,historical,Flawed Democracy
+Italy,2019-01-01,7.52,historical,Flawed Democracy
+Italy,2020-01-01,7.74,historical,Flawed Democracy
+Italy,2021-01-01,7.68,historical,Flawed Democracy
+Italy,2022-01-01,7.69,historical,Flawed Democracy
+Italy,2023-01-01,7.69,historical,Flawed Democracy
+Italy,2024-01-01,7.58,historical,Flawed Democracy
+Italy,2025-01-01,7.553412453981188,forecast,Flawed Democracy
+Italy,2026-01-01,7.522860431730264,forecast,Flawed Democracy
+Italy,2027-01-01,7.492308409479338,forecast,Flawed Democracy
+Italy,2028-01-01,7.461672683057863,forecast,Flawed Democracy
+Italy,2029-01-01,7.431120660806938,forecast,Flawed Democracy
+Italy,2030-01-01,7.400568638556013,forecast,Flawed Democracy
+Jamaica,2010-01-01,7.21,historical,Flawed Democracy
+Jamaica,2011-01-01,7.13,historical,Flawed Democracy
+Jamaica,2012-01-01,7.39,historical,Flawed Democracy
+Jamaica,2013-01-01,7.39,historical,Flawed Democracy
+Jamaica,2014-01-01,7.39,historical,Flawed Democracy
+Jamaica,2015-01-01,7.39,historical,Flawed Democracy
+Jamaica,2016-01-01,7.39,historical,Flawed Democracy
+Jamaica,2017-01-01,7.29,historical,Flawed Democracy
+Jamaica,2018-01-01,7.02,historical,Flawed Democracy
+Jamaica,2019-01-01,6.96,historical,Flawed Democracy
+Jamaica,2020-01-01,7.13,historical,Flawed Democracy
+Jamaica,2021-01-01,7.13,historical,Flawed Democracy
+Jamaica,2022-01-01,7.13,historical,Flawed Democracy
+Jamaica,2023-01-01,7.06,historical,Flawed Democracy
+Jamaica,2024-01-01,6.74,historical,Flawed Democracy
+Jamaica,2025-01-01,6.584537652835587,forecast,Flawed Democracy
+Jamaica,2026-01-01,6.461548413179699,forecast,Flawed Democracy
+Jamaica,2027-01-01,6.33855917352381,forecast,Flawed Democracy
+Jamaica,2028-01-01,6.215232977046945,forecast,Flawed Democracy
+Jamaica,2029-01-01,6.0922437373910565,forecast,Flawed Democracy
+Jamaica,2030-01-01,5.969254497735167,forecast,Hybrid Regime
+Japan,2010-01-01,8.08,historical,Full Democracy
+Japan,2011-01-01,8.08,historical,Full Democracy
+Japan,2012-01-01,8.08,historical,Full Democracy
+Japan,2013-01-01,8.08,historical,Full Democracy
+Japan,2014-01-01,8.08,historical,Full Democracy
+Japan,2015-01-01,7.96,historical,Flawed Democracy
+Japan,2016-01-01,7.99,historical,Flawed Democracy
+Japan,2017-01-01,7.88,historical,Flawed Democracy
+Japan,2018-01-01,7.99,historical,Flawed Democracy
+Japan,2019-01-01,7.99,historical,Flawed Democracy
+Japan,2020-01-01,8.13,historical,Full Democracy
+Japan,2021-01-01,8.15,historical,Full Democracy
+Japan,2022-01-01,8.33,historical,Full Democracy
+Japan,2023-01-01,8.4,historical,Full Democracy
+Japan,2024-01-01,8.48,historical,Full Democracy
+Japan,2025-01-01,8.709827565433038,forecast,Full Democracy
+Japan,2026-01-01,8.815419822597717,forecast,Full Democracy
+Japan,2027-01-01,8.921012079762399,forecast,Full Democracy
+Japan,2028-01-01,9.026893630782322,forecast,Full Democracy
+Japan,2029-01-01,9.132485887947,forecast,Full Democracy
+Japan,2030-01-01,9.238078145111679,forecast,Full Democracy
+Jordan,2010-01-01,3.74,historical,Authoritarian
+Jordan,2011-01-01,3.89,historical,Authoritarian
+Jordan,2012-01-01,3.76,historical,Authoritarian
+Jordan,2013-01-01,3.76,historical,Authoritarian
+Jordan,2014-01-01,3.76,historical,Authoritarian
+Jordan,2015-01-01,3.86,historical,Authoritarian
+Jordan,2016-01-01,3.96,historical,Authoritarian
+Jordan,2017-01-01,3.87,historical,Authoritarian
+Jordan,2018-01-01,3.93,historical,Authoritarian
+Jordan,2019-01-01,3.93,historical,Authoritarian
+Jordan,2020-01-01,3.62,historical,Authoritarian
+Jordan,2021-01-01,3.49,historical,Authoritarian
+Jordan,2022-01-01,3.17,historical,Authoritarian
+Jordan,2023-01-01,3.04,historical,Authoritarian
+Jordan,2024-01-01,3.28,historical,Authoritarian
+Jordan,2025-01-01,2.936265984193902,forecast,Authoritarian
+Jordan,2026-01-01,2.846317110395332,forecast,Authoritarian
+Jordan,2027-01-01,2.756368236596761,forecast,Authoritarian
+Jordan,2028-01-01,2.6661729275275095,forecast,Authoritarian
+Jordan,2029-01-01,2.5762240537289394,forecast,Authoritarian
+Jordan,2030-01-01,2.4862751799303684,forecast,Authoritarian
+Kazakhstan,2010-01-01,3.3,historical,Authoritarian
+Kazakhstan,2011-01-01,3.24,historical,Authoritarian
+Kazakhstan,2012-01-01,2.95,historical,Authoritarian
+Kazakhstan,2013-01-01,3.06,historical,Authoritarian
+Kazakhstan,2014-01-01,3.17,historical,Authoritarian
+Kazakhstan,2015-01-01,3.06,historical,Authoritarian
+Kazakhstan,2016-01-01,3.06,historical,Authoritarian
+Kazakhstan,2017-01-01,3.06,historical,Authoritarian
+Kazakhstan,2018-01-01,2.94,historical,Authoritarian
+Kazakhstan,2019-01-01,2.94,historical,Authoritarian
+Kazakhstan,2020-01-01,3.14,historical,Authoritarian
+Kazakhstan,2021-01-01,3.08,historical,Authoritarian
+Kazakhstan,2022-01-01,3.08,historical,Authoritarian
+Kazakhstan,2023-01-01,3.08,historical,Authoritarian
+Kazakhstan,2024-01-01,3.08,historical,Authoritarian
+Kazakhstan,2025-01-01,3.0800000985865226,forecast,Authoritarian
+Kazakhstan,2026-01-01,3.0800001042639034,forecast,Authoritarian
+Kazakhstan,2027-01-01,3.0800001099412846,forecast,Authoritarian
+Kazakhstan,2028-01-01,3.0800001156342196,forecast,Authoritarian
+Kazakhstan,2029-01-01,3.0800001213116004,forecast,Authoritarian
+Kazakhstan,2030-01-01,3.080000126988981,forecast,Authoritarian
+Kenya,2010-01-01,4.71,historical,Hybrid Regime
+Kenya,2011-01-01,4.71,historical,Hybrid Regime
+Kenya,2012-01-01,4.71,historical,Hybrid Regime
+Kenya,2013-01-01,5.13,historical,Hybrid Regime
+Kenya,2014-01-01,5.13,historical,Hybrid Regime
+Kenya,2015-01-01,5.33,historical,Hybrid Regime
+Kenya,2016-01-01,5.33,historical,Hybrid Regime
+Kenya,2017-01-01,5.11,historical,Hybrid Regime
+Kenya,2018-01-01,5.11,historical,Hybrid Regime
+Kenya,2019-01-01,5.18,historical,Hybrid Regime
+Kenya,2020-01-01,5.05,historical,Hybrid Regime
+Kenya,2021-01-01,5.05,historical,Hybrid Regime
+Kenya,2022-01-01,5.05,historical,Hybrid Regime
+Kenya,2023-01-01,5.05,historical,Hybrid Regime
+Kenya,2024-01-01,5.05,historical,Hybrid Regime
+Kenya,2025-01-01,5.050000006832705,forecast,Hybrid Regime
+Kenya,2026-01-01,5.050000006832705,forecast,Hybrid Regime
+Kenya,2027-01-01,5.050000006832705,forecast,Hybrid Regime
+Kenya,2028-01-01,5.050000006832705,forecast,Hybrid Regime
+Kenya,2029-01-01,5.050000006832705,forecast,Hybrid Regime
+Kenya,2030-01-01,5.050000006832705,forecast,Hybrid Regime
+Kuwait,2010-01-01,3.88,historical,Authoritarian
+Kuwait,2011-01-01,3.74,historical,Authoritarian
+Kuwait,2012-01-01,3.78,historical,Authoritarian
+Kuwait,2013-01-01,3.78,historical,Authoritarian
+Kuwait,2014-01-01,3.78,historical,Authoritarian
+Kuwait,2015-01-01,3.85,historical,Authoritarian
+Kuwait,2016-01-01,3.85,historical,Authoritarian
+Kuwait,2017-01-01,3.85,historical,Authoritarian
+Kuwait,2018-01-01,3.85,historical,Authoritarian
+Kuwait,2019-01-01,3.93,historical,Authoritarian
+Kuwait,2020-01-01,3.8,historical,Authoritarian
+Kuwait,2021-01-01,3.91,historical,Authoritarian
+Kuwait,2022-01-01,3.83,historical,Authoritarian
+Kuwait,2023-01-01,3.5,historical,Authoritarian
+Kuwait,2024-01-01,2.78,historical,Authoritarian
+Kuwait,2025-01-01,2.3054881212359204,forecast,Authoritarian
+Kuwait,2026-01-01,1.9691259087828659,forecast,Authoritarian
+Kuwait,2027-01-01,1.6327636963298096,forecast,Authoritarian
+Kuwait,2028-01-01,1.295479943568663,forecast,Authoritarian
+Kuwait,2029-01-01,0.9591177311156084,forecast,Authoritarian
+Kuwait,2030-01-01,0.6227555186625521,forecast,Authoritarian
+Kyrgyzstan,2010-01-01,4.31,historical,Hybrid Regime
+Kyrgyzstan,2011-01-01,4.34,historical,Hybrid Regime
+Kyrgyzstan,2012-01-01,4.69,historical,Hybrid Regime
+Kyrgyzstan,2013-01-01,4.69,historical,Hybrid Regime
+Kyrgyzstan,2014-01-01,5.24,historical,Hybrid Regime
+Kyrgyzstan,2015-01-01,5.33,historical,Hybrid Regime
+Kyrgyzstan,2016-01-01,4.93,historical,Hybrid Regime
+Kyrgyzstan,2017-01-01,5.11,historical,Hybrid Regime
+Kyrgyzstan,2018-01-01,5.11,historical,Hybrid Regime
+Kyrgyzstan,2019-01-01,4.89,historical,Hybrid Regime
+Kyrgyzstan,2020-01-01,4.21,historical,Hybrid Regime
+Kyrgyzstan,2021-01-01,3.62,historical,Authoritarian
+Kyrgyzstan,2022-01-01,3.62,historical,Authoritarian
+Kyrgyzstan,2023-01-01,3.7,historical,Authoritarian
+Kyrgyzstan,2024-01-01,3.52,historical,Authoritarian
+Kyrgyzstan,2025-01-01,3.5353764581024056,forecast,Authoritarian
+Kyrgyzstan,2026-01-01,3.5126268802261094,forecast,Authoritarian
+Kyrgyzstan,2027-01-01,3.4898773023498135,forecast,Authoritarian
+Kyrgyzstan,2028-01-01,3.4670653968628975,forecast,Authoritarian
+Kyrgyzstan,2029-01-01,3.4443158189866017,forecast,Authoritarian
+Kyrgyzstan,2030-01-01,3.4215662411103063,forecast,Authoritarian
+Laos,2010-01-01,2.1,historical,Authoritarian
+Laos,2011-01-01,2.1,historical,Authoritarian
+Laos,2012-01-01,2.32,historical,Authoritarian
+Laos,2013-01-01,2.21,historical,Authoritarian
+Laos,2014-01-01,2.21,historical,Authoritarian
+Laos,2015-01-01,2.21,historical,Authoritarian
+Laos,2016-01-01,2.37,historical,Authoritarian
+Laos,2017-01-01,2.37,historical,Authoritarian
+Laos,2018-01-01,2.37,historical,Authoritarian
+Laos,2019-01-01,2.14,historical,Authoritarian
+Laos,2020-01-01,1.77,historical,Authoritarian
+Laos,2021-01-01,1.77,historical,Authoritarian
+Laos,2022-01-01,1.77,historical,Authoritarian
+Laos,2023-01-01,1.71,historical,Authoritarian
+Laos,2024-01-01,1.71,historical,Authoritarian
+Laos,2025-01-01,1.6569430996331533,forecast,Authoritarian
+Laos,2026-01-01,1.6332710722812513,forecast,Authoritarian
+Laos,2027-01-01,1.6095990449293494,forecast,Authoritarian
+Laos,2028-01-01,1.5858621627079903,forecast,Authoritarian
+Laos,2029-01-01,1.5621901353560883,forecast,Authoritarian
+Laos,2030-01-01,1.5385181080041863,forecast,Authoritarian
+Latvia,2010-01-01,7.05,historical,Flawed Democracy
+Latvia,2011-01-01,7.05,historical,Flawed Democracy
+Latvia,2012-01-01,7.05,historical,Flawed Democracy
+Latvia,2013-01-01,7.05,historical,Flawed Democracy
+Latvia,2014-01-01,7.48,historical,Flawed Democracy
+Latvia,2015-01-01,7.37,historical,Flawed Democracy
+Latvia,2016-01-01,7.31,historical,Flawed Democracy
+Latvia,2017-01-01,7.25,historical,Flawed Democracy
+Latvia,2018-01-01,7.38,historical,Flawed Democracy
+Latvia,2019-01-01,7.49,historical,Flawed Democracy
+Latvia,2020-01-01,7.24,historical,Flawed Democracy
+Latvia,2021-01-01,7.31,historical,Flawed Democracy
+Latvia,2022-01-01,7.37,historical,Flawed Democracy
+Latvia,2023-01-01,7.38,historical,Flawed Democracy
+Latvia,2024-01-01,7.66,historical,Flawed Democracy
+Latvia,2025-01-01,7.798850879316727,forecast,Flawed Democracy
+Latvia,2026-01-01,7.904236831751758,forecast,Flawed Democracy
+Latvia,2027-01-01,8.00962278418679,forecast,Flawed Democracy
+Latvia,2028-01-01,8.11529746525863,forecast,Full Democracy
+Latvia,2029-01-01,8.220683417693662,forecast,Full Democracy
+Latvia,2030-01-01,8.326069370128693,forecast,Full Democracy
+Lebanon,2010-01-01,5.82,historical,Hybrid Regime
+Lebanon,2011-01-01,5.32,historical,Hybrid Regime
+Lebanon,2012-01-01,5.05,historical,Hybrid Regime
+Lebanon,2013-01-01,5.05,historical,Hybrid Regime
+Lebanon,2014-01-01,5.12,historical,Hybrid Regime
+Lebanon,2015-01-01,4.86,historical,Hybrid Regime
+Lebanon,2016-01-01,4.86,historical,Hybrid Regime
+Lebanon,2017-01-01,4.72,historical,Hybrid Regime
+Lebanon,2018-01-01,4.63,historical,Hybrid Regime
+Lebanon,2019-01-01,4.36,historical,Hybrid Regime
+Lebanon,2020-01-01,4.16,historical,Hybrid Regime
+Lebanon,2021-01-01,3.84,historical,Authoritarian
+Lebanon,2022-01-01,3.64,historical,Authoritarian
+Lebanon,2023-01-01,3.56,historical,Authoritarian
+Lebanon,2024-01-01,3.56,historical,Authoritarian
+Lebanon,2025-01-01,3.322298317208215,forecast,Authoritarian
+Lebanon,2026-01-01,3.228315809798573,forecast,Authoritarian
+Lebanon,2027-01-01,3.1343333023889306,forecast,Authoritarian
+Lebanon,2028-01-01,3.0400933086576183,forecast,Authoritarian
+Lebanon,2029-01-01,2.946110801247976,forecast,Authoritarian
+Lebanon,2030-01-01,2.852128293838334,forecast,Authoritarian
+Lesotho,2010-01-01,6.02,historical,Flawed Democracy
+Lesotho,2011-01-01,6.33,historical,Flawed Democracy
+Lesotho,2012-01-01,6.66,historical,Flawed Democracy
+Lesotho,2013-01-01,6.66,historical,Flawed Democracy
+Lesotho,2014-01-01,6.66,historical,Flawed Democracy
+Lesotho,2015-01-01,6.59,historical,Flawed Democracy
+Lesotho,2016-01-01,6.59,historical,Flawed Democracy
+Lesotho,2017-01-01,6.64,historical,Flawed Democracy
+Lesotho,2018-01-01,6.64,historical,Flawed Democracy
+Lesotho,2019-01-01,6.54,historical,Flawed Democracy
+Lesotho,2020-01-01,6.3,historical,Flawed Democracy
+Lesotho,2021-01-01,6.3,historical,Flawed Democracy
+Lesotho,2022-01-01,6.19,historical,Flawed Democracy
+Lesotho,2023-01-01,6.06,historical,Flawed Democracy
+Lesotho,2024-01-01,6.06,historical,Flawed Democracy
+Lesotho,2025-01-01,5.856926245414081,forecast,Hybrid Regime
+Lesotho,2026-01-01,5.772596150201527,forecast,Hybrid Regime
+Lesotho,2027-01-01,5.688266054988972,forecast,Hybrid Regime
+Lesotho,2028-01-01,5.603704918419671,forecast,Hybrid Regime
+Lesotho,2029-01-01,5.519374823207118,forecast,Hybrid Regime
+Lesotho,2030-01-01,5.435044727994562,forecast,Hybrid Regime
+Liberia,2010-01-01,5.07,historical,Hybrid Regime
+Liberia,2011-01-01,5.07,historical,Hybrid Regime
+Liberia,2012-01-01,4.95,historical,Hybrid Regime
+Liberia,2013-01-01,4.95,historical,Hybrid Regime
+Liberia,2014-01-01,4.95,historical,Hybrid Regime
+Liberia,2015-01-01,4.95,historical,Hybrid Regime
+Liberia,2016-01-01,5.31,historical,Hybrid Regime
+Liberia,2017-01-01,5.23,historical,Hybrid Regime
+Liberia,2018-01-01,5.35,historical,Hybrid Regime
+Liberia,2019-01-01,5.45,historical,Hybrid Regime
+Liberia,2020-01-01,5.32,historical,Hybrid Regime
+Liberia,2021-01-01,5.43,historical,Hybrid Regime
+Liberia,2022-01-01,5.43,historical,Hybrid Regime
+Liberia,2023-01-01,5.57,historical,Hybrid Regime
+Liberia,2024-01-01,5.57,historical,Hybrid Regime
+Liberia,2025-01-01,5.698194908592504,forecast,Hybrid Regime
+Liberia,2026-01-01,5.7549581859567045,forecast,Hybrid Regime
+Liberia,2027-01-01,5.811721463320905,forecast,Hybrid Regime
+Liberia,2028-01-01,5.868640256513502,forecast,Hybrid Regime
+Liberia,2029-01-01,5.925403533877702,forecast,Hybrid Regime
+Liberia,2030-01-01,5.982166811241904,forecast,Hybrid Regime
+Libya,2010-01-01,1.94,historical,Authoritarian
+Libya,2011-01-01,3.55,historical,Authoritarian
+Libya,2012-01-01,5.15,historical,Hybrid Regime
+Libya,2013-01-01,4.82,historical,Hybrid Regime
+Libya,2014-01-01,3.8,historical,Authoritarian
+Libya,2015-01-01,2.25,historical,Authoritarian
+Libya,2016-01-01,2.25,historical,Authoritarian
+Libya,2017-01-01,2.32,historical,Authoritarian
+Libya,2018-01-01,2.19,historical,Authoritarian
+Libya,2019-01-01,2.02,historical,Authoritarian
+Libya,2020-01-01,1.95,historical,Authoritarian
+Libya,2021-01-01,1.95,historical,Authoritarian
+Libya,2022-01-01,2.06,historical,Authoritarian
+Libya,2023-01-01,1.78,historical,Authoritarian
+Libya,2024-01-01,2.31,historical,Authoritarian
+Libya,2025-01-01,2.2796862285748523,forecast,Authoritarian
+Libya,2026-01-01,2.35245391002849,forecast,Authoritarian
+Libya,2027-01-01,2.4252215914821282,forecast,Authoritarian
+Libya,2028-01-01,2.4981886364465984,forecast,Authoritarian
+Libya,2029-01-01,2.570956317900236,forecast,Authoritarian
+Libya,2030-01-01,2.643723999353874,forecast,Authoritarian
+Lithuania,2010-01-01,7.24,historical,Flawed Democracy
+Lithuania,2011-01-01,7.24,historical,Flawed Democracy
+Lithuania,2012-01-01,7.24,historical,Flawed Democracy
+Lithuania,2013-01-01,7.54,historical,Flawed Democracy
+Lithuania,2014-01-01,7.54,historical,Flawed Democracy
+Lithuania,2015-01-01,7.54,historical,Flawed Democracy
+Lithuania,2016-01-01,7.47,historical,Flawed Democracy
+Lithuania,2017-01-01,7.41,historical,Flawed Democracy
+Lithuania,2018-01-01,7.5,historical,Flawed Democracy
+Lithuania,2019-01-01,7.5,historical,Flawed Democracy
+Lithuania,2020-01-01,7.13,historical,Flawed Democracy
+Lithuania,2021-01-01,7.18,historical,Flawed Democracy
+Lithuania,2022-01-01,7.31,historical,Flawed Democracy
+Lithuania,2023-01-01,7.31,historical,Flawed Democracy
+Lithuania,2024-01-01,7.59,historical,Flawed Democracy
+Lithuania,2025-01-01,7.7762475717423944,forecast,Flawed Democracy
+Lithuania,2026-01-01,7.8987468710724125,forecast,Flawed Democracy
+Lithuania,2027-01-01,8.021246170402433,forecast,Full Democracy
+Lithuania,2028-01-01,8.144081084251164,forecast,Full Democracy
+Lithuania,2029-01-01,8.266580383581184,forecast,Full Democracy
+Lithuania,2030-01-01,8.389079682911204,forecast,Full Democracy
+Luxembourg,2010-01-01,8.88,historical,Full Democracy
+Luxembourg,2011-01-01,8.88,historical,Full Democracy
+Luxembourg,2012-01-01,8.88,historical,Full Democracy
+Luxembourg,2013-01-01,8.88,historical,Full Democracy
+Luxembourg,2014-01-01,8.88,historical,Full Democracy
+Luxembourg,2015-01-01,8.88,historical,Full Democracy
+Luxembourg,2016-01-01,8.81,historical,Full Democracy
+Luxembourg,2017-01-01,8.81,historical,Full Democracy
+Luxembourg,2018-01-01,8.81,historical,Full Democracy
+Luxembourg,2019-01-01,8.81,historical,Full Democracy
+Luxembourg,2020-01-01,8.68,historical,Full Democracy
+Luxembourg,2021-01-01,8.68,historical,Full Democracy
+Luxembourg,2022-01-01,8.81,historical,Full Democracy
+Luxembourg,2023-01-01,8.81,historical,Full Democracy
+Luxembourg,2024-01-01,8.88,historical,Full Democracy
+Luxembourg,2025-01-01,9.004694243299763,forecast,Full Democracy
+Luxembourg,2026-01-01,9.06460699083942,forecast,Full Democracy
+Luxembourg,2027-01-01,9.124519738379078,forecast,Full Democracy
+Luxembourg,2028-01-01,9.184596630432543,forecast,Full Democracy
+Luxembourg,2029-01-01,9.2445093779722,forecast,Full Democracy
+Luxembourg,2030-01-01,9.304422125511858,forecast,Full Democracy
+Madagascar,2010-01-01,3.94,historical,Authoritarian
+Madagascar,2011-01-01,3.93,historical,Authoritarian
+Madagascar,2012-01-01,3.93,historical,Authoritarian
+Madagascar,2013-01-01,4.32,historical,Hybrid Regime
+Madagascar,2014-01-01,4.42,historical,Hybrid Regime
+Madagascar,2015-01-01,4.85,historical,Hybrid Regime
+Madagascar,2016-01-01,5.07,historical,Hybrid Regime
+Madagascar,2017-01-01,5.11,historical,Hybrid Regime
+Madagascar,2018-01-01,5.22,historical,Hybrid Regime
+Madagascar,2019-01-01,5.64,historical,Hybrid Regime
+Madagascar,2020-01-01,5.7,historical,Hybrid Regime
+Madagascar,2021-01-01,5.7,historical,Hybrid Regime
+Madagascar,2022-01-01,5.7,historical,Hybrid Regime
+Madagascar,2023-01-01,5.26,historical,Hybrid Regime
+Madagascar,2024-01-01,5.33,historical,Hybrid Regime
+Madagascar,2025-01-01,4.964253435120368,forecast,Hybrid Regime
+Madagascar,2026-01-01,4.811897115331201,forecast,Hybrid Regime
+Madagascar,2027-01-01,4.659540795542032,forecast,Hybrid Regime
+Madagascar,2028-01-01,4.506767061178099,forecast,Hybrid Regime
+Madagascar,2029-01-01,4.354410741388932,forecast,Hybrid Regime
+Madagascar,2030-01-01,4.2020544215997635,forecast,Hybrid Regime
+Malawi,2010-01-01,5.84,historical,Hybrid Regime
+Malawi,2011-01-01,5.84,historical,Hybrid Regime
+Malawi,2012-01-01,6.08,historical,Flawed Democracy
+Malawi,2013-01-01,6.0,historical,Hybrid Regime
+Malawi,2014-01-01,5.66,historical,Hybrid Regime
+Malawi,2015-01-01,5.55,historical,Hybrid Regime
+Malawi,2016-01-01,5.55,historical,Hybrid Regime
+Malawi,2017-01-01,5.49,historical,Hybrid Regime
+Malawi,2018-01-01,5.49,historical,Hybrid Regime
+Malawi,2019-01-01,5.5,historical,Hybrid Regime
+Malawi,2020-01-01,5.74,historical,Hybrid Regime
+Malawi,2021-01-01,5.74,historical,Hybrid Regime
+Malawi,2022-01-01,5.91,historical,Hybrid Regime
+Malawi,2023-01-01,5.85,historical,Hybrid Regime
+Malawi,2024-01-01,5.85,historical,Hybrid Regime
+Malawi,2025-01-01,5.933811204911152,forecast,Hybrid Regime
+Malawi,2026-01-01,5.961328671191457,forecast,Hybrid Regime
+Malawi,2027-01-01,5.988846137471762,forecast,Hybrid Regime
+Malawi,2028-01-01,6.0164389940706435,forecast,Flawed Democracy
+Malawi,2029-01-01,6.043956460350949,forecast,Flawed Democracy
+Malawi,2030-01-01,6.071473926631254,forecast,Flawed Democracy
+Malaysia,2010-01-01,6.19,historical,Flawed Democracy
+Malaysia,2011-01-01,6.19,historical,Flawed Democracy
+Malaysia,2012-01-01,6.41,historical,Flawed Democracy
+Malaysia,2013-01-01,6.49,historical,Flawed Democracy
+Malaysia,2014-01-01,6.49,historical,Flawed Democracy
+Malaysia,2015-01-01,6.43,historical,Flawed Democracy
+Malaysia,2016-01-01,6.54,historical,Flawed Democracy
+Malaysia,2017-01-01,6.54,historical,Flawed Democracy
+Malaysia,2018-01-01,6.88,historical,Flawed Democracy
+Malaysia,2019-01-01,7.16,historical,Flawed Democracy
+Malaysia,2020-01-01,7.19,historical,Flawed Democracy
+Malaysia,2021-01-01,7.24,historical,Flawed Democracy
+Malaysia,2022-01-01,7.3,historical,Flawed Democracy
+Malaysia,2023-01-01,7.29,historical,Flawed Democracy
+Malaysia,2024-01-01,7.11,historical,Flawed Democracy
+Malaysia,2025-01-01,7.10157599199411,forecast,Flawed Democracy
+Malaysia,2026-01-01,7.0638629221610385,forecast,Flawed Democracy
+Malaysia,2027-01-01,7.026149852327966,forecast,Flawed Democracy
+Malaysia,2028-01-01,6.988333459015898,forecast,Flawed Democracy
+Malaysia,2029-01-01,6.950620389182826,forecast,Flawed Democracy
+Malaysia,2030-01-01,6.912907319349753,forecast,Flawed Democracy
+Mali,2010-01-01,6.01,historical,Flawed Democracy
+Mali,2011-01-01,6.36,historical,Flawed Democracy
+Mali,2012-01-01,5.12,historical,Hybrid Regime
+Mali,2013-01-01,5.9,historical,Hybrid Regime
+Mali,2014-01-01,5.79,historical,Hybrid Regime
+Mali,2015-01-01,5.7,historical,Hybrid Regime
+Mali,2016-01-01,5.7,historical,Hybrid Regime
+Mali,2017-01-01,5.64,historical,Hybrid Regime
+Mali,2018-01-01,5.41,historical,Hybrid Regime
+Mali,2019-01-01,4.92,historical,Hybrid Regime
+Mali,2020-01-01,3.93,historical,Authoritarian
+Mali,2021-01-01,3.48,historical,Authoritarian
+Mali,2022-01-01,3.23,historical,Authoritarian
+Mali,2023-01-01,2.58,historical,Authoritarian
+Mali,2024-01-01,2.4,historical,Authoritarian
+Mali,2025-01-01,1.5545552239585776,forecast,Authoritarian
+Mali,2026-01-01,1.1637136529982304,forecast,Authoritarian
+Mali,2027-01-01,0.7728720820378812,forecast,Authoritarian
+Mali,2028-01-01,0.3809597122529822,forecast,Authoritarian
+Mali,2029-01-01,0.0,forecast,Authoritarian
+Mali,2030-01-01,0.0,forecast,Authoritarian
+Malta,2010-01-01,8.28,historical,Full Democracy
+Malta,2011-01-01,8.28,historical,Full Democracy
+Malta,2012-01-01,8.28,historical,Full Democracy
+Malta,2013-01-01,8.28,historical,Full Democracy
+Malta,2014-01-01,8.39,historical,Full Democracy
+Malta,2015-01-01,8.39,historical,Full Democracy
+Malta,2016-01-01,8.39,historical,Full Democracy
+Malta,2017-01-01,8.15,historical,Full Democracy
+Malta,2018-01-01,8.21,historical,Full Democracy
+Malta,2019-01-01,7.95,historical,Flawed Democracy
+Malta,2020-01-01,7.68,historical,Flawed Democracy
+Malta,2021-01-01,7.57,historical,Flawed Democracy
+Malta,2022-01-01,7.7,historical,Flawed Democracy
+Malta,2023-01-01,7.93,historical,Flawed Democracy
+Malta,2024-01-01,7.93,historical,Flawed Democracy
+Malta,2025-01-01,8.23991288412994,forecast,Full Democracy
+Malta,2026-01-01,8.370602279317477,forecast,Full Democracy
+Malta,2027-01-01,8.501291674505017,forecast,Full Democracy
+Malta,2028-01-01,8.632339122830057,forecast,Full Democracy
+Malta,2029-01-01,8.763028518017595,forecast,Full Democracy
+Malta,2030-01-01,8.893717913205135,forecast,Full Democracy
+Mauritania,2010-01-01,3.86,historical,Authoritarian
+Mauritania,2011-01-01,4.17,historical,Hybrid Regime
+Mauritania,2012-01-01,4.17,historical,Hybrid Regime
+Mauritania,2013-01-01,4.17,historical,Hybrid Regime
+Mauritania,2014-01-01,4.17,historical,Hybrid Regime
+Mauritania,2015-01-01,3.96,historical,Authoritarian
+Mauritania,2016-01-01,3.96,historical,Authoritarian
+Mauritania,2017-01-01,3.82,historical,Authoritarian
+Mauritania,2018-01-01,3.82,historical,Authoritarian
+Mauritania,2019-01-01,3.92,historical,Authoritarian
+Mauritania,2020-01-01,3.92,historical,Authoritarian
+Mauritania,2021-01-01,4.03,historical,Hybrid Regime
+Mauritania,2022-01-01,4.03,historical,Hybrid Regime
+Mauritania,2023-01-01,4.14,historical,Hybrid Regime
+Mauritania,2024-01-01,3.96,historical,Authoritarian
+Mauritania,2025-01-01,4.019104638705561,forecast,Hybrid Regime
+Mauritania,2026-01-01,4.014009863445214,forecast,Hybrid Regime
+Mauritania,2027-01-01,4.008915088184868,forecast,Authoritarian
+Mauritania,2028-01-01,4.003806354636137,forecast,Authoritarian
+Mauritania,2029-01-01,3.9987115793757915,forecast,Authoritarian
+Mauritania,2030-01-01,3.993616804115445,forecast,Authoritarian
+Mauritius,2010-01-01,8.04,historical,Full Democracy
+Mauritius,2011-01-01,8.04,historical,Full Democracy
+Mauritius,2012-01-01,8.17,historical,Full Democracy
+Mauritius,2013-01-01,8.17,historical,Full Democracy
+Mauritius,2014-01-01,8.17,historical,Full Democracy
+Mauritius,2015-01-01,8.28,historical,Full Democracy
+Mauritius,2016-01-01,8.28,historical,Full Democracy
+Mauritius,2017-01-01,8.22,historical,Full Democracy
+Mauritius,2018-01-01,8.22,historical,Full Democracy
+Mauritius,2019-01-01,8.22,historical,Full Democracy
+Mauritius,2020-01-01,8.14,historical,Full Democracy
+Mauritius,2021-01-01,8.08,historical,Full Democracy
+Mauritius,2022-01-01,8.14,historical,Full Democracy
+Mauritius,2023-01-01,8.14,historical,Full Democracy
+Mauritius,2024-01-01,8.23,historical,Full Democracy
+Mauritius,2025-01-01,8.304848399161632,forecast,Full Democracy
+Mauritius,2026-01-01,8.349805096972945,forecast,Full Democracy
+Mauritius,2027-01-01,8.394761794784257,forecast,Full Democracy
+Mauritius,2028-01-01,8.439841661630668,forecast,Full Democracy
+Mauritius,2029-01-01,8.484798359441982,forecast,Full Democracy
+Mauritius,2030-01-01,8.529755057253292,forecast,Full Democracy
+Mexico,2010-01-01,6.93,historical,Flawed Democracy
+Mexico,2011-01-01,6.93,historical,Flawed Democracy
+Mexico,2012-01-01,6.9,historical,Flawed Democracy
+Mexico,2013-01-01,6.91,historical,Flawed Democracy
+Mexico,2014-01-01,6.68,historical,Flawed Democracy
+Mexico,2015-01-01,6.55,historical,Flawed Democracy
+Mexico,2016-01-01,6.47,historical,Flawed Democracy
+Mexico,2017-01-01,6.41,historical,Flawed Democracy
+Mexico,2018-01-01,6.19,historical,Flawed Democracy
+Mexico,2019-01-01,6.09,historical,Flawed Democracy
+Mexico,2020-01-01,6.07,historical,Flawed Democracy
+Mexico,2021-01-01,5.57,historical,Hybrid Regime
+Mexico,2022-01-01,5.25,historical,Hybrid Regime
+Mexico,2023-01-01,5.14,historical,Hybrid Regime
+Mexico,2024-01-01,5.32,historical,Hybrid Regime
+Mexico,2025-01-01,4.987307805322368,forecast,Hybrid Regime
+Mexico,2026-01-01,4.890292834251055,forecast,Hybrid Regime
+Mexico,2027-01-01,4.793277863179743,forecast,Hybrid Regime
+Mexico,2028-01-01,4.695997097667138,forecast,Hybrid Regime
+Mexico,2029-01-01,4.598982126595825,forecast,Hybrid Regime
+Mexico,2030-01-01,4.501967155524511,forecast,Hybrid Regime
+Moldova,2010-01-01,6.33,historical,Flawed Democracy
+Moldova,2011-01-01,6.33,historical,Flawed Democracy
+Moldova,2012-01-01,6.32,historical,Flawed Democracy
+Moldova,2013-01-01,6.32,historical,Flawed Democracy
+Moldova,2014-01-01,6.32,historical,Flawed Democracy
+Moldova,2015-01-01,6.35,historical,Flawed Democracy
+Moldova,2016-01-01,6.01,historical,Flawed Democracy
+Moldova,2017-01-01,5.94,historical,Hybrid Regime
+Moldova,2018-01-01,5.85,historical,Hybrid Regime
+Moldova,2019-01-01,5.75,historical,Hybrid Regime
+Moldova,2020-01-01,5.78,historical,Hybrid Regime
+Moldova,2021-01-01,6.1,historical,Flawed Democracy
+Moldova,2022-01-01,6.23,historical,Flawed Democracy
+Moldova,2023-01-01,6.23,historical,Flawed Democracy
+Moldova,2024-01-01,6.04,historical,Flawed Democracy
+Moldova,2025-01-01,6.099897917773999,forecast,Flawed Democracy
+Moldova,2026-01-01,6.08638362280389,forecast,Flawed Democracy
+Moldova,2027-01-01,6.07286932783378,forecast,Flawed Democracy
+Moldova,2028-01-01,6.059318007398,forecast,Flawed Democracy
+Moldova,2029-01-01,6.04580371242789,forecast,Flawed Democracy
+Moldova,2030-01-01,6.032289417457781,forecast,Flawed Democracy
+Mongolia,2010-01-01,6.36,historical,Flawed Democracy
+Mongolia,2011-01-01,6.23,historical,Flawed Democracy
+Mongolia,2012-01-01,6.35,historical,Flawed Democracy
+Mongolia,2013-01-01,6.51,historical,Flawed Democracy
+Mongolia,2014-01-01,6.62,historical,Flawed Democracy
+Mongolia,2015-01-01,6.62,historical,Flawed Democracy
+Mongolia,2016-01-01,6.62,historical,Flawed Democracy
+Mongolia,2017-01-01,6.5,historical,Flawed Democracy
+Mongolia,2018-01-01,6.5,historical,Flawed Democracy
+Mongolia,2019-01-01,6.5,historical,Flawed Democracy
+Mongolia,2020-01-01,6.48,historical,Flawed Democracy
+Mongolia,2021-01-01,6.42,historical,Flawed Democracy
+Mongolia,2022-01-01,6.35,historical,Flawed Democracy
+Mongolia,2023-01-01,6.48,historical,Flawed Democracy
+Mongolia,2024-01-01,6.53,historical,Flawed Democracy
+Mongolia,2025-01-01,6.6024922244644815,forecast,Flawed Democracy
+Mongolia,2026-01-01,6.647272304618308,forecast,Flawed Democracy
+Mongolia,2027-01-01,6.692052384772136,forecast,Flawed Democracy
+Mongolia,2028-01-01,6.736955150077069,forecast,Flawed Democracy
+Mongolia,2029-01-01,6.781735230230896,forecast,Flawed Democracy
+Mongolia,2030-01-01,6.826515310384724,forecast,Flawed Democracy
+Montenegro,2010-01-01,6.27,historical,Flawed Democracy
+Montenegro,2011-01-01,6.15,historical,Flawed Democracy
+Montenegro,2012-01-01,6.05,historical,Flawed Democracy
+Montenegro,2013-01-01,5.94,historical,Hybrid Regime
+Montenegro,2014-01-01,5.94,historical,Hybrid Regime
+Montenegro,2015-01-01,6.01,historical,Flawed Democracy
+Montenegro,2016-01-01,5.72,historical,Hybrid Regime
+Montenegro,2017-01-01,5.69,historical,Hybrid Regime
+Montenegro,2018-01-01,5.74,historical,Hybrid Regime
+Montenegro,2019-01-01,5.65,historical,Hybrid Regime
+Montenegro,2020-01-01,5.77,historical,Hybrid Regime
+Montenegro,2021-01-01,6.02,historical,Flawed Democracy
+Montenegro,2022-01-01,6.45,historical,Flawed Democracy
+Montenegro,2023-01-01,6.67,historical,Flawed Democracy
+Montenegro,2024-01-01,6.73,historical,Flawed Democracy
+Montenegro,2025-01-01,7.307104975613431,forecast,Flawed Democracy
+Montenegro,2026-01-01,7.5480537455640295,forecast,Flawed Democracy
+Montenegro,2027-01-01,7.789002515514629,forecast,Flawed Democracy
+Montenegro,2028-01-01,8.030611419081533,forecast,Full Democracy
+Montenegro,2029-01-01,8.271560189032131,forecast,Full Democracy
+Montenegro,2030-01-01,8.512508958982732,forecast,Full Democracy
+Morocco,2010-01-01,3.79,historical,Authoritarian
+Morocco,2011-01-01,3.83,historical,Authoritarian
+Morocco,2012-01-01,4.07,historical,Hybrid Regime
+Morocco,2013-01-01,4.07,historical,Hybrid Regime
+Morocco,2014-01-01,4.0,historical,Authoritarian
+Morocco,2015-01-01,4.66,historical,Hybrid Regime
+Morocco,2016-01-01,4.77,historical,Hybrid Regime
+Morocco,2017-01-01,4.87,historical,Hybrid Regime
+Morocco,2018-01-01,4.99,historical,Hybrid Regime
+Morocco,2019-01-01,5.1,historical,Hybrid Regime
+Morocco,2020-01-01,5.04,historical,Hybrid Regime
+Morocco,2021-01-01,5.04,historical,Hybrid Regime
+Morocco,2022-01-01,5.04,historical,Hybrid Regime
+Morocco,2023-01-01,5.04,historical,Hybrid Regime
+Morocco,2024-01-01,4.97,historical,Hybrid Regime
+Morocco,2025-01-01,4.94989042574909,forecast,Hybrid Regime
+Morocco,2026-01-01,4.929200075697065,forecast,Hybrid Regime
+Morocco,2027-01-01,4.908509725645041,forecast,Hybrid Regime
+Morocco,2028-01-01,4.8877626897024635,forecast,Hybrid Regime
+Morocco,2029-01-01,4.867072339650439,forecast,Hybrid Regime
+Morocco,2030-01-01,4.846381989598415,forecast,Hybrid Regime
+Mozambique,2010-01-01,4.9,historical,Hybrid Regime
+Mozambique,2011-01-01,4.9,historical,Hybrid Regime
+Mozambique,2012-01-01,4.88,historical,Hybrid Regime
+Mozambique,2013-01-01,4.77,historical,Hybrid Regime
+Mozambique,2014-01-01,4.66,historical,Hybrid Regime
+Mozambique,2015-01-01,4.6,historical,Hybrid Regime
+Mozambique,2016-01-01,4.02,historical,Hybrid Regime
+Mozambique,2017-01-01,4.02,historical,Hybrid Regime
+Mozambique,2018-01-01,3.85,historical,Authoritarian
+Mozambique,2019-01-01,3.65,historical,Authoritarian
+Mozambique,2020-01-01,3.51,historical,Authoritarian
+Mozambique,2021-01-01,3.51,historical,Authoritarian
+Mozambique,2022-01-01,3.51,historical,Authoritarian
+Mozambique,2023-01-01,3.51,historical,Authoritarian
+Mozambique,2024-01-01,3.38,historical,Authoritarian
+Mozambique,2025-01-01,3.3442483338845097,forecast,Authoritarian
+Mozambique,2026-01-01,3.3063780031621146,forecast,Authoritarian
+Mozambique,2027-01-01,3.26850767243972,forecast,Authoritarian
+Mozambique,2028-01-01,3.230533587386579,forecast,Authoritarian
+Mozambique,2029-01-01,3.1926632566641837,forecast,Authoritarian
+Mozambique,2030-01-01,3.154792925941789,forecast,Authoritarian
+Myanmar,2010-01-01,1.77,historical,Authoritarian
+Myanmar,2011-01-01,1.77,historical,Authoritarian
+Myanmar,2012-01-01,2.35,historical,Authoritarian
+Myanmar,2013-01-01,2.76,historical,Authoritarian
+Myanmar,2014-01-01,3.05,historical,Authoritarian
+Myanmar,2015-01-01,4.14,historical,Hybrid Regime
+Myanmar,2016-01-01,4.2,historical,Hybrid Regime
+Myanmar,2017-01-01,3.83,historical,Authoritarian
+Myanmar,2018-01-01,3.83,historical,Authoritarian
+Myanmar,2019-01-01,3.55,historical,Authoritarian
+Myanmar,2020-01-01,3.04,historical,Authoritarian
+Myanmar,2021-01-01,1.02,historical,Authoritarian
+Myanmar,2022-01-01,0.74,historical,Authoritarian
+Myanmar,2023-01-01,0.85,historical,Authoritarian
+Myanmar,2024-01-01,0.96,historical,Authoritarian
+Myanmar,2025-01-01,0.028199914190679243,forecast,Authoritarian
+Myanmar,2026-01-01,0.0,forecast,Authoritarian
+Myanmar,2027-01-01,0.0,forecast,Authoritarian
+Myanmar,2028-01-01,0.0,forecast,Authoritarian
+Myanmar,2029-01-01,0.0,forecast,Authoritarian
+Myanmar,2030-01-01,0.0,forecast,Authoritarian
+Namibia,2010-01-01,6.23,historical,Flawed Democracy
+Namibia,2011-01-01,6.24,historical,Flawed Democracy
+Namibia,2012-01-01,6.24,historical,Flawed Democracy
+Namibia,2013-01-01,6.24,historical,Flawed Democracy
+Namibia,2014-01-01,6.24,historical,Flawed Democracy
+Namibia,2015-01-01,6.31,historical,Flawed Democracy
+Namibia,2016-01-01,6.31,historical,Flawed Democracy
+Namibia,2017-01-01,6.31,historical,Flawed Democracy
+Namibia,2018-01-01,6.25,historical,Flawed Democracy
+Namibia,2019-01-01,6.43,historical,Flawed Democracy
+Namibia,2020-01-01,6.52,historical,Flawed Democracy
+Namibia,2021-01-01,6.52,historical,Flawed Democracy
+Namibia,2022-01-01,6.52,historical,Flawed Democracy
+Namibia,2023-01-01,6.52,historical,Flawed Democracy
+Namibia,2024-01-01,6.48,historical,Flawed Democracy
+Namibia,2025-01-01,6.46806915333596,forecast,Flawed Democracy
+Namibia,2026-01-01,6.456088894729902,forecast,Flawed Democracy
+Namibia,2027-01-01,6.444108636123845,forecast,Flawed Democracy
+Namibia,2028-01-01,6.432095554891469,forecast,Flawed Democracy
+Namibia,2029-01-01,6.420115296285411,forecast,Flawed Democracy
+Namibia,2030-01-01,6.408135037679354,forecast,Flawed Democracy
+Nepal,2010-01-01,4.24,historical,Hybrid Regime
+Nepal,2011-01-01,4.24,historical,Hybrid Regime
+Nepal,2012-01-01,4.16,historical,Hybrid Regime
+Nepal,2013-01-01,4.77,historical,Hybrid Regime
+Nepal,2014-01-01,4.77,historical,Hybrid Regime
+Nepal,2015-01-01,4.77,historical,Hybrid Regime
+Nepal,2016-01-01,4.86,historical,Hybrid Regime
+Nepal,2017-01-01,5.18,historical,Hybrid Regime
+Nepal,2018-01-01,5.18,historical,Hybrid Regime
+Nepal,2019-01-01,5.28,historical,Hybrid Regime
+Nepal,2020-01-01,5.22,historical,Hybrid Regime
+Nepal,2021-01-01,4.41,historical,Hybrid Regime
+Nepal,2022-01-01,4.49,historical,Hybrid Regime
+Nepal,2023-01-01,4.6,historical,Hybrid Regime
+Nepal,2024-01-01,4.6,historical,Hybrid Regime
+Nepal,2025-01-01,4.7614830014735015,forecast,Hybrid Regime
+Nepal,2026-01-01,4.828955439357068,forecast,Hybrid Regime
+Nepal,2027-01-01,4.896427877240636,forecast,Hybrid Regime
+Nepal,2028-01-01,4.964085171118404,forecast,Hybrid Regime
+Nepal,2029-01-01,5.03155760900197,forecast,Hybrid Regime
+Nepal,2030-01-01,5.099030046885538,forecast,Hybrid Regime
+Netherlands,2010-01-01,8.99,historical,Full Democracy
+Netherlands,2011-01-01,8.99,historical,Full Democracy
+Netherlands,2012-01-01,8.99,historical,Full Democracy
+Netherlands,2013-01-01,8.84,historical,Full Democracy
+Netherlands,2014-01-01,8.92,historical,Full Democracy
+Netherlands,2015-01-01,8.92,historical,Full Democracy
+Netherlands,2016-01-01,8.8,historical,Full Democracy
+Netherlands,2017-01-01,8.89,historical,Full Democracy
+Netherlands,2018-01-01,8.89,historical,Full Democracy
+Netherlands,2019-01-01,9.01,historical,Full Democracy
+Netherlands,2020-01-01,8.96,historical,Full Democracy
+Netherlands,2021-01-01,8.88,historical,Full Democracy
+Netherlands,2022-01-01,9.0,historical,Full Democracy
+Netherlands,2023-01-01,9.0,historical,Full Democracy
+Netherlands,2024-01-01,9.0,historical,Full Democracy
+Netherlands,2025-01-01,9.095631722875357,forecast,Full Democracy
+Netherlands,2026-01-01,9.131534006232469,forecast,Full Democracy
+Netherlands,2027-01-01,9.16743628958958,forecast,Full Democracy
+Netherlands,2028-01-01,9.20343693536685,forecast,Full Democracy
+Netherlands,2029-01-01,9.239339218723963,forecast,Full Democracy
+Netherlands,2030-01-01,9.275241502081077,forecast,Full Democracy
+New Zealand,2010-01-01,9.26,historical,Full Democracy
+New Zealand,2011-01-01,9.26,historical,Full Democracy
+New Zealand,2012-01-01,9.26,historical,Full Democracy
+New Zealand,2013-01-01,9.26,historical,Full Democracy
+New Zealand,2014-01-01,9.26,historical,Full Democracy
+New Zealand,2015-01-01,9.26,historical,Full Democracy
+New Zealand,2016-01-01,9.26,historical,Full Democracy
+New Zealand,2017-01-01,9.26,historical,Full Democracy
+New Zealand,2018-01-01,9.26,historical,Full Democracy
+New Zealand,2019-01-01,9.26,historical,Full Democracy
+New Zealand,2020-01-01,9.25,historical,Full Democracy
+New Zealand,2021-01-01,9.37,historical,Full Democracy
+New Zealand,2022-01-01,9.61,historical,Full Democracy
+New Zealand,2023-01-01,9.61,historical,Full Democracy
+New Zealand,2024-01-01,9.61,historical,Full Democracy
+New Zealand,2025-01-01,9.807542820385192,forecast,Full Democracy
+New Zealand,2026-01-01,9.881469296875286,forecast,Full Democracy
+New Zealand,2027-01-01,9.955395773365378,forecast,Full Democracy
+New Zealand,2028-01-01,10.0,forecast,Full Democracy
+New Zealand,2029-01-01,10.0,forecast,Full Democracy
+New Zealand,2030-01-01,10.0,forecast,Full Democracy
+Nicaragua,2010-01-01,5.73,historical,Hybrid Regime
+Nicaragua,2011-01-01,5.56,historical,Hybrid Regime
+Nicaragua,2012-01-01,5.56,historical,Hybrid Regime
+Nicaragua,2013-01-01,5.46,historical,Hybrid Regime
+Nicaragua,2014-01-01,5.32,historical,Hybrid Regime
+Nicaragua,2015-01-01,5.26,historical,Hybrid Regime
+Nicaragua,2016-01-01,4.81,historical,Hybrid Regime
+Nicaragua,2017-01-01,4.66,historical,Hybrid Regime
+Nicaragua,2018-01-01,3.63,historical,Authoritarian
+Nicaragua,2019-01-01,3.55,historical,Authoritarian
+Nicaragua,2020-01-01,3.6,historical,Authoritarian
+Nicaragua,2021-01-01,2.69,historical,Authoritarian
+Nicaragua,2022-01-01,2.5,historical,Authoritarian
+Nicaragua,2023-01-01,2.26,historical,Authoritarian
+Nicaragua,2024-01-01,2.09,historical,Authoritarian
+Nicaragua,2025-01-01,1.6705597908970418,forecast,Authoritarian
+Nicaragua,2026-01-01,1.4664066672748344,forecast,Authoritarian
+Nicaragua,2027-01-01,1.2622535436526257,forecast,Authoritarian
+Nicaragua,2028-01-01,1.0575410964040552,forecast,Authoritarian
+Nicaragua,2029-01-01,0.8533879727818479,forecast,Authoritarian
+Nicaragua,2030-01-01,0.6492348491596397,forecast,Authoritarian
+Niger,2010-01-01,3.38,historical,Authoritarian
+Niger,2011-01-01,4.16,historical,Hybrid Regime
+Niger,2012-01-01,4.16,historical,Hybrid Regime
+Niger,2013-01-01,4.08,historical,Hybrid Regime
+Niger,2014-01-01,4.02,historical,Hybrid Regime
+Niger,2015-01-01,3.85,historical,Authoritarian
+Niger,2016-01-01,3.96,historical,Authoritarian
+Niger,2017-01-01,3.76,historical,Authoritarian
+Niger,2018-01-01,3.76,historical,Authoritarian
+Niger,2019-01-01,3.29,historical,Authoritarian
+Niger,2020-01-01,3.29,historical,Authoritarian
+Niger,2021-01-01,3.22,historical,Authoritarian
+Niger,2022-01-01,3.73,historical,Authoritarian
+Niger,2023-01-01,2.37,historical,Authoritarian
+Niger,2024-01-01,2.26,historical,Authoritarian
+Niger,2025-01-01,1.7740336343229108,forecast,Authoritarian
+Niger,2026-01-01,1.4677311964341573,forecast,Authoritarian
+Niger,2027-01-01,1.1614287585454017,forecast,Authoritarian
+Niger,2028-01-01,0.8542871358953077,forecast,Authoritarian
+Niger,2029-01-01,0.547984698006554,forecast,Authoritarian
+Niger,2030-01-01,0.2416822601177986,forecast,Authoritarian
+Nigeria,2010-01-01,3.47,historical,Authoritarian
+Nigeria,2011-01-01,3.83,historical,Authoritarian
+Nigeria,2012-01-01,3.77,historical,Authoritarian
+Nigeria,2013-01-01,3.77,historical,Authoritarian
+Nigeria,2014-01-01,3.76,historical,Authoritarian
+Nigeria,2015-01-01,4.62,historical,Hybrid Regime
+Nigeria,2016-01-01,4.5,historical,Hybrid Regime
+Nigeria,2017-01-01,4.44,historical,Hybrid Regime
+Nigeria,2018-01-01,4.44,historical,Hybrid Regime
+Nigeria,2019-01-01,4.12,historical,Hybrid Regime
+Nigeria,2020-01-01,4.1,historical,Hybrid Regime
+Nigeria,2021-01-01,4.11,historical,Hybrid Regime
+Nigeria,2022-01-01,4.23,historical,Hybrid Regime
+Nigeria,2023-01-01,4.23,historical,Hybrid Regime
+Nigeria,2024-01-01,4.16,historical,Hybrid Regime
+Nigeria,2025-01-01,4.241431813636065,forecast,Hybrid Regime
+Nigeria,2026-01-01,4.258668535116108,forecast,Hybrid Regime
+Nigeria,2027-01-01,4.275905256596151,forecast,Hybrid Regime
+Nigeria,2028-01-01,4.29318920197066,forecast,Hybrid Regime
+Nigeria,2029-01-01,4.310425923450703,forecast,Hybrid Regime
+Nigeria,2030-01-01,4.327662644930746,forecast,Hybrid Regime
+North Korea,2010-01-01,1.08,historical,Authoritarian
+North Korea,2011-01-01,1.08,historical,Authoritarian
+North Korea,2012-01-01,1.08,historical,Authoritarian
+North Korea,2013-01-01,1.08,historical,Authoritarian
+North Korea,2014-01-01,1.08,historical,Authoritarian
+North Korea,2015-01-01,1.08,historical,Authoritarian
+North Korea,2016-01-01,1.08,historical,Authoritarian
+North Korea,2017-01-01,1.08,historical,Authoritarian
+North Korea,2018-01-01,1.08,historical,Authoritarian
+North Korea,2019-01-01,1.08,historical,Authoritarian
+North Korea,2020-01-01,1.08,historical,Authoritarian
+North Korea,2021-01-01,1.08,historical,Authoritarian
+North Korea,2022-01-01,1.08,historical,Authoritarian
+North Korea,2023-01-01,1.08,historical,Authoritarian
+North Korea,2024-01-01,1.08,historical,Authoritarian
+North Korea,2025-01-01,1.08,forecast,Authoritarian
+North Korea,2026-01-01,1.08,forecast,Authoritarian
+North Korea,2027-01-01,1.08,forecast,Authoritarian
+North Korea,2028-01-01,1.08,forecast,Authoritarian
+North Korea,2029-01-01,1.08,forecast,Authoritarian
+North Korea,2030-01-01,1.08,forecast,Authoritarian
+North Macedonia,2010-01-01,6.16,historical,Flawed Democracy
+North Macedonia,2011-01-01,6.16,historical,Flawed Democracy
+North Macedonia,2012-01-01,6.16,historical,Flawed Democracy
+North Macedonia,2013-01-01,6.16,historical,Flawed Democracy
+North Macedonia,2014-01-01,6.25,historical,Flawed Democracy
+North Macedonia,2015-01-01,6.02,historical,Flawed Democracy
+North Macedonia,2016-01-01,5.23,historical,Hybrid Regime
+North Macedonia,2017-01-01,5.57,historical,Hybrid Regime
+North Macedonia,2018-01-01,5.87,historical,Hybrid Regime
+North Macedonia,2019-01-01,5.97,historical,Hybrid Regime
+North Macedonia,2020-01-01,5.89,historical,Hybrid Regime
+North Macedonia,2021-01-01,6.03,historical,Flawed Democracy
+North Macedonia,2022-01-01,6.1,historical,Flawed Democracy
+North Macedonia,2023-01-01,6.03,historical,Flawed Democracy
+North Macedonia,2024-01-01,6.28,historical,Flawed Democracy
+North Macedonia,2025-01-01,6.357591367896623,forecast,Flawed Democracy
+North Macedonia,2026-01-01,6.428926993775923,forecast,Flawed Democracy
+North Macedonia,2027-01-01,6.5002626196552225,forecast,Flawed Democracy
+North Macedonia,2028-01-01,6.571793685605425,forecast,Flawed Democracy
+North Macedonia,2029-01-01,6.643129311484725,forecast,Flawed Democracy
+North Macedonia,2030-01-01,6.714464937364025,forecast,Flawed Democracy
+Norway,2010-01-01,9.8,historical,Full Democracy
+Norway,2011-01-01,9.8,historical,Full Democracy
+Norway,2012-01-01,9.93,historical,Full Democracy
+Norway,2013-01-01,9.93,historical,Full Democracy
+Norway,2014-01-01,9.93,historical,Full Democracy
+Norway,2015-01-01,9.93,historical,Full Democracy
+Norway,2016-01-01,9.93,historical,Full Democracy
+Norway,2017-01-01,9.87,historical,Full Democracy
+Norway,2018-01-01,9.87,historical,Full Democracy
+Norway,2019-01-01,9.87,historical,Full Democracy
+Norway,2020-01-01,9.81,historical,Full Democracy
+Norway,2021-01-01,9.75,historical,Full Democracy
+Norway,2022-01-01,9.81,historical,Full Democracy
+Norway,2023-01-01,9.81,historical,Full Democracy
+Norway,2024-01-01,9.81,historical,Full Democracy
+Norway,2025-01-01,9.857898388791282,forecast,Full Democracy
+Norway,2026-01-01,9.875869362112436,forecast,Full Democracy
+Norway,2027-01-01,9.89384033543359,forecast,Full Democracy
+Norway,2028-01-01,9.911860544298086,forecast,Full Democracy
+Norway,2029-01-01,9.92983151761924,forecast,Full Democracy
+Norway,2030-01-01,9.947802490940393,forecast,Full Democracy
+Oman,2010-01-01,2.86,historical,Authoritarian
+Oman,2011-01-01,3.26,historical,Authoritarian
+Oman,2012-01-01,3.26,historical,Authoritarian
+Oman,2013-01-01,3.26,historical,Authoritarian
+Oman,2014-01-01,3.15,historical,Authoritarian
+Oman,2015-01-01,3.04,historical,Authoritarian
+Oman,2016-01-01,3.04,historical,Authoritarian
+Oman,2017-01-01,3.04,historical,Authoritarian
+Oman,2018-01-01,3.04,historical,Authoritarian
+Oman,2019-01-01,3.06,historical,Authoritarian
+Oman,2020-01-01,3.0,historical,Authoritarian
+Oman,2021-01-01,3.0,historical,Authoritarian
+Oman,2022-01-01,3.12,historical,Authoritarian
+Oman,2023-01-01,3.12,historical,Authoritarian
+Oman,2024-01-01,3.05,historical,Authoritarian
+Oman,2025-01-01,3.134161676365389,forecast,Authoritarian
+Oman,2026-01-01,3.1523478640144726,forecast,Authoritarian
+Oman,2027-01-01,3.170534051663557,forecast,Authoritarian
+Oman,2028-01-01,3.1887700644842827,forecast,Authoritarian
+Oman,2029-01-01,3.206956252133367,forecast,Authoritarian
+Oman,2030-01-01,3.2251424397824513,forecast,Authoritarian
+Pakistan,2010-01-01,4.55,historical,Hybrid Regime
+Pakistan,2011-01-01,4.55,historical,Hybrid Regime
+Pakistan,2012-01-01,4.57,historical,Hybrid Regime
+Pakistan,2013-01-01,4.64,historical,Hybrid Regime
+Pakistan,2014-01-01,4.64,historical,Hybrid Regime
+Pakistan,2015-01-01,4.4,historical,Hybrid Regime
+Pakistan,2016-01-01,4.33,historical,Hybrid Regime
+Pakistan,2017-01-01,4.26,historical,Hybrid Regime
+Pakistan,2018-01-01,4.17,historical,Hybrid Regime
+Pakistan,2019-01-01,4.25,historical,Hybrid Regime
+Pakistan,2020-01-01,4.31,historical,Hybrid Regime
+Pakistan,2021-01-01,4.31,historical,Hybrid Regime
+Pakistan,2022-01-01,4.13,historical,Hybrid Regime
+Pakistan,2023-01-01,3.25,historical,Authoritarian
+Pakistan,2024-01-01,2.84,historical,Authoritarian
+Pakistan,2025-01-01,1.821603758923329,forecast,Authoritarian
+Pakistan,2026-01-01,1.3062767998340339,forecast,Authoritarian
+Pakistan,2027-01-01,0.7909498407447386,forecast,Authoritarian
+Pakistan,2028-01-01,0.27421102697300476,forecast,Authoritarian
+Pakistan,2029-01-01,0.0,forecast,Authoritarian
+Pakistan,2030-01-01,0.0,forecast,Authoritarian
+Palestine,2010-01-01,5.44,historical,Hybrid Regime
+Palestine,2011-01-01,4.97,historical,Hybrid Regime
+Palestine,2012-01-01,4.8,historical,Hybrid Regime
+Palestine,2013-01-01,4.8,historical,Hybrid Regime
+Palestine,2014-01-01,4.72,historical,Hybrid Regime
+Palestine,2015-01-01,4.57,historical,Hybrid Regime
+Palestine,2016-01-01,4.49,historical,Hybrid Regime
+Palestine,2017-01-01,4.46,historical,Hybrid Regime
+Palestine,2018-01-01,4.39,historical,Hybrid Regime
+Palestine,2019-01-01,3.89,historical,Authoritarian
+Palestine,2020-01-01,3.83,historical,Authoritarian
+Palestine,2021-01-01,3.94,historical,Authoritarian
+Palestine,2022-01-01,3.86,historical,Authoritarian
+Palestine,2023-01-01,3.47,historical,Authoritarian
+Palestine,2024-01-01,3.44,historical,Authoritarian
+Palestine,2025-01-01,3.029849721935833,forecast,Authoritarian
+Palestine,2026-01-01,2.8456663435920038,forecast,Authoritarian
+Palestine,2027-01-01,2.661482965248174,forecast,Authoritarian
+Palestine,2028-01-01,2.476794974908882,forecast,Authoritarian
+Palestine,2029-01-01,2.292611596565053,forecast,Authoritarian
+Palestine,2030-01-01,2.108428218221223,forecast,Authoritarian
+Panama,2010-01-01,7.15,historical,Flawed Democracy
+Panama,2011-01-01,7.08,historical,Flawed Democracy
+Panama,2012-01-01,7.08,historical,Flawed Democracy
+Panama,2013-01-01,7.08,historical,Flawed Democracy
+Panama,2014-01-01,7.08,historical,Flawed Democracy
+Panama,2015-01-01,7.19,historical,Flawed Democracy
+Panama,2016-01-01,7.13,historical,Flawed Democracy
+Panama,2017-01-01,7.08,historical,Flawed Democracy
+Panama,2018-01-01,7.05,historical,Flawed Democracy
+Panama,2019-01-01,7.05,historical,Flawed Democracy
+Panama,2020-01-01,7.18,historical,Flawed Democracy
+Panama,2021-01-01,6.85,historical,Flawed Democracy
+Panama,2022-01-01,6.91,historical,Flawed Democracy
+Panama,2023-01-01,6.91,historical,Flawed Democracy
+Panama,2024-01-01,6.84,historical,Flawed Democracy
+Panama,2025-01-01,6.8651848158284405,forecast,Flawed Democracy
+Panama,2026-01-01,6.861553546310072,forecast,Flawed Democracy
+Panama,2027-01-01,6.857922276791703,forecast,Flawed Democracy
+Panama,2028-01-01,6.854281058589721,forecast,Flawed Democracy
+Panama,2029-01-01,6.850649789071353,forecast,Flawed Democracy
+Panama,2030-01-01,6.847018519552984,forecast,Flawed Democracy
+Papua New Guinea,2010-01-01,6.54,historical,Flawed Democracy
+Papua New Guinea,2011-01-01,6.32,historical,Flawed Democracy
+Papua New Guinea,2012-01-01,6.32,historical,Flawed Democracy
+Papua New Guinea,2013-01-01,6.36,historical,Flawed Democracy
+Papua New Guinea,2014-01-01,6.03,historical,Flawed Democracy
+Papua New Guinea,2015-01-01,6.03,historical,Flawed Democracy
+Papua New Guinea,2016-01-01,6.03,historical,Flawed Democracy
+Papua New Guinea,2017-01-01,6.03,historical,Flawed Democracy
+Papua New Guinea,2018-01-01,6.03,historical,Flawed Democracy
+Papua New Guinea,2019-01-01,6.03,historical,Flawed Democracy
+Papua New Guinea,2020-01-01,6.1,historical,Flawed Democracy
+Papua New Guinea,2021-01-01,6.1,historical,Flawed Democracy
+Papua New Guinea,2022-01-01,5.97,historical,Hybrid Regime
+Papua New Guinea,2023-01-01,6.03,historical,Flawed Democracy
+Papua New Guinea,2024-01-01,5.97,historical,Hybrid Regime
+Papua New Guinea,2025-01-01,5.902868508170943,forecast,Hybrid Regime
+Papua New Guinea,2026-01-01,5.870116662355024,forecast,Hybrid Regime
+Papua New Guinea,2027-01-01,5.837364816539104,forecast,Hybrid Regime
+Papua New Guinea,2028-01-01,5.8045232396387565,forecast,Hybrid Regime
+Papua New Guinea,2029-01-01,5.771771393822837,forecast,Hybrid Regime
+Papua New Guinea,2030-01-01,5.739019548006916,forecast,Hybrid Regime
+Paraguay,2010-01-01,6.4,historical,Flawed Democracy
+Paraguay,2011-01-01,6.4,historical,Flawed Democracy
+Paraguay,2012-01-01,6.26,historical,Flawed Democracy
+Paraguay,2013-01-01,6.26,historical,Flawed Democracy
+Paraguay,2014-01-01,6.26,historical,Flawed Democracy
+Paraguay,2015-01-01,6.33,historical,Flawed Democracy
+Paraguay,2016-01-01,6.27,historical,Flawed Democracy
+Paraguay,2017-01-01,6.31,historical,Flawed Democracy
+Paraguay,2018-01-01,6.24,historical,Flawed Democracy
+Paraguay,2019-01-01,6.24,historical,Flawed Democracy
+Paraguay,2020-01-01,6.18,historical,Flawed Democracy
+Paraguay,2021-01-01,5.86,historical,Hybrid Regime
+Paraguay,2022-01-01,5.89,historical,Hybrid Regime
+Paraguay,2023-01-01,6.0,historical,Hybrid Regime
+Paraguay,2024-01-01,5.92,historical,Hybrid Regime
+Paraguay,2025-01-01,6.015716262219755,forecast,Flawed Democracy
+Paraguay,2026-01-01,6.0435743437531,forecast,Flawed Democracy
+Paraguay,2027-01-01,6.071432425286447,forecast,Flawed Democracy
+Paraguay,2028-01-01,6.099366830330844,forecast,Flawed Democracy
+Paraguay,2029-01-01,6.1272249118641895,forecast,Flawed Democracy
+Paraguay,2030-01-01,6.155082993397536,forecast,Flawed Democracy
+Peru,2010-01-01,6.4,historical,Flawed Democracy
+Peru,2011-01-01,6.59,historical,Flawed Democracy
+Peru,2012-01-01,6.47,historical,Flawed Democracy
+Peru,2013-01-01,6.54,historical,Flawed Democracy
+Peru,2014-01-01,6.54,historical,Flawed Democracy
+Peru,2015-01-01,6.58,historical,Flawed Democracy
+Peru,2016-01-01,6.65,historical,Flawed Democracy
+Peru,2017-01-01,6.49,historical,Flawed Democracy
+Peru,2018-01-01,6.6,historical,Flawed Democracy
+Peru,2019-01-01,6.6,historical,Flawed Democracy
+Peru,2020-01-01,6.53,historical,Flawed Democracy
+Peru,2021-01-01,6.09,historical,Flawed Democracy
+Peru,2022-01-01,5.92,historical,Hybrid Regime
+Peru,2023-01-01,5.81,historical,Hybrid Regime
+Peru,2024-01-01,5.69,historical,Hybrid Regime
+Peru,2025-01-01,5.41859802120493,forecast,Hybrid Regime
+Peru,2026-01-01,5.287458230647234,forecast,Hybrid Regime
+Peru,2027-01-01,5.156318440089537,forecast,Hybrid Regime
+Peru,2028-01-01,5.024819362434422,forecast,Hybrid Regime
+Peru,2029-01-01,4.893679571876727,forecast,Hybrid Regime
+Peru,2030-01-01,4.76253978131903,forecast,Hybrid Regime
+Philippines,2010-01-01,6.12,historical,Flawed Democracy
+Philippines,2011-01-01,6.12,historical,Flawed Democracy
+Philippines,2012-01-01,6.3,historical,Flawed Democracy
+Philippines,2013-01-01,6.41,historical,Flawed Democracy
+Philippines,2014-01-01,6.77,historical,Flawed Democracy
+Philippines,2015-01-01,6.84,historical,Flawed Democracy
+Philippines,2016-01-01,6.94,historical,Flawed Democracy
+Philippines,2017-01-01,6.71,historical,Flawed Democracy
+Philippines,2018-01-01,6.71,historical,Flawed Democracy
+Philippines,2019-01-01,6.64,historical,Flawed Democracy
+Philippines,2020-01-01,6.56,historical,Flawed Democracy
+Philippines,2021-01-01,6.62,historical,Flawed Democracy
+Philippines,2022-01-01,6.73,historical,Flawed Democracy
+Philippines,2023-01-01,6.66,historical,Flawed Democracy
+Philippines,2024-01-01,6.63,historical,Flawed Democracy
+Philippines,2025-01-01,6.649355558278501,forecast,Flawed Democracy
+Philippines,2026-01-01,6.646522502824879,forecast,Flawed Democracy
+Philippines,2027-01-01,6.643689447371257,forecast,Flawed Democracy
+Philippines,2028-01-01,6.640848630121871,forecast,Flawed Democracy
+Philippines,2029-01-01,6.638015574668248,forecast,Flawed Democracy
+Philippines,2030-01-01,6.635182519214626,forecast,Flawed Democracy
+Poland,2010-01-01,7.05,historical,Flawed Democracy
+Poland,2011-01-01,7.12,historical,Flawed Democracy
+Poland,2012-01-01,7.12,historical,Flawed Democracy
+Poland,2013-01-01,7.12,historical,Flawed Democracy
+Poland,2014-01-01,7.47,historical,Flawed Democracy
+Poland,2015-01-01,7.09,historical,Flawed Democracy
+Poland,2016-01-01,6.83,historical,Flawed Democracy
+Poland,2017-01-01,6.67,historical,Flawed Democracy
+Poland,2018-01-01,6.67,historical,Flawed Democracy
+Poland,2019-01-01,6.62,historical,Flawed Democracy
+Poland,2020-01-01,6.85,historical,Flawed Democracy
+Poland,2021-01-01,6.8,historical,Flawed Democracy
+Poland,2022-01-01,7.04,historical,Flawed Democracy
+Poland,2023-01-01,7.18,historical,Flawed Democracy
+Poland,2024-01-01,7.4,historical,Flawed Democracy
+Poland,2025-01-01,7.783291712285586,forecast,Flawed Democracy
+Poland,2026-01-01,7.977045399117043,forecast,Flawed Democracy
+Poland,2027-01-01,8.1707990859485,forecast,Full Democracy
+Poland,2028-01-01,8.365083604798674,forecast,Full Democracy
+Poland,2029-01-01,8.55883729163013,forecast,Full Democracy
+Poland,2030-01-01,8.752590978461589,forecast,Full Democracy
+Portugal,2010-01-01,8.02,historical,Full Democracy
+Portugal,2011-01-01,7.81,historical,Flawed Democracy
+Portugal,2012-01-01,7.92,historical,Flawed Democracy
+Portugal,2013-01-01,7.65,historical,Flawed Democracy
+Portugal,2014-01-01,7.79,historical,Flawed Democracy
+Portugal,2015-01-01,7.79,historical,Flawed Democracy
+Portugal,2016-01-01,7.86,historical,Flawed Democracy
+Portugal,2017-01-01,7.84,historical,Flawed Democracy
+Portugal,2018-01-01,7.84,historical,Flawed Democracy
+Portugal,2019-01-01,8.03,historical,Full Democracy
+Portugal,2020-01-01,7.9,historical,Flawed Democracy
+Portugal,2021-01-01,7.82,historical,Flawed Democracy
+Portugal,2022-01-01,7.95,historical,Flawed Democracy
+Portugal,2023-01-01,7.75,historical,Flawed Democracy
+Portugal,2024-01-01,8.08,historical,Full Democracy
+Portugal,2025-01-01,8.093504357539418,forecast,Full Democracy
+Portugal,2026-01-01,8.148489883117822,forecast,Full Democracy
+Portugal,2027-01-01,8.20347540869623,forecast,Full Democracy
+Portugal,2028-01-01,8.258611579550193,forecast,Full Democracy
+Portugal,2029-01-01,8.3135971051286,forecast,Full Democracy
+Portugal,2030-01-01,8.368582630707005,forecast,Full Democracy
+Qatar,2010-01-01,3.09,historical,Authoritarian
+Qatar,2011-01-01,3.18,historical,Authoritarian
+Qatar,2012-01-01,3.18,historical,Authoritarian
+Qatar,2013-01-01,3.18,historical,Authoritarian
+Qatar,2014-01-01,3.18,historical,Authoritarian
+Qatar,2015-01-01,3.18,historical,Authoritarian
+Qatar,2016-01-01,3.18,historical,Authoritarian
+Qatar,2017-01-01,3.19,historical,Authoritarian
+Qatar,2018-01-01,3.19,historical,Authoritarian
+Qatar,2019-01-01,3.19,historical,Authoritarian
+Qatar,2020-01-01,3.24,historical,Authoritarian
+Qatar,2021-01-01,3.65,historical,Authoritarian
+Qatar,2022-01-01,3.65,historical,Authoritarian
+Qatar,2023-01-01,3.65,historical,Authoritarian
+Qatar,2024-01-01,3.17,historical,Authoritarian
+Qatar,2025-01-01,3.0909382368732516,forecast,Authoritarian
+Qatar,2026-01-01,2.9695126144615864,forecast,Authoritarian
+Qatar,2027-01-01,2.8480869920499203,forecast,Authoritarian
+Qatar,2028-01-01,2.7263286967001408,forecast,Authoritarian
+Qatar,2029-01-01,2.604903074288475,forecast,Authoritarian
+Qatar,2030-01-01,2.4834774518768095,forecast,Authoritarian
+Romania,2010-01-01,6.6,historical,Flawed Democracy
+Romania,2011-01-01,6.54,historical,Flawed Democracy
+Romania,2012-01-01,6.54,historical,Flawed Democracy
+Romania,2013-01-01,6.54,historical,Flawed Democracy
+Romania,2014-01-01,6.68,historical,Flawed Democracy
+Romania,2015-01-01,6.68,historical,Flawed Democracy
+Romania,2016-01-01,6.62,historical,Flawed Democracy
+Romania,2017-01-01,6.44,historical,Flawed Democracy
+Romania,2018-01-01,6.38,historical,Flawed Democracy
+Romania,2019-01-01,6.49,historical,Flawed Democracy
+Romania,2020-01-01,6.4,historical,Flawed Democracy
+Romania,2021-01-01,6.43,historical,Flawed Democracy
+Romania,2022-01-01,6.45,historical,Flawed Democracy
+Romania,2023-01-01,6.45,historical,Flawed Democracy
+Romania,2024-01-01,5.99,historical,Hybrid Regime
+Romania,2025-01-01,5.9048919937741875,forecast,Hybrid Regime
+Romania,2026-01-01,5.7857221012798155,forecast,Hybrid Regime
+Romania,2027-01-01,5.6665522087854425,forecast,Hybrid Regime
+Romania,2028-01-01,5.5470558234349205,forecast,Hybrid Regime
+Romania,2029-01-01,5.427885930940548,forecast,Hybrid Regime
+Romania,2030-01-01,5.308716038446176,forecast,Hybrid Regime
+Russia,2010-01-01,4.26,historical,Hybrid Regime
+Russia,2011-01-01,3.92,historical,Authoritarian
+Russia,2012-01-01,3.74,historical,Authoritarian
+Russia,2013-01-01,3.59,historical,Authoritarian
+Russia,2014-01-01,3.39,historical,Authoritarian
+Russia,2015-01-01,3.31,historical,Authoritarian
+Russia,2016-01-01,3.24,historical,Authoritarian
+Russia,2017-01-01,3.17,historical,Authoritarian
+Russia,2018-01-01,2.94,historical,Authoritarian
+Russia,2019-01-01,3.11,historical,Authoritarian
+Russia,2020-01-01,3.31,historical,Authoritarian
+Russia,2021-01-01,3.24,historical,Authoritarian
+Russia,2022-01-01,2.28,historical,Authoritarian
+Russia,2023-01-01,2.22,historical,Authoritarian
+Russia,2024-01-01,2.03,historical,Authoritarian
+Russia,2025-01-01,1.2011397521909521,forecast,Authoritarian
+Russia,2026-01-01,0.8464654077598727,forecast,Authoritarian
+Russia,2027-01-01,0.49179106332879324,forecast,Authoritarian
+Russia,2028-01-01,0.1361450083650248,forecast,Authoritarian
+Russia,2029-01-01,0.0,forecast,Authoritarian
+Russia,2030-01-01,0.0,forecast,Authoritarian
+Rwanda,2010-01-01,3.25,historical,Authoritarian
+Rwanda,2011-01-01,3.25,historical,Authoritarian
+Rwanda,2012-01-01,3.36,historical,Authoritarian
+Rwanda,2013-01-01,3.38,historical,Authoritarian
+Rwanda,2014-01-01,3.25,historical,Authoritarian
+Rwanda,2015-01-01,3.07,historical,Authoritarian
+Rwanda,2016-01-01,3.07,historical,Authoritarian
+Rwanda,2017-01-01,3.19,historical,Authoritarian
+Rwanda,2018-01-01,3.35,historical,Authoritarian
+Rwanda,2019-01-01,3.16,historical,Authoritarian
+Rwanda,2020-01-01,3.1,historical,Authoritarian
+Rwanda,2021-01-01,3.1,historical,Authoritarian
+Rwanda,2022-01-01,3.1,historical,Authoritarian
+Rwanda,2023-01-01,3.3,historical,Authoritarian
+Rwanda,2024-01-01,3.34,historical,Authoritarian
+Rwanda,2025-01-01,3.529994083661572,forecast,Authoritarian
+Rwanda,2026-01-01,3.621420952189149,forecast,Authoritarian
+Rwanda,2027-01-01,3.7128478207167257,forecast,Authoritarian
+Rwanda,2028-01-01,3.804525173815611,forecast,Authoritarian
+Rwanda,2029-01-01,3.8959520423431875,forecast,Authoritarian
+Rwanda,2030-01-01,3.987378910870765,forecast,Authoritarian
+Saudi Arabia,2010-01-01,1.84,historical,Authoritarian
+Saudi Arabia,2011-01-01,1.77,historical,Authoritarian
+Saudi Arabia,2012-01-01,1.71,historical,Authoritarian
+Saudi Arabia,2013-01-01,1.82,historical,Authoritarian
+Saudi Arabia,2014-01-01,1.82,historical,Authoritarian
+Saudi Arabia,2015-01-01,1.93,historical,Authoritarian
+Saudi Arabia,2016-01-01,1.93,historical,Authoritarian
+Saudi Arabia,2017-01-01,1.93,historical,Authoritarian
+Saudi Arabia,2018-01-01,1.93,historical,Authoritarian
+Saudi Arabia,2019-01-01,1.93,historical,Authoritarian
+Saudi Arabia,2020-01-01,2.08,historical,Authoritarian
+Saudi Arabia,2021-01-01,2.08,historical,Authoritarian
+Saudi Arabia,2022-01-01,2.08,historical,Authoritarian
+Saudi Arabia,2023-01-01,2.08,historical,Authoritarian
+Saudi Arabia,2024-01-01,2.08,historical,Authoritarian
+Saudi Arabia,2025-01-01,2.0799999227003148,forecast,Authoritarian
+Saudi Arabia,2026-01-01,2.0799999179488182,forecast,Authoritarian
+Saudi Arabia,2027-01-01,2.0799999131973217,forecast,Authoritarian
+Saudi Arabia,2028-01-01,2.0799999084328076,forecast,Authoritarian
+Saudi Arabia,2029-01-01,2.0799999036813115,forecast,Authoritarian
+Saudi Arabia,2030-01-01,2.079999898929815,forecast,Authoritarian
+Senegal,2010-01-01,5.27,historical,Hybrid Regime
+Senegal,2011-01-01,5.51,historical,Hybrid Regime
+Senegal,2012-01-01,6.09,historical,Flawed Democracy
+Senegal,2013-01-01,6.15,historical,Flawed Democracy
+Senegal,2014-01-01,6.15,historical,Flawed Democracy
+Senegal,2015-01-01,6.08,historical,Flawed Democracy
+Senegal,2016-01-01,6.21,historical,Flawed Democracy
+Senegal,2017-01-01,6.15,historical,Flawed Democracy
+Senegal,2018-01-01,6.15,historical,Flawed Democracy
+Senegal,2019-01-01,5.81,historical,Hybrid Regime
+Senegal,2020-01-01,5.67,historical,Hybrid Regime
+Senegal,2021-01-01,5.53,historical,Hybrid Regime
+Senegal,2022-01-01,5.72,historical,Hybrid Regime
+Senegal,2023-01-01,5.48,historical,Hybrid Regime
+Senegal,2024-01-01,5.93,historical,Hybrid Regime
+Senegal,2025-01-01,5.986677236087026,forecast,Hybrid Regime
+Senegal,2026-01-01,6.078585035297404,forecast,Flawed Democracy
+Senegal,2027-01-01,6.170492834507781,forecast,Flawed Democracy
+Senegal,2028-01-01,6.262652435907778,forecast,Flawed Democracy
+Senegal,2029-01-01,6.354560235118155,forecast,Flawed Democracy
+Senegal,2030-01-01,6.446468034328534,forecast,Flawed Democracy
+Serbia,2010-01-01,6.33,historical,Flawed Democracy
+Serbia,2011-01-01,6.33,historical,Flawed Democracy
+Serbia,2012-01-01,6.33,historical,Flawed Democracy
+Serbia,2013-01-01,6.67,historical,Flawed Democracy
+Serbia,2014-01-01,6.71,historical,Flawed Democracy
+Serbia,2015-01-01,6.71,historical,Flawed Democracy
+Serbia,2016-01-01,6.57,historical,Flawed Democracy
+Serbia,2017-01-01,6.41,historical,Flawed Democracy
+Serbia,2018-01-01,6.41,historical,Flawed Democracy
+Serbia,2019-01-01,6.41,historical,Flawed Democracy
+Serbia,2020-01-01,6.22,historical,Flawed Democracy
+Serbia,2021-01-01,6.36,historical,Flawed Democracy
+Serbia,2022-01-01,6.33,historical,Flawed Democracy
+Serbia,2023-01-01,6.33,historical,Flawed Democracy
+Serbia,2024-01-01,6.26,historical,Flawed Democracy
+Serbia,2025-01-01,6.21541158824572,forecast,Flawed Democracy
+Serbia,2026-01-01,6.185554723255533,forecast,Flawed Democracy
+Serbia,2027-01-01,6.155697858265344,forecast,Flawed Democracy
+Serbia,2028-01-01,6.125759193645047,forecast,Flawed Democracy
+Serbia,2029-01-01,6.0959023286548595,forecast,Flawed Democracy
+Serbia,2030-01-01,6.066045463664672,forecast,Flawed Democracy
+Sierra Leone,2010-01-01,4.51,historical,Hybrid Regime
+Sierra Leone,2011-01-01,4.51,historical,Hybrid Regime
+Sierra Leone,2012-01-01,4.71,historical,Hybrid Regime
+Sierra Leone,2013-01-01,4.64,historical,Hybrid Regime
+Sierra Leone,2014-01-01,4.56,historical,Hybrid Regime
+Sierra Leone,2015-01-01,4.55,historical,Hybrid Regime
+Sierra Leone,2016-01-01,4.55,historical,Hybrid Regime
+Sierra Leone,2017-01-01,4.66,historical,Hybrid Regime
+Sierra Leone,2018-01-01,4.66,historical,Hybrid Regime
+Sierra Leone,2019-01-01,4.86,historical,Hybrid Regime
+Sierra Leone,2020-01-01,4.86,historical,Hybrid Regime
+Sierra Leone,2021-01-01,4.97,historical,Hybrid Regime
+Sierra Leone,2022-01-01,5.03,historical,Hybrid Regime
+Sierra Leone,2023-01-01,4.32,historical,Hybrid Regime
+Sierra Leone,2024-01-01,4.32,historical,Hybrid Regime
+Sierra Leone,2025-01-01,3.7883423342571056,forecast,Authoritarian
+Sierra Leone,2026-01-01,3.5424153094367217,forecast,Authoritarian
+Sierra Leone,2027-01-01,3.296488284616336,forecast,Authoritarian
+Sierra Leone,2028-01-01,3.04988748712521,forecast,Authoritarian
+Sierra Leone,2029-01-01,2.8039604623048255,forecast,Authoritarian
+Sierra Leone,2030-01-01,2.55803343748444,forecast,Authoritarian
+Singapore,2010-01-01,5.89,historical,Hybrid Regime
+Singapore,2011-01-01,5.89,historical,Hybrid Regime
+Singapore,2012-01-01,5.88,historical,Hybrid Regime
+Singapore,2013-01-01,5.92,historical,Hybrid Regime
+Singapore,2014-01-01,6.03,historical,Flawed Democracy
+Singapore,2015-01-01,6.14,historical,Flawed Democracy
+Singapore,2016-01-01,6.38,historical,Flawed Democracy
+Singapore,2017-01-01,6.32,historical,Flawed Democracy
+Singapore,2018-01-01,6.38,historical,Flawed Democracy
+Singapore,2019-01-01,6.02,historical,Flawed Democracy
+Singapore,2020-01-01,6.03,historical,Flawed Democracy
+Singapore,2021-01-01,6.23,historical,Flawed Democracy
+Singapore,2022-01-01,6.22,historical,Flawed Democracy
+Singapore,2023-01-01,6.18,historical,Flawed Democracy
+Singapore,2024-01-01,6.18,historical,Flawed Democracy
+Singapore,2025-01-01,6.1361296211820635,forecast,Flawed Democracy
+Singapore,2026-01-01,6.117174703162959,forecast,Flawed Democracy
+Singapore,2027-01-01,6.098219785143854,forecast,Flawed Democracy
+Singapore,2028-01-01,6.079212935842506,forecast,Flawed Democracy
+Singapore,2029-01-01,6.060258017823401,forecast,Flawed Democracy
+Singapore,2030-01-01,6.041303099804296,forecast,Flawed Democracy
+Slovakia,2010-01-01,7.35,historical,Flawed Democracy
+Slovakia,2011-01-01,7.35,historical,Flawed Democracy
+Slovakia,2012-01-01,7.35,historical,Flawed Democracy
+Slovakia,2013-01-01,7.35,historical,Flawed Democracy
+Slovakia,2014-01-01,7.35,historical,Flawed Democracy
+Slovakia,2015-01-01,7.29,historical,Flawed Democracy
+Slovakia,2016-01-01,7.29,historical,Flawed Democracy
+Slovakia,2017-01-01,7.16,historical,Flawed Democracy
+Slovakia,2018-01-01,7.1,historical,Flawed Democracy
+Slovakia,2019-01-01,7.17,historical,Flawed Democracy
+Slovakia,2020-01-01,6.97,historical,Flawed Democracy
+Slovakia,2021-01-01,7.03,historical,Flawed Democracy
+Slovakia,2022-01-01,7.07,historical,Flawed Democracy
+Slovakia,2023-01-01,7.07,historical,Flawed Democracy
+Slovakia,2024-01-01,7.21,historical,Flawed Democracy
+Slovakia,2025-01-01,7.283472061886247,forecast,Flawed Democracy
+Slovakia,2026-01-01,7.337321168295729,forecast,Flawed Democracy
+Slovakia,2027-01-01,7.39117027470521,forecast,Flawed Democracy
+Slovakia,2028-01-01,7.445166912913075,forecast,Flawed Democracy
+Slovakia,2029-01-01,7.499016019322556,forecast,Flawed Democracy
+Slovakia,2030-01-01,7.552865125732038,forecast,Flawed Democracy
+Slovenia,2010-01-01,7.69,historical,Flawed Democracy
+Slovenia,2011-01-01,7.76,historical,Flawed Democracy
+Slovenia,2012-01-01,7.88,historical,Flawed Democracy
+Slovenia,2013-01-01,7.88,historical,Flawed Democracy
+Slovenia,2014-01-01,7.57,historical,Flawed Democracy
+Slovenia,2015-01-01,7.57,historical,Flawed Democracy
+Slovenia,2016-01-01,7.51,historical,Flawed Democracy
+Slovenia,2017-01-01,7.5,historical,Flawed Democracy
+Slovenia,2018-01-01,7.5,historical,Flawed Democracy
+Slovenia,2019-01-01,7.5,historical,Flawed Democracy
+Slovenia,2020-01-01,7.54,historical,Flawed Democracy
+Slovenia,2021-01-01,7.54,historical,Flawed Democracy
+Slovenia,2022-01-01,7.75,historical,Flawed Democracy
+Slovenia,2023-01-01,7.75,historical,Flawed Democracy
+Slovenia,2024-01-01,7.82,historical,Flawed Democracy
+Slovenia,2025-01-01,8.007939902562539,forecast,Flawed Democracy
+Slovenia,2026-01-01,8.09163702688378,forecast,Full Democracy
+Slovenia,2027-01-01,8.175334151205018,forecast,Full Democracy
+Slovenia,2028-01-01,8.259260582716179,forecast,Full Democracy
+Slovenia,2029-01-01,8.342957707037419,forecast,Full Democracy
+Slovenia,2030-01-01,8.426654831358658,forecast,Full Democracy
+South Africa,2010-01-01,7.79,historical,Flawed Democracy
+South Africa,2011-01-01,7.79,historical,Flawed Democracy
+South Africa,2012-01-01,7.79,historical,Flawed Democracy
+South Africa,2013-01-01,7.9,historical,Flawed Democracy
+South Africa,2014-01-01,7.82,historical,Flawed Democracy
+South Africa,2015-01-01,7.56,historical,Flawed Democracy
+South Africa,2016-01-01,7.41,historical,Flawed Democracy
+South Africa,2017-01-01,7.24,historical,Flawed Democracy
+South Africa,2018-01-01,7.24,historical,Flawed Democracy
+South Africa,2019-01-01,7.24,historical,Flawed Democracy
+South Africa,2020-01-01,7.05,historical,Flawed Democracy
+South Africa,2021-01-01,7.05,historical,Flawed Democracy
+South Africa,2022-01-01,7.05,historical,Flawed Democracy
+South Africa,2023-01-01,7.05,historical,Flawed Democracy
+South Africa,2024-01-01,7.16,historical,Flawed Democracy
+South Africa,2025-01-01,7.192568552568579,forecast,Flawed Democracy
+South Africa,2026-01-01,7.225445283602665,forecast,Flawed Democracy
+South Africa,2027-01-01,7.25832201463675,forecast,Flawed Democracy
+South Africa,2028-01-01,7.291288818906547,forecast,Flawed Democracy
+South Africa,2029-01-01,7.324165549940632,forecast,Flawed Democracy
+South Africa,2030-01-01,7.357042280974718,forecast,Flawed Democracy
+South Korea,2010-01-01,8.11,historical,Full Democracy
+South Korea,2011-01-01,8.06,historical,Full Democracy
+South Korea,2012-01-01,8.13,historical,Full Democracy
+South Korea,2013-01-01,8.06,historical,Full Democracy
+South Korea,2014-01-01,8.06,historical,Full Democracy
+South Korea,2015-01-01,7.97,historical,Flawed Democracy
+South Korea,2016-01-01,7.92,historical,Flawed Democracy
+South Korea,2017-01-01,8.0,historical,Flawed Democracy
+South Korea,2018-01-01,8.0,historical,Flawed Democracy
+South Korea,2019-01-01,8.0,historical,Flawed Democracy
+South Korea,2020-01-01,8.01,historical,Full Democracy
+South Korea,2021-01-01,8.16,historical,Full Democracy
+South Korea,2022-01-01,8.03,historical,Full Democracy
+South Korea,2023-01-01,8.09,historical,Full Democracy
+South Korea,2024-01-01,7.75,historical,Flawed Democracy
+South Korea,2025-01-01,7.60934483912447,forecast,Flawed Democracy
+South Korea,2026-01-01,7.4962904448144085,forecast,Flawed Democracy
+South Korea,2027-01-01,7.383236050504347,forecast,Flawed Democracy
+South Korea,2028-01-01,7.269871918127682,forecast,Flawed Democracy
+South Korea,2029-01-01,7.15681752381762,forecast,Flawed Democracy
+South Korea,2030-01-01,7.043763129507558,forecast,Flawed Democracy
+Spain,2010-01-01,8.16,historical,Full Democracy
+Spain,2011-01-01,8.02,historical,Full Democracy
+Spain,2012-01-01,8.02,historical,Full Democracy
+Spain,2013-01-01,8.02,historical,Full Democracy
+Spain,2014-01-01,8.05,historical,Full Democracy
+Spain,2015-01-01,8.3,historical,Full Democracy
+Spain,2016-01-01,8.3,historical,Full Democracy
+Spain,2017-01-01,8.08,historical,Full Democracy
+Spain,2018-01-01,8.08,historical,Full Democracy
+Spain,2019-01-01,8.29,historical,Full Democracy
+Spain,2020-01-01,8.12,historical,Full Democracy
+Spain,2021-01-01,7.94,historical,Flawed Democracy
+Spain,2022-01-01,8.07,historical,Full Democracy
+Spain,2023-01-01,8.07,historical,Full Democracy
+Spain,2024-01-01,8.13,historical,Full Democracy
+Spain,2025-01-01,8.251656783886306,forecast,Full Democracy
+Spain,2026-01-01,8.30855862960244,forecast,Full Democracy
+Spain,2027-01-01,8.36546047531857,forecast,Full Democracy
+Spain,2028-01-01,8.42251821650242,forecast,Full Democracy
+Spain,2029-01-01,8.47942006221855,forecast,Full Democracy
+Spain,2030-01-01,8.536321907934683,forecast,Full Democracy
+Sri Lanka,2010-01-01,6.64,historical,Flawed Democracy
+Sri Lanka,2011-01-01,6.58,historical,Flawed Democracy
+Sri Lanka,2012-01-01,5.75,historical,Hybrid Regime
+Sri Lanka,2013-01-01,5.69,historical,Hybrid Regime
+Sri Lanka,2014-01-01,5.69,historical,Hybrid Regime
+Sri Lanka,2015-01-01,6.42,historical,Flawed Democracy
+Sri Lanka,2016-01-01,6.48,historical,Flawed Democracy
+Sri Lanka,2017-01-01,6.48,historical,Flawed Democracy
+Sri Lanka,2018-01-01,6.19,historical,Flawed Democracy
+Sri Lanka,2019-01-01,6.27,historical,Flawed Democracy
+Sri Lanka,2020-01-01,6.14,historical,Flawed Democracy
+Sri Lanka,2021-01-01,6.14,historical,Flawed Democracy
+Sri Lanka,2022-01-01,6.47,historical,Flawed Democracy
+Sri Lanka,2023-01-01,6.17,historical,Flawed Democracy
+Sri Lanka,2024-01-01,6.19,historical,Flawed Democracy
+Sri Lanka,2025-01-01,6.230336221911602,forecast,Flawed Democracy
+Sri Lanka,2026-01-01,6.229362169795089,forecast,Flawed Democracy
+Sri Lanka,2027-01-01,6.228388117678576,forecast,Flawed Democracy
+Sri Lanka,2028-01-01,6.2274113969261276,forecast,Flawed Democracy
+Sri Lanka,2029-01-01,6.226437344809614,forecast,Flawed Democracy
+Sri Lanka,2030-01-01,6.225463292693101,forecast,Flawed Democracy
+Sudan,2010-01-01,2.42,historical,Authoritarian
+Sudan,2011-01-01,2.38,historical,Authoritarian
+Sudan,2012-01-01,2.38,historical,Authoritarian
+Sudan,2013-01-01,2.54,historical,Authoritarian
+Sudan,2014-01-01,2.54,historical,Authoritarian
+Sudan,2015-01-01,2.37,historical,Authoritarian
+Sudan,2016-01-01,2.37,historical,Authoritarian
+Sudan,2017-01-01,2.15,historical,Authoritarian
+Sudan,2018-01-01,2.15,historical,Authoritarian
+Sudan,2019-01-01,2.7,historical,Authoritarian
+Sudan,2020-01-01,2.54,historical,Authoritarian
+Sudan,2021-01-01,2.47,historical,Authoritarian
+Sudan,2022-01-01,2.47,historical,Authoritarian
+Sudan,2023-01-01,1.76,historical,Authoritarian
+Sudan,2024-01-01,1.46,historical,Authoritarian
+Sudan,2025-01-01,0.7942209125876252,forecast,Authoritarian
+Sudan,2026-01-01,0.43859344689034196,forecast,Authoritarian
+Sudan,2027-01-01,0.08296598119305756,forecast,Authoritarian
+Sudan,2028-01-01,0.0,forecast,Authoritarian
+Sudan,2029-01-01,0.0,forecast,Authoritarian
+Sudan,2030-01-01,0.0,forecast,Authoritarian
+Suriname,2010-01-01,6.65,historical,Flawed Democracy
+Suriname,2011-01-01,6.65,historical,Flawed Democracy
+Suriname,2012-01-01,6.65,historical,Flawed Democracy
+Suriname,2013-01-01,6.77,historical,Flawed Democracy
+Suriname,2014-01-01,6.77,historical,Flawed Democracy
+Suriname,2015-01-01,6.77,historical,Flawed Democracy
+Suriname,2016-01-01,6.77,historical,Flawed Democracy
+Suriname,2017-01-01,6.76,historical,Flawed Democracy
+Suriname,2018-01-01,6.98,historical,Flawed Democracy
+Suriname,2019-01-01,6.98,historical,Flawed Democracy
+Suriname,2020-01-01,6.82,historical,Flawed Democracy
+Suriname,2021-01-01,6.82,historical,Flawed Democracy
+Suriname,2022-01-01,6.95,historical,Flawed Democracy
+Suriname,2023-01-01,6.88,historical,Flawed Democracy
+Suriname,2024-01-01,6.79,historical,Flawed Democracy
+Suriname,2025-01-01,6.810170898153868,forecast,Flawed Democracy
+Suriname,2026-01-01,6.796316992444687,forecast,Flawed Democracy
+Suriname,2027-01-01,6.782463086735508,forecast,Flawed Democracy
+Suriname,2028-01-01,6.768571225120276,forecast,Flawed Democracy
+Suriname,2029-01-01,6.754717319411095,forecast,Flawed Democracy
+Suriname,2030-01-01,6.740863413701915,forecast,Flawed Democracy
+Sweden,2010-01-01,9.5,historical,Full Democracy
+Sweden,2011-01-01,9.5,historical,Full Democracy
+Sweden,2012-01-01,9.73,historical,Full Democracy
+Sweden,2013-01-01,9.73,historical,Full Democracy
+Sweden,2014-01-01,9.73,historical,Full Democracy
+Sweden,2015-01-01,9.45,historical,Full Democracy
+Sweden,2016-01-01,9.39,historical,Full Democracy
+Sweden,2017-01-01,9.39,historical,Full Democracy
+Sweden,2018-01-01,9.39,historical,Full Democracy
+Sweden,2019-01-01,9.39,historical,Full Democracy
+Sweden,2020-01-01,9.26,historical,Full Democracy
+Sweden,2021-01-01,9.26,historical,Full Democracy
+Sweden,2022-01-01,9.39,historical,Full Democracy
+Sweden,2023-01-01,9.39,historical,Full Democracy
+Sweden,2024-01-01,9.39,historical,Full Democracy
+Sweden,2025-01-01,9.493511941881128,forecast,Full Democracy
+Sweden,2026-01-01,9.532372514759624,forecast,Full Democracy
+Sweden,2027-01-01,9.571233087638124,forecast,Full Democracy
+Sweden,2028-01-01,9.610200127839576,forecast,Full Democracy
+Sweden,2029-01-01,9.649060700718074,forecast,Full Democracy
+Sweden,2030-01-01,9.687921273596574,forecast,Full Democracy
+Switzerland,2010-01-01,9.09,historical,Full Democracy
+Switzerland,2011-01-01,9.09,historical,Full Democracy
+Switzerland,2012-01-01,9.09,historical,Full Democracy
+Switzerland,2013-01-01,9.09,historical,Full Democracy
+Switzerland,2014-01-01,9.09,historical,Full Democracy
+Switzerland,2015-01-01,9.09,historical,Full Democracy
+Switzerland,2016-01-01,9.09,historical,Full Democracy
+Switzerland,2017-01-01,9.03,historical,Full Democracy
+Switzerland,2018-01-01,9.03,historical,Full Democracy
+Switzerland,2019-01-01,9.03,historical,Full Democracy
+Switzerland,2020-01-01,8.83,historical,Full Democracy
+Switzerland,2021-01-01,8.9,historical,Full Democracy
+Switzerland,2022-01-01,9.14,historical,Full Democracy
+Switzerland,2023-01-01,9.14,historical,Full Democracy
+Switzerland,2024-01-01,9.32,historical,Full Democracy
+Switzerland,2025-01-01,9.56502103691777,forecast,Full Democracy
+Switzerland,2026-01-01,9.690741311057156,forecast,Full Democracy
+Switzerland,2027-01-01,9.81646158519654,forecast,Full Democracy
+Switzerland,2028-01-01,9.942526298443159,forecast,Full Democracy
+Switzerland,2029-01-01,10.0,forecast,Full Democracy
+Switzerland,2030-01-01,10.0,forecast,Full Democracy
+Syria,2010-01-01,2.31,historical,Authoritarian
+Syria,2011-01-01,1.99,historical,Authoritarian
+Syria,2012-01-01,1.63,historical,Authoritarian
+Syria,2013-01-01,1.86,historical,Authoritarian
+Syria,2014-01-01,1.74,historical,Authoritarian
+Syria,2015-01-01,1.43,historical,Authoritarian
+Syria,2016-01-01,1.43,historical,Authoritarian
+Syria,2017-01-01,1.43,historical,Authoritarian
+Syria,2018-01-01,1.43,historical,Authoritarian
+Syria,2019-01-01,1.43,historical,Authoritarian
+Syria,2020-01-01,1.43,historical,Authoritarian
+Syria,2021-01-01,1.43,historical,Authoritarian
+Syria,2022-01-01,1.43,historical,Authoritarian
+Syria,2023-01-01,1.43,historical,Authoritarian
+Syria,2024-01-01,1.32,historical,Authoritarian
+Syria,2025-01-01,1.2921150337044365,forecast,Authoritarian
+Syria,2026-01-01,1.2608939293593684,forecast,Authoritarian
+Syria,2027-01-01,1.2296728250143003,forecast,Authoritarian
+Syria,2028-01-01,1.1983661833970538,forecast,Authoritarian
+Syria,2029-01-01,1.1671450790519857,forecast,Authoritarian
+Syria,2030-01-01,1.1359239747069174,forecast,Authoritarian
+Taiwan,2010-01-01,7.52,historical,Flawed Democracy
+Taiwan,2011-01-01,7.46,historical,Flawed Democracy
+Taiwan,2012-01-01,7.57,historical,Flawed Democracy
+Taiwan,2013-01-01,7.57,historical,Flawed Democracy
+Taiwan,2014-01-01,7.65,historical,Flawed Democracy
+Taiwan,2015-01-01,7.83,historical,Flawed Democracy
+Taiwan,2016-01-01,7.79,historical,Flawed Democracy
+Taiwan,2017-01-01,7.73,historical,Flawed Democracy
+Taiwan,2018-01-01,7.73,historical,Flawed Democracy
+Taiwan,2019-01-01,7.73,historical,Flawed Democracy
+Taiwan,2020-01-01,8.94,historical,Full Democracy
+Taiwan,2021-01-01,8.99,historical,Full Democracy
+Taiwan,2022-01-01,8.99,historical,Full Democracy
+Taiwan,2023-01-01,8.92,historical,Full Democracy
+Taiwan,2024-01-01,8.78,historical,Full Democracy
+Taiwan,2025-01-01,8.67551186106406,forecast,Full Democracy
+Taiwan,2026-01-01,8.605658106124956,forecast,Full Democracy
+Taiwan,2027-01-01,8.535804351185853,forecast,Full Democracy
+Taiwan,2028-01-01,8.465759216096231,forecast,Full Democracy
+Taiwan,2029-01-01,8.39590546115713,forecast,Full Democracy
+Taiwan,2030-01-01,8.326051706218024,forecast,Full Democracy
+Tajikistan,2010-01-01,2.51,historical,Authoritarian
+Tajikistan,2011-01-01,2.51,historical,Authoritarian
+Tajikistan,2012-01-01,2.51,historical,Authoritarian
+Tajikistan,2013-01-01,2.51,historical,Authoritarian
+Tajikistan,2014-01-01,2.37,historical,Authoritarian
+Tajikistan,2015-01-01,1.95,historical,Authoritarian
+Tajikistan,2016-01-01,1.89,historical,Authoritarian
+Tajikistan,2017-01-01,1.93,historical,Authoritarian
+Tajikistan,2018-01-01,1.93,historical,Authoritarian
+Tajikistan,2019-01-01,1.93,historical,Authoritarian
+Tajikistan,2020-01-01,1.94,historical,Authoritarian
+Tajikistan,2021-01-01,1.94,historical,Authoritarian
+Tajikistan,2022-01-01,1.94,historical,Authoritarian
+Tajikistan,2023-01-01,1.94,historical,Authoritarian
+Tajikistan,2024-01-01,1.83,historical,Authoritarian
+Tajikistan,2025-01-01,1.8015724927926415,forecast,Authoritarian
+Tajikistan,2026-01-01,1.7701627401745528,forecast,Authoritarian
+Tajikistan,2027-01-01,1.7387529875564642,forecast,Authoritarian
+Tajikistan,2028-01-01,1.707257180821614,forecast,Authoritarian
+Tajikistan,2029-01-01,1.6758474282035252,forecast,Authoritarian
+Tajikistan,2030-01-01,1.6444376755854366,forecast,Authoritarian
+Tanzania,2010-01-01,5.64,historical,Hybrid Regime
+Tanzania,2011-01-01,5.64,historical,Hybrid Regime
+Tanzania,2012-01-01,5.88,historical,Hybrid Regime
+Tanzania,2013-01-01,5.77,historical,Hybrid Regime
+Tanzania,2014-01-01,5.77,historical,Hybrid Regime
+Tanzania,2015-01-01,5.58,historical,Hybrid Regime
+Tanzania,2016-01-01,5.76,historical,Hybrid Regime
+Tanzania,2017-01-01,5.47,historical,Hybrid Regime
+Tanzania,2018-01-01,5.41,historical,Hybrid Regime
+Tanzania,2019-01-01,5.16,historical,Hybrid Regime
+Tanzania,2020-01-01,5.1,historical,Hybrid Regime
+Tanzania,2021-01-01,5.1,historical,Hybrid Regime
+Tanzania,2022-01-01,5.1,historical,Hybrid Regime
+Tanzania,2023-01-01,5.35,historical,Hybrid Regime
+Tanzania,2024-01-01,5.2,historical,Hybrid Regime
+Tanzania,2025-01-01,5.374660616059645,forecast,Hybrid Regime
+Tanzania,2026-01-01,5.428135077228128,forecast,Hybrid Regime
+Tanzania,2027-01-01,5.481609538396612,forecast,Hybrid Regime
+Tanzania,2028-01-01,5.53523050493816,forecast,Hybrid Regime
+Tanzania,2029-01-01,5.5887049661066435,forecast,Hybrid Regime
+Tanzania,2030-01-01,5.642179427275127,forecast,Hybrid Regime
+Thailand,2010-01-01,6.55,historical,Flawed Democracy
+Thailand,2011-01-01,6.55,historical,Flawed Democracy
+Thailand,2012-01-01,6.55,historical,Flawed Democracy
+Thailand,2013-01-01,6.25,historical,Flawed Democracy
+Thailand,2014-01-01,5.39,historical,Hybrid Regime
+Thailand,2015-01-01,5.09,historical,Hybrid Regime
+Thailand,2016-01-01,4.92,historical,Hybrid Regime
+Thailand,2017-01-01,4.63,historical,Hybrid Regime
+Thailand,2018-01-01,4.63,historical,Hybrid Regime
+Thailand,2019-01-01,6.32,historical,Flawed Democracy
+Thailand,2020-01-01,6.04,historical,Flawed Democracy
+Thailand,2021-01-01,6.04,historical,Flawed Democracy
+Thailand,2022-01-01,6.67,historical,Flawed Democracy
+Thailand,2023-01-01,6.35,historical,Flawed Democracy
+Thailand,2024-01-01,6.27,historical,Flawed Democracy
+Thailand,2025-01-01,6.525096808826483,forecast,Flawed Democracy
+Thailand,2026-01-01,6.583778616140705,forecast,Flawed Democracy
+Thailand,2027-01-01,6.642460423454929,forecast,Flawed Democracy
+Thailand,2028-01-01,6.701303002843986,forecast,Flawed Democracy
+Thailand,2029-01-01,6.759984810158208,forecast,Flawed Democracy
+Thailand,2030-01-01,6.818666617472431,forecast,Flawed Democracy
+Togo,2010-01-01,3.45,historical,Authoritarian
+Togo,2011-01-01,3.45,historical,Authoritarian
+Togo,2012-01-01,3.45,historical,Authoritarian
+Togo,2013-01-01,3.45,historical,Authoritarian
+Togo,2014-01-01,3.45,historical,Authoritarian
+Togo,2015-01-01,3.41,historical,Authoritarian
+Togo,2016-01-01,3.32,historical,Authoritarian
+Togo,2017-01-01,3.05,historical,Authoritarian
+Togo,2018-01-01,3.1,historical,Authoritarian
+Togo,2019-01-01,3.3,historical,Authoritarian
+Togo,2020-01-01,2.8,historical,Authoritarian
+Togo,2021-01-01,2.8,historical,Authoritarian
+Togo,2022-01-01,2.99,historical,Authoritarian
+Togo,2023-01-01,2.99,historical,Authoritarian
+Togo,2024-01-01,2.99,historical,Authoritarian
+Togo,2025-01-01,3.1388994244622865,forecast,Authoritarian
+Togo,2026-01-01,3.195013652951153,forecast,Authoritarian
+Togo,2027-01-01,3.2511278814400204,forecast,Authoritarian
+Togo,2028-01-01,3.3073958475411858,forecast,Authoritarian
+Togo,2029-01-01,3.363510076030053,forecast,Authoritarian
+Togo,2030-01-01,3.41962430451892,forecast,Authoritarian
+Trinidad and Tobago,2010-01-01,7.16,historical,Flawed Democracy
+Trinidad and Tobago,2011-01-01,7.16,historical,Flawed Democracy
+Trinidad and Tobago,2012-01-01,6.99,historical,Flawed Democracy
+Trinidad and Tobago,2013-01-01,6.99,historical,Flawed Democracy
+Trinidad and Tobago,2014-01-01,6.99,historical,Flawed Democracy
+Trinidad and Tobago,2015-01-01,7.1,historical,Flawed Democracy
+Trinidad and Tobago,2016-01-01,7.1,historical,Flawed Democracy
+Trinidad and Tobago,2017-01-01,7.04,historical,Flawed Democracy
+Trinidad and Tobago,2018-01-01,7.16,historical,Flawed Democracy
+Trinidad and Tobago,2019-01-01,7.16,historical,Flawed Democracy
+Trinidad and Tobago,2020-01-01,7.16,historical,Flawed Democracy
+Trinidad and Tobago,2021-01-01,7.16,historical,Flawed Democracy
+Trinidad and Tobago,2022-01-01,7.16,historical,Flawed Democracy
+Trinidad and Tobago,2023-01-01,7.16,historical,Flawed Democracy
+Trinidad and Tobago,2024-01-01,7.09,historical,Flawed Democracy
+Trinidad and Tobago,2025-01-01,7.069629332491042,forecast,Flawed Democracy
+Trinidad and Tobago,2026-01-01,7.048848083648558,forecast,Flawed Democracy
+Trinidad and Tobago,2027-01-01,7.028066834806074,forecast,Flawed Democracy
+Trinidad and Tobago,2028-01-01,7.007228651035254,forecast,Flawed Democracy
+Trinidad and Tobago,2029-01-01,6.986447402192771,forecast,Flawed Democracy
+Trinidad and Tobago,2030-01-01,6.965666153350287,forecast,Flawed Democracy
+Tunisia,2010-01-01,2.79,historical,Authoritarian
+Tunisia,2011-01-01,5.53,historical,Hybrid Regime
+Tunisia,2012-01-01,5.67,historical,Hybrid Regime
+Tunisia,2013-01-01,5.76,historical,Hybrid Regime
+Tunisia,2014-01-01,6.31,historical,Flawed Democracy
+Tunisia,2015-01-01,6.72,historical,Flawed Democracy
+Tunisia,2016-01-01,6.4,historical,Flawed Democracy
+Tunisia,2017-01-01,6.32,historical,Flawed Democracy
+Tunisia,2018-01-01,6.41,historical,Flawed Democracy
+Tunisia,2019-01-01,6.72,historical,Flawed Democracy
+Tunisia,2020-01-01,6.59,historical,Flawed Democracy
+Tunisia,2021-01-01,5.99,historical,Hybrid Regime
+Tunisia,2022-01-01,5.51,historical,Hybrid Regime
+Tunisia,2023-01-01,5.51,historical,Hybrid Regime
+Tunisia,2024-01-01,4.71,historical,Hybrid Regime
+Tunisia,2025-01-01,4.02140792865431,forecast,Hybrid Regime
+Tunisia,2026-01-01,3.6149447744164167,forecast,Authoritarian
+Tunisia,2027-01-01,3.2084816201785227,forecast,Authoritarian
+Tunisia,2028-01-01,2.8009048682577857,forecast,Authoritarian
+Tunisia,2029-01-01,2.3944417140198935,forecast,Authoritarian
+Tunisia,2030-01-01,1.9879785597819994,forecast,Authoritarian
+Turkey,2010-01-01,5.73,historical,Hybrid Regime
+Turkey,2011-01-01,5.73,historical,Hybrid Regime
+Turkey,2012-01-01,5.76,historical,Hybrid Regime
+Turkey,2013-01-01,5.63,historical,Hybrid Regime
+Turkey,2014-01-01,5.12,historical,Hybrid Regime
+Turkey,2015-01-01,5.12,historical,Hybrid Regime
+Turkey,2016-01-01,5.04,historical,Hybrid Regime
+Turkey,2017-01-01,4.88,historical,Hybrid Regime
+Turkey,2018-01-01,4.37,historical,Hybrid Regime
+Turkey,2019-01-01,4.09,historical,Hybrid Regime
+Turkey,2020-01-01,4.48,historical,Hybrid Regime
+Turkey,2021-01-01,4.35,historical,Hybrid Regime
+Turkey,2022-01-01,4.35,historical,Hybrid Regime
+Turkey,2023-01-01,4.33,historical,Hybrid Regime
+Turkey,2024-01-01,4.26,historical,Hybrid Regime
+Turkey,2025-01-01,4.220321387667089,forecast,Hybrid Regime
+Turkey,2026-01-01,4.191085301136348,forecast,Hybrid Regime
+Turkey,2027-01-01,4.161849214605606,forecast,Hybrid Regime
+Turkey,2028-01-01,4.132533029207658,forecast,Hybrid Regime
+Turkey,2029-01-01,4.103296942676916,forecast,Hybrid Regime
+Turkey,2030-01-01,4.0740608561461755,forecast,Hybrid Regime
+Turkmenistan,2010-01-01,1.72,historical,Authoritarian
+Turkmenistan,2011-01-01,1.72,historical,Authoritarian
+Turkmenistan,2012-01-01,1.72,historical,Authoritarian
+Turkmenistan,2013-01-01,1.72,historical,Authoritarian
+Turkmenistan,2014-01-01,1.83,historical,Authoritarian
+Turkmenistan,2015-01-01,1.83,historical,Authoritarian
+Turkmenistan,2016-01-01,1.83,historical,Authoritarian
+Turkmenistan,2017-01-01,1.72,historical,Authoritarian
+Turkmenistan,2018-01-01,1.72,historical,Authoritarian
+Turkmenistan,2019-01-01,1.72,historical,Authoritarian
+Turkmenistan,2020-01-01,1.72,historical,Authoritarian
+Turkmenistan,2021-01-01,1.66,historical,Authoritarian
+Turkmenistan,2022-01-01,1.66,historical,Authoritarian
+Turkmenistan,2023-01-01,1.66,historical,Authoritarian
+Turkmenistan,2024-01-01,1.66,historical,Authoritarian
+Turkmenistan,2025-01-01,1.6599999983774014,forecast,Authoritarian
+Turkmenistan,2026-01-01,1.6599999983774005,forecast,Authoritarian
+Turkmenistan,2027-01-01,1.6599999983773996,forecast,Authoritarian
+Turkmenistan,2028-01-01,1.6599999983773992,forecast,Authoritarian
+Turkmenistan,2029-01-01,1.6599999983773983,forecast,Authoritarian
+Turkmenistan,2030-01-01,1.6599999983773974,forecast,Authoritarian
+Uganda,2010-01-01,5.05,historical,Hybrid Regime
+Uganda,2011-01-01,5.13,historical,Hybrid Regime
+Uganda,2012-01-01,5.16,historical,Hybrid Regime
+Uganda,2013-01-01,5.22,historical,Hybrid Regime
+Uganda,2014-01-01,5.22,historical,Hybrid Regime
+Uganda,2015-01-01,5.22,historical,Hybrid Regime
+Uganda,2016-01-01,5.26,historical,Hybrid Regime
+Uganda,2017-01-01,5.09,historical,Hybrid Regime
+Uganda,2018-01-01,5.2,historical,Hybrid Regime
+Uganda,2019-01-01,5.02,historical,Hybrid Regime
+Uganda,2020-01-01,4.94,historical,Hybrid Regime
+Uganda,2021-01-01,4.48,historical,Hybrid Regime
+Uganda,2022-01-01,4.55,historical,Hybrid Regime
+Uganda,2023-01-01,4.49,historical,Hybrid Regime
+Uganda,2024-01-01,4.49,historical,Hybrid Regime
+Uganda,2025-01-01,4.490189814546518,forecast,Hybrid Regime
+Uganda,2026-01-01,4.486560241286336,forecast,Hybrid Regime
+Uganda,2027-01-01,4.482930668026155,forecast,Hybrid Regime
+Uganda,2028-01-01,4.479291150729643,forecast,Hybrid Regime
+Uganda,2029-01-01,4.475661577469461,forecast,Hybrid Regime
+Uganda,2030-01-01,4.47203200420928,forecast,Hybrid Regime
+Ukraine,2010-01-01,6.3,historical,Flawed Democracy
+Ukraine,2011-01-01,5.94,historical,Hybrid Regime
+Ukraine,2012-01-01,5.91,historical,Hybrid Regime
+Ukraine,2013-01-01,5.84,historical,Hybrid Regime
+Ukraine,2014-01-01,5.42,historical,Hybrid Regime
+Ukraine,2015-01-01,5.7,historical,Hybrid Regime
+Ukraine,2016-01-01,5.7,historical,Hybrid Regime
+Ukraine,2017-01-01,5.69,historical,Hybrid Regime
+Ukraine,2018-01-01,5.69,historical,Hybrid Regime
+Ukraine,2019-01-01,5.9,historical,Hybrid Regime
+Ukraine,2020-01-01,5.81,historical,Hybrid Regime
+Ukraine,2021-01-01,5.57,historical,Hybrid Regime
+Ukraine,2022-01-01,5.42,historical,Hybrid Regime
+Ukraine,2023-01-01,5.06,historical,Hybrid Regime
+Ukraine,2024-01-01,4.9,historical,Hybrid Regime
+Ukraine,2025-01-01,4.409276814081919,forecast,Hybrid Regime
+Ukraine,2026-01-01,4.1726415533775105,forecast,Hybrid Regime
+Ukraine,2027-01-01,3.9360062926731,forecast,Authoritarian
+Ukraine,2028-01-01,3.6987227161859373,forecast,Authoritarian
+Ukraine,2029-01-01,3.462087455481527,forecast,Authoritarian
+Ukraine,2030-01-01,3.2254521947771164,forecast,Authoritarian
+United Arab Emirates,2010-01-01,2.52,historical,Authoritarian
+United Arab Emirates,2011-01-01,2.58,historical,Authoritarian
+United Arab Emirates,2012-01-01,2.58,historical,Authoritarian
+United Arab Emirates,2013-01-01,2.52,historical,Authoritarian
+United Arab Emirates,2014-01-01,2.64,historical,Authoritarian
+United Arab Emirates,2015-01-01,2.75,historical,Authoritarian
+United Arab Emirates,2016-01-01,2.75,historical,Authoritarian
+United Arab Emirates,2017-01-01,2.69,historical,Authoritarian
+United Arab Emirates,2018-01-01,2.76,historical,Authoritarian
+United Arab Emirates,2019-01-01,2.76,historical,Authoritarian
+United Arab Emirates,2020-01-01,2.7,historical,Authoritarian
+United Arab Emirates,2021-01-01,2.9,historical,Authoritarian
+United Arab Emirates,2022-01-01,2.9,historical,Authoritarian
+United Arab Emirates,2023-01-01,3.01,historical,Authoritarian
+United Arab Emirates,2024-01-01,3.07,historical,Authoritarian
+United Arab Emirates,2025-01-01,3.1892453900607993,forecast,Authoritarian
+United Arab Emirates,2026-01-01,3.2520261062912397,forecast,Authoritarian
+United Arab Emirates,2027-01-01,3.314806822521681,forecast,Authoritarian
+United Arab Emirates,2028-01-01,3.3777595407143974,forecast,Authoritarian
+United Arab Emirates,2029-01-01,3.4405402569448382,forecast,Authoritarian
+United Arab Emirates,2030-01-01,3.5033209731752795,forecast,Authoritarian
+United Kingdom,2010-01-01,8.16,historical,Full Democracy
+United Kingdom,2011-01-01,8.16,historical,Full Democracy
+United Kingdom,2012-01-01,8.21,historical,Full Democracy
+United Kingdom,2013-01-01,8.31,historical,Full Democracy
+United Kingdom,2014-01-01,8.31,historical,Full Democracy
+United Kingdom,2015-01-01,8.31,historical,Full Democracy
+United Kingdom,2016-01-01,8.36,historical,Full Democracy
+United Kingdom,2017-01-01,8.53,historical,Full Democracy
+United Kingdom,2018-01-01,8.53,historical,Full Democracy
+United Kingdom,2019-01-01,8.52,historical,Full Democracy
+United Kingdom,2020-01-01,8.54,historical,Full Democracy
+United Kingdom,2021-01-01,8.1,historical,Full Democracy
+United Kingdom,2022-01-01,8.28,historical,Full Democracy
+United Kingdom,2023-01-01,8.28,historical,Full Democracy
+United Kingdom,2024-01-01,8.34,historical,Full Democracy
+United Kingdom,2025-01-01,8.499652848261068,forecast,Full Democracy
+United Kingdom,2026-01-01,8.570836604120101,forecast,Full Democracy
+United Kingdom,2027-01-01,8.642020359979139,forecast,Full Democracy
+United Kingdom,2028-01-01,8.713399139826826,forecast,Full Democracy
+United Kingdom,2029-01-01,8.784582895685862,forecast,Full Democracy
+United Kingdom,2030-01-01,8.855766651544897,forecast,Full Democracy
+United States,2010-01-01,8.18,historical,Full Democracy
+United States,2011-01-01,8.11,historical,Full Democracy
+United States,2012-01-01,8.11,historical,Full Democracy
+United States,2013-01-01,8.11,historical,Full Democracy
+United States,2014-01-01,8.11,historical,Full Democracy
+United States,2015-01-01,8.05,historical,Full Democracy
+United States,2016-01-01,7.98,historical,Flawed Democracy
+United States,2017-01-01,7.98,historical,Flawed Democracy
+United States,2018-01-01,7.96,historical,Flawed Democracy
+United States,2019-01-01,7.96,historical,Flawed Democracy
+United States,2020-01-01,7.92,historical,Flawed Democracy
+United States,2021-01-01,7.85,historical,Flawed Democracy
+United States,2022-01-01,7.85,historical,Flawed Democracy
+United States,2023-01-01,7.85,historical,Flawed Democracy
+United States,2024-01-01,7.85,historical,Flawed Democracy
+United States,2025-01-01,7.850000052564673,forecast,Flawed Democracy
+United States,2026-01-01,7.850000057820157,forecast,Flawed Democracy
+United States,2027-01-01,7.850000063075642,forecast,Flawed Democracy
+United States,2028-01-01,7.850000068345525,forecast,Flawed Democracy
+United States,2029-01-01,7.85000007360101,forecast,Flawed Democracy
+United States,2030-01-01,7.850000078856495,forecast,Flawed Democracy
+Uruguay,2010-01-01,8.1,historical,Full Democracy
+Uruguay,2011-01-01,8.17,historical,Full Democracy
+Uruguay,2012-01-01,8.17,historical,Full Democracy
+Uruguay,2013-01-01,8.17,historical,Full Democracy
+Uruguay,2014-01-01,8.17,historical,Full Democracy
+Uruguay,2015-01-01,8.17,historical,Full Democracy
+Uruguay,2016-01-01,8.17,historical,Full Democracy
+Uruguay,2017-01-01,8.12,historical,Full Democracy
+Uruguay,2018-01-01,8.38,historical,Full Democracy
+Uruguay,2019-01-01,8.38,historical,Full Democracy
+Uruguay,2020-01-01,8.61,historical,Full Democracy
+Uruguay,2021-01-01,8.85,historical,Full Democracy
+Uruguay,2022-01-01,8.91,historical,Full Democracy
+Uruguay,2023-01-01,8.66,historical,Full Democracy
+Uruguay,2024-01-01,8.67,historical,Full Democracy
+Uruguay,2025-01-01,8.501912967644795,forecast,Full Democracy
+Uruguay,2026-01-01,8.424969339118318,forecast,Full Democracy
+Uruguay,2027-01-01,8.348025710591841,forecast,Full Democracy
+Uruguay,2028-01-01,8.270871277603648,forecast,Full Democracy
+Uruguay,2029-01-01,8.193927649077171,forecast,Full Democracy
+Uruguay,2030-01-01,8.116984020550694,forecast,Full Democracy
+Uzbekistan,2010-01-01,1.74,historical,Authoritarian
+Uzbekistan,2011-01-01,1.74,historical,Authoritarian
+Uzbekistan,2012-01-01,1.72,historical,Authoritarian
+Uzbekistan,2013-01-01,1.72,historical,Authoritarian
+Uzbekistan,2014-01-01,2.45,historical,Authoritarian
+Uzbekistan,2015-01-01,1.95,historical,Authoritarian
+Uzbekistan,2016-01-01,1.95,historical,Authoritarian
+Uzbekistan,2017-01-01,1.95,historical,Authoritarian
+Uzbekistan,2018-01-01,2.01,historical,Authoritarian
+Uzbekistan,2019-01-01,2.01,historical,Authoritarian
+Uzbekistan,2020-01-01,2.12,historical,Authoritarian
+Uzbekistan,2021-01-01,2.12,historical,Authoritarian
+Uzbekistan,2022-01-01,2.12,historical,Authoritarian
+Uzbekistan,2023-01-01,2.12,historical,Authoritarian
+Uzbekistan,2024-01-01,2.1,historical,Authoritarian
+Uzbekistan,2025-01-01,2.0940457428659887,forecast,Authoritarian
+Uzbekistan,2026-01-01,2.0880588366912036,forecast,Authoritarian
+Uzbekistan,2027-01-01,2.082071930516419,forecast,Authoritarian
+Uzbekistan,2028-01-01,2.0760686218589637,forecast,Authoritarian
+Uzbekistan,2029-01-01,2.0700817156841786,forecast,Authoritarian
+Uzbekistan,2030-01-01,2.064094809509394,forecast,Authoritarian
+Venezuela,2010-01-01,5.18,historical,Hybrid Regime
+Venezuela,2011-01-01,5.08,historical,Hybrid Regime
+Venezuela,2012-01-01,5.15,historical,Hybrid Regime
+Venezuela,2013-01-01,5.07,historical,Hybrid Regime
+Venezuela,2014-01-01,5.07,historical,Hybrid Regime
+Venezuela,2015-01-01,5.0,historical,Hybrid Regime
+Venezuela,2016-01-01,4.68,historical,Hybrid Regime
+Venezuela,2017-01-01,3.87,historical,Authoritarian
+Venezuela,2018-01-01,3.16,historical,Authoritarian
+Venezuela,2019-01-01,2.88,historical,Authoritarian
+Venezuela,2020-01-01,2.76,historical,Authoritarian
+Venezuela,2021-01-01,2.11,historical,Authoritarian
+Venezuela,2022-01-01,2.23,historical,Authoritarian
+Venezuela,2023-01-01,2.31,historical,Authoritarian
+Venezuela,2024-01-01,2.25,historical,Authoritarian
+Venezuela,2025-01-01,2.3946666971072186,forecast,Authoritarian
+Venezuela,2026-01-01,2.4428119507919437,forecast,Authoritarian
+Venezuela,2027-01-01,2.4909572044766692,forecast,Authoritarian
+Venezuela,2028-01-01,2.53923436296601,forecast,Authoritarian
+Venezuela,2029-01-01,2.5873796166507357,forecast,Authoritarian
+Venezuela,2030-01-01,2.635524870335461,forecast,Authoritarian
+Vietnam,2010-01-01,2.94,historical,Authoritarian
+Vietnam,2011-01-01,2.96,historical,Authoritarian
+Vietnam,2012-01-01,2.89,historical,Authoritarian
+Vietnam,2013-01-01,3.29,historical,Authoritarian
+Vietnam,2014-01-01,3.41,historical,Authoritarian
+Vietnam,2015-01-01,3.53,historical,Authoritarian
+Vietnam,2016-01-01,3.38,historical,Authoritarian
+Vietnam,2017-01-01,3.08,historical,Authoritarian
+Vietnam,2018-01-01,3.08,historical,Authoritarian
+Vietnam,2019-01-01,3.08,historical,Authoritarian
+Vietnam,2020-01-01,2.94,historical,Authoritarian
+Vietnam,2021-01-01,2.94,historical,Authoritarian
+Vietnam,2022-01-01,2.73,historical,Authoritarian
+Vietnam,2023-01-01,2.62,historical,Authoritarian
+Vietnam,2024-01-01,2.62,historical,Authoritarian
+Vietnam,2025-01-01,2.3640053468335025,forecast,Authoritarian
+Vietnam,2026-01-01,2.2608327491432276,forecast,Authoritarian
+Vietnam,2027-01-01,2.1576601514529523,forecast,Authoritarian
+Vietnam,2028-01-01,2.0542048891114715,forecast,Authoritarian
+Vietnam,2029-01-01,1.9510322914211966,forecast,Authoritarian
+Vietnam,2030-01-01,1.847859693730922,forecast,Authoritarian
+Yemen,2010-01-01,2.64,historical,Authoritarian
+Yemen,2011-01-01,2.57,historical,Authoritarian
+Yemen,2012-01-01,3.12,historical,Authoritarian
+Yemen,2013-01-01,2.79,historical,Authoritarian
+Yemen,2014-01-01,2.79,historical,Authoritarian
+Yemen,2015-01-01,2.24,historical,Authoritarian
+Yemen,2016-01-01,2.07,historical,Authoritarian
+Yemen,2017-01-01,2.07,historical,Authoritarian
+Yemen,2018-01-01,1.95,historical,Authoritarian
+Yemen,2019-01-01,1.95,historical,Authoritarian
+Yemen,2020-01-01,1.95,historical,Authoritarian
+Yemen,2021-01-01,1.95,historical,Authoritarian
+Yemen,2022-01-01,1.95,historical,Authoritarian
+Yemen,2023-01-01,1.95,historical,Authoritarian
+Yemen,2024-01-01,1.95,historical,Authoritarian
+Yemen,2025-01-01,1.950000229524112,forecast,Authoritarian
+Yemen,2026-01-01,1.950000247342222,forecast,Authoritarian
+Yemen,2027-01-01,1.9500002651603323,forecast,Authoritarian
+Yemen,2028-01-01,1.9500002830272591,forecast,Authoritarian
+Yemen,2029-01-01,1.9500003008453697,forecast,Authoritarian
+Yemen,2030-01-01,1.9500003186634798,forecast,Authoritarian
+Zambia,2010-01-01,5.68,historical,Hybrid Regime
+Zambia,2011-01-01,6.19,historical,Flawed Democracy
+Zambia,2012-01-01,6.26,historical,Flawed Democracy
+Zambia,2013-01-01,6.26,historical,Flawed Democracy
+Zambia,2014-01-01,6.39,historical,Flawed Democracy
+Zambia,2015-01-01,6.28,historical,Flawed Democracy
+Zambia,2016-01-01,5.99,historical,Hybrid Regime
+Zambia,2017-01-01,5.68,historical,Hybrid Regime
+Zambia,2018-01-01,5.61,historical,Hybrid Regime
+Zambia,2019-01-01,5.09,historical,Hybrid Regime
+Zambia,2020-01-01,4.86,historical,Hybrid Regime
+Zambia,2021-01-01,5.72,historical,Hybrid Regime
+Zambia,2022-01-01,5.8,historical,Hybrid Regime
+Zambia,2023-01-01,5.8,historical,Hybrid Regime
+Zambia,2024-01-01,5.73,historical,Hybrid Regime
+Zambia,2025-01-01,5.775751255867533,forecast,Hybrid Regime
+Zambia,2026-01-01,5.779707992076852,forecast,Hybrid Regime
+Zambia,2027-01-01,5.783664728286171,forecast,Hybrid Regime
+Zambia,2028-01-01,5.787632304868667,forecast,Hybrid Regime
+Zambia,2029-01-01,5.7915890410779856,forecast,Hybrid Regime
+Zambia,2030-01-01,5.795545777287306,forecast,Hybrid Regime
+Zimbabwe,2010-01-01,2.64,historical,Authoritarian
+Zimbabwe,2011-01-01,2.68,historical,Authoritarian
+Zimbabwe,2012-01-01,2.67,historical,Authoritarian
+Zimbabwe,2013-01-01,2.67,historical,Authoritarian
+Zimbabwe,2014-01-01,2.78,historical,Authoritarian
+Zimbabwe,2015-01-01,3.05,historical,Authoritarian
+Zimbabwe,2016-01-01,3.05,historical,Authoritarian
+Zimbabwe,2017-01-01,3.16,historical,Authoritarian
+Zimbabwe,2018-01-01,3.16,historical,Authoritarian
+Zimbabwe,2019-01-01,3.16,historical,Authoritarian
+Zimbabwe,2020-01-01,3.16,historical,Authoritarian
+Zimbabwe,2021-01-01,2.92,historical,Authoritarian
+Zimbabwe,2022-01-01,2.92,historical,Authoritarian
+Zimbabwe,2023-01-01,3.04,historical,Authoritarian
+Zimbabwe,2024-01-01,2.98,historical,Authoritarian
+Zimbabwe,2025-01-01,3.0644312538918044,forecast,Authoritarian
+Zimbabwe,2026-01-01,3.0924946045347608,forecast,Authoritarian
+Zimbabwe,2027-01-01,3.1205579551777176,forecast,Authoritarian
+Zimbabwe,2028-01-01,3.148698191712847,forecast,Authoritarian
+Zimbabwe,2029-01-01,3.1767615423558038,forecast,Authoritarian
+Zimbabwe,2030-01-01,3.2048248929987606,forecast,Authoritarian
