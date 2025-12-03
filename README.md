@@ -151,8 +151,7 @@ Overall, the visualization achieved its objective of enabling comparative and te
 
 
 ## Links
-- **Interactive Tableau Visualizations:** [View on Tableau Public](https://public.tableau.com/app/profile/mutsa.mungoshi/vizzes)  
-- **Hosted Version:** [GitHub Pages — Democracy Index Visualization](https://thooms-coder.github.io/Democracy_Index/)  
+- **Interactive Tableau Visualizations:** [View on Tableau Public](https://public.tableau.com/app/profile/mutsa.mungoshi/vizzes)   
 
 ---
 
