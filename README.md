@@ -7,9 +7,6 @@
 ## Project Overview
 This project presents an interactive Tableau visualization that examines global democracy patterns from 2010 to 2030. The visualization incorporates both historical democracy index values and forecasted trajectories. The design follows the IA 640 workflow of data abstraction, encoding decisions, idiom selection, and evaluation to effectively communicate spatial and temporal variation in democratic governance.
 
-**Live Visualization:**  
-[View on GitHub Pages](https://thooms-coder.github.io/Democracy_Index/)
-
 ## Dashboard Previews
 
 ### Dashboard 1
@@ -154,7 +151,7 @@ Overall, the visualization achieved its objective of enabling comparative and te
 
 
 ## Links
-- **Interactive Tableau Visualization:** [View on Tableau Public](https://public.tableau.com/views/Project1_17446726355310/Sheet1)  
+- **Interactive Tableau Visualizations:** [View on Tableau Public](https://public.tableau.com/app/profile/mutsa.mungoshi/vizzes)  
 - **Hosted Version:** [GitHub Pages — Democracy Index Visualization](https://thooms-coder.github.io/Democracy_Index/)  
 
 ---
