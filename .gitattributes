@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
+# Default text handling
 * text=auto
+
+# Ignore Jupyter Notebooks in language stats
+*.ipynb linguist-vendored
+
+# Ignore HTML/CSS (for your web apps)
+*.html linguist-vendored
+*.css linguist-vendored
